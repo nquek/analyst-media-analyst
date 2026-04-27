@@ -33,7 +33,17 @@ def _make_conn_mock():
     return conn, cursor
 
 
-def test_main_calls_edgar_url():
+def _set_snowflake_env(monkeypatch):
+    monkeypatch.setenv("SNOWFLAKE_ACCOUNT", "test_account")
+    monkeypatch.setenv("SNOWFLAKE_USER", "test_user")
+    monkeypatch.setenv("SNOWFLAKE_PASSWORD", "test_password")
+    monkeypatch.setenv("SNOWFLAKE_DATABASE", "test_database")
+    monkeypatch.setenv("SNOWFLAKE_WAREHOUSE", "test_warehouse")
+    monkeypatch.setenv("SNOWFLAKE_ROLE", "test_role")
+
+
+def test_main_calls_edgar_url(monkeypatch):
+    _set_snowflake_env(monkeypatch)
     mock_resp = MagicMock()
     mock_resp.json.return_value = SAMPLE_JSON
     mock_resp.raise_for_status = MagicMock()
@@ -47,7 +57,8 @@ def test_main_calls_edgar_url():
     assert "CIK0000039911" in url
 
 
-def test_main_writes_to_snowflake():
+def test_main_writes_to_snowflake(monkeypatch):
+    _set_snowflake_env(monkeypatch)
     mock_resp = MagicMock()
     mock_resp.json.return_value = SAMPLE_JSON
     mock_resp.raise_for_status = MagicMock()
@@ -62,7 +73,8 @@ def test_main_writes_to_snowflake():
     assert any("gap_financials_raw" in sql for sql in all_sql)
 
 
-def test_main_closes_connection_on_error():
+def test_main_closes_connection_on_error(monkeypatch):
+    _set_snowflake_env(monkeypatch)
     mock_resp = MagicMock()
     mock_resp.json.return_value = SAMPLE_JSON
     mock_resp.raise_for_status = MagicMock()

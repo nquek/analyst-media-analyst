@@ -19,12 +19,12 @@ def main() -> None:
     print(f"Extracted {len(rows)} revenue fact rows.")
 
     conn = snowflake.connector.connect(
-        account=os.environ.get("SNOWFLAKE_ACCOUNT", ""),
-        user=os.environ.get("SNOWFLAKE_USER", ""),
-        password=os.environ.get("SNOWFLAKE_PASSWORD", ""),
-        database=os.environ.get("SNOWFLAKE_DATABASE", ""),
-        warehouse=os.environ.get("SNOWFLAKE_WAREHOUSE", ""),
-        role=os.environ.get("SNOWFLAKE_ROLE", ""),
+        account=os.environ["SNOWFLAKE_ACCOUNT"],
+        user=os.environ["SNOWFLAKE_USER"],
+        password=os.environ["SNOWFLAKE_PASSWORD"],
+        database=os.environ["SNOWFLAKE_DATABASE"],
+        warehouse=os.environ["SNOWFLAKE_WAREHOUSE"],
+        role=os.environ["SNOWFLAKE_ROLE"],
         schema="raw",
     )
     try:
