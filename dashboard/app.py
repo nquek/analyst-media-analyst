@@ -117,29 +117,86 @@ def scatter_with_trendline(df_tr: pd.DataFrame, df_rev: pd.DataFrame) -> alt.Lay
 st.title("Gap Inc. Brand Analytics")
 st.caption("Search interest (Google Trends) · Revenue performance (SEC EDGAR) · Gap brands vs. competitors")
 
-tab1, tab2, tab3 = st.tabs(["Brand Comparison", "Seasonality & Retail Moments", "Revenue vs. Search"])
+BRAND_COLORS = {
+    # Gap Inc. brands — greens and blues
+    "Old Navy":        "#1565C0",
+    "Gap":             "#2E7D32",
+    "Banana Republic": "#00695C",
+    "Athleta":         "#0288D1",
+    # Competitors — reds, oranges, pinks
+    "H&M":             "#C62828",
+    "Zara":            "#E65100",
+    "J.Crew":          "#AD1457",
+    "Levi's":          "#FF6F00",
+}
 
-# ── Tab 1: Brand Comparison ───────────────────────────────────────────────────
+tab1, tab2, tab3 = st.tabs(["Search Interest by Brand", "Seasonality & Retail Moments", "Revenue vs. Search"])
+
+# ── Tab 1: Search Interest by Brand ──────────────────────────────────────────
 with tab1:
-    st.subheader("Weekly Search Interest by Brand")
     df = load_search_trends()
-    brands = sorted(df["brand_term"].unique())
-    selected = st.multiselect("Select brands to display", brands, default=brands)
-    filtered = df[df["brand_term"].isin(selected)]
-    pivot = filtered.pivot_table(index="week_date", columns="brand_term", values="interest_score")
-    st.line_chart(pivot)
-    st.caption("Score: 0–100 relative to each brand's own peak. Not comparable across brands.")
+    all_brands = sorted(df["brand_term"].unique())
 
-    # Summary table
-    if not filtered.empty:
-        summary = (
-            filtered.groupby("brand_term")["interest_score"]
-            .agg(Peak="max", Average="mean", Latest="last")
-            .round(1)
-            .sort_values("Average", ascending=False)
+    ctrl_col, chart_col = st.columns([1, 3])
+
+    with ctrl_col:
+        st.markdown("### Filters")
+        selected = st.multiselect("Brands", all_brands, default=all_brands)
+        st.markdown("---")
+        st.markdown("**Color key**")
+        st.markdown(
+            "<span style='color:#1565C0'>■</span> Old Navy &nbsp;"
+            "<span style='color:#2E7D32'>■</span> Gap<br>"
+            "<span style='color:#00695C'>■</span> Banana Republic &nbsp;"
+            "<span style='color:#0288D1'>■</span> Athleta",
+            unsafe_allow_html=True,
         )
-        st.markdown("**5-Year Summary**")
-        st.dataframe(summary, use_container_width=True)
+        st.caption("Gap Inc. brands")
+        st.markdown(
+            "<span style='color:#C62828'>■</span> H&M &nbsp;"
+            "<span style='color:#E65100'>■</span> Zara<br>"
+            "<span style='color:#AD1457'>■</span> J.Crew &nbsp;"
+            "<span style='color:#FF6F00'>■</span> Levi's",
+            unsafe_allow_html=True,
+        )
+        st.caption("Competitors")
+
+    with chart_col:
+        st.subheader("Weekly Search Interest by Brand")
+        filtered = df[df["brand_term"].isin(selected)]
+
+        color_scale = alt.Scale(
+            domain=list(BRAND_COLORS.keys()),
+            range=list(BRAND_COLORS.values()),
+        )
+        chart = (
+            alt.Chart(filtered)
+            .mark_line()
+            .encode(
+                x=alt.X("week_date:T", title="Week"),
+                y=alt.Y("interest_score:Q", title="Search Interest (0–100)", scale=alt.Scale(domain=[0, 100])),
+                color=alt.Color("brand_term:N", scale=color_scale, legend=alt.Legend(title="Brand")),
+                tooltip=[
+                    alt.Tooltip("week_date:T", title="Week"),
+                    alt.Tooltip("brand_term:N", title="Brand"),
+                    alt.Tooltip("interest_score:Q", title="Interest"),
+                ],
+            )
+            .properties(height=400)
+            .interactive()
+        )
+        st.altair_chart(chart, use_container_width=True)
+        st.caption("Score: 0–100 relative to each brand's own peak. Not comparable across brands.")
+
+        if not filtered.empty:
+            summary = (
+                filtered.groupby("brand_term")["interest_score"]
+                .agg(Peak="max", Average="mean", Latest="last")
+                .round(1)
+                .sort_values("Average", ascending=False)
+            )
+            st.markdown("**5-Year Summary**")
+            st.dataframe(summary, use_container_width=True)
 
 # ── Tab 2: Seasonality & Retail Moments ──────────────────────────────────────
 with tab2:
