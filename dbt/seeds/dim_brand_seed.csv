@@ -1,0 +1,9 @@
+brand_id,brand_term,brand_name,brand_type,parent_company
+1,Old Navy,Old Navy,gap_brand,Gap Inc.
+2,Gap,Gap,gap_brand,Gap Inc.
+3,Banana Republic,Banana Republic,gap_brand,Gap Inc.
+4,Athleta,Athleta,gap_brand,Gap Inc.
+5,H&M,H&M,competitor,H&M Group
+6,Zara,Zara,competitor,Inditex
+7,J.Crew,J.Crew,competitor,J.Crew Group
+8,Levi's,Levi's,competitor,Levi Strauss & Co.
