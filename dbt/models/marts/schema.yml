@@ -22,6 +22,8 @@ models:
   - name: fact_search_trends
     description: "Weekly Google Trends interest scores by brand"
     columns:
+      - name: brand_key
+        tests: [not_null]
       - name: interest_score
         tests: [not_null]
 

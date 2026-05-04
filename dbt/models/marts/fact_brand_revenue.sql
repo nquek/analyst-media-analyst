@@ -4,7 +4,7 @@ with financials as (
 base as (
     select
         quarter_date as date_key,
-        2            as brand_key,
+        2            as brand_key,  -- Gap Inc. total revenue; EDGAR has no brand-segment breakdown
         net_sales_usd,
         fiscal_year,
         fiscal_quarter
