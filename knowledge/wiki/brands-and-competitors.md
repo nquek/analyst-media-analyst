@@ -2,22 +2,6 @@
 
 ## Gap Inc. Brand Portfolio
 
-### Old Navy
-
-**Positioning:** Value-oriented family apparel targeting budget-conscious shoppers with a fun, accessible aesthetic. It is the largest brand in the Gap Inc. portfolio, making it one of the two largest specialty apparel retailers in North America by revenue.
-
-**FY2024 Performance:**
-- Full-year net sales: $8.4 billion (+2% YoY); comparable sales +3%
-- Q1: $1.9B (+5% net sales, +3% comps); Q2: $2.1B (+8% net sales, +5% comps)
-- Q4: $2.2B (-3% net sales due to 53rd-week calendar shift, +3% comps)
-- Winning categories include active and denim, with innovation cited as a driver of market share gains
-
-**Foot traffic (Placer.ai, 2024):** Old Navy outperformed the overall apparel segment (excluding off-price and department stores) in Q1 2024, with visits up 4.2% YoY. Q4 visits declined only 2.4%, beating the industry's 3.3% YoY dip. Overall 2024 traffic was slightly negative but resilient relative to peers.
-
-**Notable themes:** CEO Dickson said Old Navy continues to "believe there is significant growth potential ahead," though BMO Capital Markets' Simeon Siegel suggested the brand "may have just hit its own revenue ceiling," given that it remains the second-largest apparel seller in North America, behind Nike. The brand's original goal of reaching $10 billion in sales has not been reiterated.
-
----
-
 ### Gap (brand)
 
 **Positioning:** Iconic American casual brand known for denim, basics, and pop-culture relevance. After several years of declining market share and cultural relevance, the brand began a meaningful turnaround in FY2024.
@@ -31,6 +15,21 @@
 **Notable campaigns:** Q1 FY2024 was driven by the Linen Moves campaign. In Q2 FY2024, Gap enlisted singer-dancer Troye Sivan and Dutch dance troupe CDK Company for a loose-fit denim campaign, described by Retail Dive as one of the brand's clearest signals of cultural re-engagement. Collaborations with Doen and Madhappy also drove attention from both loyal and new customers. Dickson noted collaborations would remain a central mechanism going forward.
 
 **Foot traffic (Placer.ai, 2024):** Gap lagged slightly behind the overall apparel average in annual traffic, but the gap was narrow, suggesting the brand is stabilizing. Dickson stated: "Gap is executing the brand reinvigoration playbook with excellence, driving increased relevance and revenue."
+
+---
+### Old Navy
+
+**Positioning:** Value-oriented family apparel targeting budget-conscious shoppers with a fun, accessible aesthetic. It is the largest brand in the Gap Inc. portfolio, making it one of the two largest specialty apparel retailers in North America by revenue.
+
+**FY2024 Performance:**
+- Full-year net sales: $8.4 billion (+2% YoY); comparable sales +3%
+- Q1: $1.9B (+5% net sales, +3% comps); Q2: $2.1B (+8% net sales, +5% comps)
+- Q4: $2.2B (-3% net sales due to 53rd-week calendar shift, +3% comps)
+- Winning categories include active and denim, with innovation cited as a driver of market share gains
+
+**Foot traffic (Placer.ai, 2024):** Old Navy outperformed the overall apparel segment (excluding off-price and department stores) in Q1 2024, with visits up 4.2% YoY. Q4 visits declined only 2.4%, beating the industry's 3.3% YoY dip. Overall 2024 traffic was slightly negative but resilient relative to peers.
+
+**Notable themes:** CEO Dickson said Old Navy continues to "believe there is significant growth potential ahead," though BMO Capital Markets' Simeon Siegel suggested the brand "may have just hit its own revenue ceiling," given that it remains the second-largest apparel seller in North America, behind Nike. The brand's original goal of reaching $10 billion in sales has not been reiterated.
 
 ---
 
