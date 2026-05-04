@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  - name: stg_google_trends
+    description: "Cleaned weekly Google Trends interest scores per brand"
+    columns:
+      - name: brand_term
+        tests: [not_null]
+      - name: week_date
+        tests: [not_null]
+      - name: interest_value
+        tests: [not_null]
+
+  - name: stg_gap_financials
+    description: "Cleaned quarterly revenue facts from SEC EDGAR 10-Q/10-K filings"
+    columns:
+      - name: quarter_date
+        tests: [not_null]
+      - name: net_sales_usd
+        tests: [not_null]
+      - name: accn
+        tests: [not_null]
