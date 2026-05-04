@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: GAP_ANALYTICS
+    schema: RAW
+    tables:
+      - name: google_trends_raw
+      - name: gap_financials_raw
