@@ -142,6 +142,15 @@ with tab1:
     with ctrl_col:
         st.markdown("### Filters")
         selected = st.multiselect("Brands", all_brands, default=all_brands)
+
+        timeframe_options = {
+            "All (5 years)": None,
+            "Last 3 years": 3,
+            "Last 2 years": 2,
+            "Last 1 year": 1,
+        }
+        timeframe_label = st.radio("Timeframe", list(timeframe_options.keys()), index=0)
+        years_back = timeframe_options[timeframe_label]
         st.markdown("---")
         st.markdown("**Color key**")
         st.markdown(
@@ -164,6 +173,9 @@ with tab1:
     with chart_col:
         st.subheader("Weekly Search Interest by Brand")
         filtered = df[df["brand_term"].isin(selected)]
+        if years_back is not None:
+            cutoff = df["week_date"].max() - pd.DateOffset(years=years_back)
+            filtered = filtered[filtered["week_date"] >= cutoff]
 
         color_scale = alt.Scale(
             domain=list(BRAND_COLORS.keys()),
