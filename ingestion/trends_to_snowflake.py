@@ -1,3 +1,4 @@
+import argparse
 import os
 import time
 
@@ -56,6 +57,11 @@ def fetch_trends(brand: str) -> list[dict]:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--brands", nargs="+", help="Load only these brands (default: all)")
+    args = parser.parse_args()
+    brands_to_load = args.brands if args.brands else BRANDS
+
     conn = snowflake.connector.connect(
         account=os.environ["SNOWFLAKE_ACCOUNT"],
         user=os.environ["SNOWFLAKE_USER"],
@@ -68,9 +74,13 @@ def main() -> None:
     try:
         with conn.cursor() as cur:
             cur.execute(_DDL)
-            cur.execute("TRUNCATE TABLE raw.google_trends_raw")
+            if brands_to_load == BRANDS:
+                cur.execute("TRUNCATE TABLE raw.google_trends_raw")
+            else:
+                for b in brands_to_load:
+                    cur.execute("DELETE FROM raw.google_trends_raw WHERE brand_term = %s", (b,))
         total = 0
-        for brand in BRANDS:
+        for brand in brands_to_load:
             try:
                 rows = fetch_trends(brand)
             except Exception as exc:
@@ -81,7 +91,8 @@ def main() -> None:
                     cur.execute(_INSERT, row)
             total += len(rows)
             print(f"[OK] {brand}: {len(rows)} rows")
-            time.sleep(5)  # avoid Google Trends rate limits
+            if brand != brands_to_load[-1]:
+                time.sleep(30)  # avoid Google Trends rate limits
         print(f"Loaded {total} rows into raw.google_trends_raw.")
     finally:
         conn.close()
