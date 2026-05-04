@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: dim_brand
+    description: "Brand dimension — Gap Inc. brands and competitors"
+    columns:
+      - name: brand_id
+        tests: [not_null, unique]
+      - name: brand_type
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['gap_brand', 'competitor']
+
+  - name: dim_date
+    description: "Date dimension — all dates from search trends and revenue data"
+    columns:
+      - name: date_day
+        tests: [not_null, unique]
+
+  - name: fact_search_trends
+    description: "Weekly Google Trends interest scores by brand"
+    columns:
+      - name: interest_score
+        tests: [not_null]
+
+  - name: fact_brand_revenue
+    description: "Quarterly Gap Inc. company revenue with YoY growth"
+    columns:
+      - name: net_sales_usd
+        tests: [not_null]
