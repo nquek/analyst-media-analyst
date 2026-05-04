@@ -21,7 +21,7 @@ def get_connection():
 @st.cache_data(ttl=3600)
 def load_search_trends() -> pd.DataFrame:
     conn = get_connection()
-    return pd.read_sql("""
+    df = pd.read_sql("""
         select
             f.date_key     as week_date,
             b.brand_term,
@@ -31,12 +31,14 @@ def load_search_trends() -> pd.DataFrame:
         join GAP_ANALYTICS.MART.DIM_BRAND b on f.brand_key = b.brand_id
         order by f.date_key
     """, conn)
+    df.columns = df.columns.str.lower()
+    return df
 
 
 @st.cache_data(ttl=3600)
 def load_revenue() -> pd.DataFrame:
     conn = get_connection()
-    return pd.read_sql("""
+    df = pd.read_sql("""
         select
             date_key       as quarter_date,
             net_sales_usd,
@@ -46,6 +48,8 @@ def load_revenue() -> pd.DataFrame:
         from GAP_ANALYTICS.MART.FACT_BRAND_REVENUE
         order by date_key
     """, conn)
+    df.columns = df.columns.str.lower()
+    return df
 
 
 st.title("Gap Inc. Brand Analytics")
@@ -56,19 +60,19 @@ tab1, tab2, tab3 = st.tabs(["Brand Comparison", "Seasonality & Retail Moments", 
 with tab1:
     st.subheader("Weekly Search Interest by Brand")
     df = load_search_trends()
-    brands = sorted(df["BRAND_TERM"].unique())
+    brands = sorted(df["brand_term"].unique())
     selected = st.multiselect("Select brands to display", brands, default=brands)
-    filtered = df[df["BRAND_TERM"].isin(selected)]
-    pivot = filtered.pivot_table(index="WEEK_DATE", columns="BRAND_TERM", values="INTEREST_SCORE")
+    filtered = df[df["brand_term"].isin(selected)]
+    pivot = filtered.pivot_table(index="week_date", columns="brand_term", values="interest_score")
     st.line_chart(pivot)
     st.caption("Score: 0–100 relative to each brand's own peak. Scores are not directly comparable across brands.")
 
 with tab2:
     st.subheader("Search Interest with Retail Moments")
     df2 = load_search_trends()
-    brand_sel = st.selectbox("Select brand", sorted(df2["BRAND_TERM"].unique()))
-    brand_df = df2[df2["BRAND_TERM"] == brand_sel].set_index("WEEK_DATE").sort_index()
-    st.line_chart(brand_df["INTEREST_SCORE"])
+    brand_sel = st.selectbox("Select brand", sorted(df2["brand_term"].unique()))
+    brand_df = df2[df2["brand_term"] == brand_sel].set_index("week_date").sort_index()
+    st.line_chart(brand_df["interest_score"])
     st.info("Retail moment guide: **Nov–Dec** = Holiday / Black Friday | **Jul–Aug** = Back to School | **Mar–Apr** = Spring Sale")
 
 with tab3:
@@ -76,22 +80,22 @@ with tab3:
     df_rev = load_revenue()
     df_tr = load_search_trends()
     gap_avg = (
-        df_tr[df_tr["BRAND_TYPE"] == "gap_brand"]
-        .groupby("WEEK_DATE")["INTEREST_SCORE"]
+        df_tr[df_tr["brand_type"] == "gap_brand"]
+        .groupby("week_date")["interest_score"]
         .mean()
         .reset_index()
     )
     col1, col2 = st.columns(2)
     with col1:
         st.markdown("**Quarterly Net Sales (USD)**")
-        st.bar_chart(df_rev.set_index("QUARTER_DATE")["NET_SALES_USD"])
+        st.bar_chart(df_rev.set_index("quarter_date")["net_sales_usd"])
     with col2:
         st.markdown("**Avg Gap Brand Search Interest (weekly)**")
-        st.line_chart(gap_avg.set_index("WEEK_DATE")["INTEREST_SCORE"])
-    latest_yoy = df_rev.dropna(subset=["YOY_GROWTH_PCT"])
+        st.line_chart(gap_avg.set_index("week_date")["interest_score"])
+    latest_yoy = df_rev.dropna(subset=["yoy_growth_pct"])
     if not latest_yoy.empty:
         row = latest_yoy.iloc[-1]
         st.metric(
-            label=f"YoY Revenue Growth — Q{int(row['FISCAL_QUARTER'])} FY{int(row['FISCAL_YEAR'])}",
-            value=f"{row['YOY_GROWTH_PCT']:+.1f}%",
+            label=f"YoY Revenue Growth — Q{int(row['fiscal_quarter'])} FY{int(row['fiscal_year'])}",
+            value=f"{row['yoy_growth_pct']:+.1f}%",
         )
