@@ -40,6 +40,8 @@ def fetch_trends(brand: str) -> list[dict]:
     df = pytrends.interest_over_time()
     if df.empty:
         return []
+    if brand not in df.columns:
+        return []
     rows = []
     for date, row in df.iterrows():
         if row.get("isPartial", False):
@@ -69,7 +71,11 @@ def main() -> None:
             cur.execute("TRUNCATE TABLE raw.google_trends_raw")
         total = 0
         for brand in BRANDS:
-            rows = fetch_trends(brand)
+            try:
+                rows = fetch_trends(brand)
+            except Exception as exc:
+                print(f"[WARN] {brand}: {exc}")
+                rows = []
             with conn.cursor() as cur:
                 for row in rows:
                     cur.execute(_INSERT, row)
