@@ -83,6 +83,26 @@ flowchart TB
     J --> L & N
     K & L & M & N --> O
     P --> Q
+Q --> R[Claude Code\nInterview Demo]
+G --> |raw trends data| I
+H --> |raw financials| J
+style A fill:#185FA5,color:#E6F1FB
+style B fill:#185FA5,color:#E6F1FB
+style C fill:#185FA5,color:#E6F1FB
+style D fill:#444441,color:#D3D1C7
+style E fill:#444441,color:#D3D1C7
+style F fill:#444441,color:#D3D1C7
+style G fill:#0F6E56,color:#E1F5EE
+style H fill:#0F6E56,color:#E1F5EE
+style I fill:#534AB7,color:#EEEDFE
+style J fill:#534AB7,color:#EEEDFE
+style K fill:#854F0B,color:#FAEEDA
+style L fill:#854F0B,color:#FAEEDA
+style M fill:#854F0B,color:#FAEEDA
+style N fill:#854F0B,color:#FAEEDA
+style O fill:#3B6D11,color:#EAF3DE
+style P fill:#993556,color:#FBEAF0
+style Q fill:#993556,color:#FBEAF0
 ```
 
 ## ERD — Star Schema
