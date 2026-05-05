@@ -320,47 +320,83 @@ with tab3:
     df_rev = load_revenue()
     df_tr = load_search_trends()
 
-    gap_avg = (
-        df_tr[df_tr["brand_type"] == "gap_brand"]
-        .groupby("week_date")["interest_score"]
-        .mean()
-        .reset_index()
-    )
+    t3_ctrl, t3_charts = st.columns([1, 3])
 
-    col1, col2 = st.columns(2)
-    with col1:
-        st.markdown("**Quarterly Net Sales (USD)**")
+    with t3_ctrl:
+        st.markdown("### Filters")
+
+        t3_rev_options = {
+            "All available": None,
+            "Last 3 years": 3,
+            "Last 2 years": 2,
+            "Last 1 year": 1,
+        }
+        t3_rev_label = st.radio("Revenue timeframe", list(t3_rev_options.keys()), index=0, key="t3_rev")
+        t3_rev_years = t3_rev_options[t3_rev_label]
+
+        st.markdown("")
+
+        t3_search_options = {
+            "All (5 years)": None,
+            "Last 3 years": 3,
+            "Last 2 years": 2,
+            "Last 1 year": 1,
+        }
+        t3_search_label = st.radio("Search timeframe", list(t3_search_options.keys()), index=0, key="t3_search")
+        t3_search_years = t3_search_options[t3_search_label]
+
+    with t3_charts:
+        # Filter revenue
+        df_rev_filtered = df_rev.copy()
+        if t3_rev_years is not None:
+            rev_cutoff = df_rev["quarter_date"].max() - pd.DateOffset(years=t3_rev_years)
+            df_rev_filtered = df_rev_filtered[df_rev_filtered["quarter_date"] >= rev_cutoff]
+
+        # Filter search
+        gap_avg = (
+            df_tr[df_tr["brand_type"] == "gap_brand"]
+            .groupby("week_date")["interest_score"]
+            .mean()
+            .reset_index()
+        )
+        gap_avg_filtered = gap_avg.copy()
+        if t3_search_years is not None:
+            search_cutoff = gap_avg["week_date"].max() - pd.DateOffset(years=t3_search_years)
+            gap_avg_filtered = gap_avg_filtered[gap_avg_filtered["week_date"] >= search_cutoff]
+
+        st.markdown("**Quarterly Net Sales — Gap Inc.**")
         rev_chart = (
-            alt.Chart(df_rev.reset_index())
+            alt.Chart(df_rev_filtered)
             .mark_bar(color="#2E7D32")
             .encode(
                 x=alt.X("quarter_date:T", title="Quarter"),
                 y=alt.Y("net_sales_usd:Q", title="Net Sales (USD)"),
-                tooltip=["quarter_date:T", "net_sales_usd:Q"],
+                tooltip=["quarter_date:T", "net_sales_usd:Q", "yoy_growth_pct:Q"],
             )
+            .properties(height=280)
         )
         st.altair_chart(rev_chart, use_container_width=True)
 
-    with col2:
+        latest_yoy = df_rev_filtered.dropna(subset=["yoy_growth_pct"])
+        if not latest_yoy.empty:
+            row = latest_yoy.iloc[-1]
+            st.metric(
+                label=f"YoY Revenue Growth — Q{int(row['fiscal_quarter'])} FY{int(row['fiscal_year'])}",
+                value=f"{row['yoy_growth_pct']:+.1f}%",
+            )
+
         st.markdown("**Avg Gap Brand Search Interest (weekly)**")
         search_chart = (
-            alt.Chart(gap_avg)
+            alt.Chart(gap_avg_filtered)
             .mark_line(color="#E65100")
             .encode(
                 x=alt.X("week_date:T", title="Week"),
                 y=alt.Y("interest_score:Q", title="Search Interest (0–100)"),
                 tooltip=["week_date:T", "interest_score:Q"],
             )
+            .properties(height=280)
         )
         st.altair_chart(search_chart, use_container_width=True)
-
-    latest_yoy = df_rev.dropna(subset=["yoy_growth_pct"])
-    if not latest_yoy.empty:
-        row = latest_yoy.iloc[-1]
-        st.metric(
-            label=f"YoY Revenue Growth — Q{int(row['fiscal_quarter'])} FY{int(row['fiscal_year'])}",
-            value=f"{row['yoy_growth_pct']:+.1f}%",
-        )
 
     # Brand segment revenue breakdown
     st.divider()
