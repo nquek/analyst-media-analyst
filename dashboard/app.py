@@ -150,7 +150,7 @@ BRAND_COLORS = {
     "Levi's":          "#FF6F00",
 }
 
-tab1, tab2, tab3, tab4 = st.tabs(["Search Interest by Brand", "Search Interest by Seasonality", "Revenue vs. Search Interest (Gap Inc.)", "Revenue by Brand"])
+tab1, tab2, tab3, tab4 = st.tabs(["Search Interest by Brand", "Search Interest by Seasonality", "Revenue vs. Search Interest (Gap Inc.)", "Revenue by Brand (2024)"])
 
 # ── Tab 1: Search Interest by Brand ──────────────────────────────────────────
 with tab1:
