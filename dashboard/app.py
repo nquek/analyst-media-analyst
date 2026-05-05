@@ -150,7 +150,7 @@ BRAND_COLORS = {
     "Levi's":          "#FF6F00",
 }
 
-tab1, tab2, tab3 = st.tabs(["Search Interest by Brand", "Search Interest by Seasonality", "Revenue vs. Search Interest (Gap Inc.)"])
+tab1, tab2, tab3, tab4 = st.tabs(["Search Interest by Brand", "Search Interest by Seasonality", "Revenue vs. Search Interest (Gap Inc.)", "Revenue by Brand"])
 
 # ── Tab 1: Search Interest by Brand ──────────────────────────────────────────
 with tab1:
@@ -457,3 +457,67 @@ with tab3:
             )
         with scatter_col:
             st.altair_chart(chart, use_container_width=True)
+
+# ── Tab 4: Revenue by Brand ───────────────────────────────────────────────────
+with tab4:
+    df_seg4 = load_brand_segment_revenue()
+    all_seg_brands = sorted(df_seg4["brand_name"].unique())
+
+    seg_ctrl, seg_chart_col = st.columns([1, 3])
+
+    with seg_ctrl:
+        st.markdown("### Filters")
+        selected_seg = st.multiselect(
+            "Brands", all_seg_brands, default=all_seg_brands, key="t4_brands"
+        )
+        st.markdown("---")
+        st.markdown("**Color key**")
+        st.caption("Gap Inc. Brands")
+        st.markdown(
+            "<span style='color:#1565C0'>■</span> Old Navy &nbsp;"
+            "<span style='color:#2E7D32'>■</span> Gap<br>"
+            "<span style='color:#00695C'>■</span> Banana Republic &nbsp;"
+            "<span style='color:#0288D1'>■</span> Athleta",
+            unsafe_allow_html=True,
+        )
+
+    with seg_chart_col:
+        st.subheader("Quarterly Net Sales by Brand — FY2024")
+        filtered_seg = df_seg4[df_seg4["brand_name"].isin(selected_seg)]
+
+        seg_color_scale = alt.Scale(
+            domain=["Old Navy", "Gap", "Banana Republic", "Athleta"],
+            range=["#1565C0", "#2E7D32", "#00695C", "#0288D1"],
+        )
+        quarter_order = ["Q1 FY2024", "Q2 FY2024", "Q3 FY2024", "Q4 FY2024"]
+
+        line4 = (
+            alt.Chart(filtered_seg)
+            .mark_line(point=True)
+            .encode(
+                x=alt.X("quarter_label:N", title="Quarter", sort=quarter_order),
+                y=alt.Y("net_sales_m:Q", title="Net Sales ($ millions)", scale=alt.Scale(zero=False)),
+                color=alt.Color("brand_name:N", scale=seg_color_scale, legend=alt.Legend(title="Brand")),
+                tooltip=[
+                    alt.Tooltip("quarter_label:N", title="Quarter"),
+                    alt.Tooltip("brand_name:N", title="Brand"),
+                    alt.Tooltip("net_sales_m:Q", title="Net Sales ($M)"),
+                    alt.Tooltip("is_derived:N", title="Derived"),
+                ],
+            )
+            .properties(height=400)
+        )
+        st.altair_chart(line4, use_container_width=True)
+        st.caption("Q3 FY2024 figures are derived (annual total minus Q1+Q2+Q4). Source: Gap Inc. earnings press releases.")
+
+        if not filtered_seg.empty:
+            summary4 = (
+                filtered_seg.groupby("brand_name")["net_sales_m"]
+                .agg(
+                    **{"FY2024 Total ($M)": "sum"},
+                    Peak=lambda x: f"Q{int(filtered_seg.loc[x.idxmax(), 'fiscal_quarter'])} ({int(x.max())}M)",
+                )
+                .sort_values("FY2024 Total ($M)", ascending=False)
+            )
+            st.markdown("**FY2024 Summary**")
+            st.dataframe(summary4, use_container_width=True)
