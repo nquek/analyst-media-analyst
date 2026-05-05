@@ -12,7 +12,7 @@ The pipeline ingests weekly Google Trends data and quarterly SEC EDGAR filings, 
 
 ## Live Dashboard
 
-[Gap Inc. Brand Analytics — Streamlit Community Cloud](https://YOUR_STREAMLIT_URL_HERE)
+[Gap Inc. Brand Analytics — Streamlit Community Cloud](https://analyst-media-analyst-nquek.streamlit.app/)
 
 ## Tech Stack
 
