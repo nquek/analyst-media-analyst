@@ -163,14 +163,9 @@ with tab1:
         st.markdown("### Filters")
         selected = st.multiselect("Brands", all_brands, default=all_brands)
 
-        timeframe_options = {
-            "All (5 years)": None,
-            "Last 3 years": 3,
-            "Last 2 years": 2,
-            "Last 1 year": 1,
-        }
-        timeframe_label = st.radio("Timeframe", list(timeframe_options.keys()), index=0, key="t1_timeframe")
-        years_back = timeframe_options[timeframe_label]
+        available_years = sorted(df["week_date"].dt.year.unique(), reverse=True)
+        year_options = ["All"] + [str(y) for y in available_years]
+        year_sel = st.radio("Year", year_options, index=0, key="t1_timeframe")
         st.markdown("---")
         st.markdown("**Color key**")
         st.caption("Gap Inc. Brands")
@@ -193,9 +188,8 @@ with tab1:
     with chart_col:
         st.subheader("Weekly Search Interest by Brand")
         filtered = df[df["brand_term"].isin(selected)]
-        if years_back is not None:
-            cutoff = df["week_date"].max() - pd.DateOffset(years=years_back)
-            filtered = filtered[filtered["week_date"] >= cutoff]
+        if year_sel != "All":
+            filtered = filtered[filtered["week_date"].dt.year == int(year_sel)]
 
         color_scale = alt.Scale(
             domain=list(BRAND_COLORS.keys()),
@@ -227,7 +221,8 @@ with tab1:
                 .round(1)
                 .sort_values("Average", ascending=False)
             )
-            st.markdown("**5-Year Summary**")
+            summary_label = "Summary" if year_sel == "All" else f"{year_sel} Summary"
+            st.markdown(f"**{summary_label}**")
             st.dataframe(summary, use_container_width=True)
 
 # ── Tab 2: Search Interest by Seasonality ────────────────────────────────────
