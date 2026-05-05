@@ -153,6 +153,7 @@ with tab1:
         years_back = timeframe_options[timeframe_label]
         st.markdown("---")
         st.markdown("**Color key**")
+        st.caption("Gap Inc. Brands")
         st.markdown(
             "<span style='color:#1565C0'>■</span> Old Navy &nbsp;"
             "<span style='color:#2E7D32'>■</span> Gap<br>"
@@ -160,7 +161,7 @@ with tab1:
             "<span style='color:#0288D1'>■</span> Athleta",
             unsafe_allow_html=True,
         )
-        st.caption("Gap Inc. brands")
+        st.caption("Competitors")
         st.markdown(
             "<span style='color:#C62828'>■</span> H&M &nbsp;"
             "<span style='color:#E65100'>■</span> Zara<br>"
@@ -168,7 +169,6 @@ with tab1:
             "<span style='color:#FF6F00'>■</span> Levi's",
             unsafe_allow_html=True,
         )
-        st.caption("Competitors")
 
     with chart_col:
         st.subheader("Weekly Search Interest by Brand")
