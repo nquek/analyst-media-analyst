@@ -214,6 +214,10 @@ __marimo__/
 dbt/target/
 dbt/dbt_packages/
 dbt/profiles.yml
+dbt/.user.yml
+
+# Internal planning
+docs/superpowers/
 
 # Streamlit
 .streamlit/secrets.toml
