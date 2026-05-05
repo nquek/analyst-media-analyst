@@ -130,7 +130,7 @@ BRAND_COLORS = {
     "Levi's":          "#FF6F00",
 }
 
-tab1, tab2, tab3 = st.tabs(["Search Interest by Brand", "Search Interest by Seasonality", "Revenue vs. Search"])
+tab1, tab2, tab3 = st.tabs(["Search Interest by Brand", "Search Interest by Seasonality", "Revenue vs. Search Interest (Gap Inc.)"])
 
 # ── Tab 1: Search Interest by Brand ──────────────────────────────────────────
 with tab1:
@@ -294,7 +294,7 @@ with tab2:
         st.bar_chart(monthly_avg.set_index("Month")["Avg Interest"])
         st.caption("Which months consistently drive the most search activity for this brand.")
 
-# ── Tab 3: Revenue vs. Search ─────────────────────────────────────────────────
+# ── Tab 3: Revenue vs. Search Interest (Gap Inc.) ────────────────────────────
 with tab3:
     st.subheader("Revenue vs. Search Interest (Gap Inc.)")
     df_rev = load_revenue()
@@ -310,10 +310,29 @@ with tab3:
     col1, col2 = st.columns(2)
     with col1:
         st.markdown("**Quarterly Net Sales (USD)**")
-        st.bar_chart(df_rev.set_index("quarter_date")["net_sales_usd"])
+        rev_chart = (
+            alt.Chart(df_rev.reset_index())
+            .mark_bar(color="#2E7D32")
+            .encode(
+                x=alt.X("quarter_date:T", title="Quarter"),
+                y=alt.Y("net_sales_usd:Q", title="Net Sales (USD)"),
+                tooltip=["quarter_date:T", "net_sales_usd:Q"],
+            )
+        )
+        st.altair_chart(rev_chart, use_container_width=True)
+
     with col2:
         st.markdown("**Avg Gap Brand Search Interest (weekly)**")
-        st.line_chart(gap_avg.set_index("week_date")["interest_score"])
+        search_chart = (
+            alt.Chart(gap_avg)
+            .mark_line(color="#E65100")
+            .encode(
+                x=alt.X("week_date:T", title="Week"),
+                y=alt.Y("interest_score:Q", title="Search Interest (0–100)"),
+                tooltip=["week_date:T", "interest_score:Q"],
+            )
+        )
+        st.altair_chart(search_chart, use_container_width=True)
 
     latest_yoy = df_rev.dropna(subset=["yoy_growth_pct"])
     if not latest_yoy.empty:
@@ -331,12 +350,17 @@ with tab3:
         st.info("Not enough overlapping quarters to render scatter plot.")
     else:
         chart, corr, sdf = result
-        st.altair_chart(chart, use_container_width=True)
         direction = "positive" if corr > 0 else "negative"
         strength = "strong" if abs(corr) > 0.6 else "moderate" if abs(corr) > 0.3 else "weak"
-        st.caption(
-            f"Each dot = one fiscal quarter. Pearson r = **{corr:.2f}** "
-            f"({strength} {direction} correlation). "
-            "Red dashed line = linear trend. "
-            "Higher search interest quarters tend to coincide with higher revenue quarters."
-        )
+
+        key_col, scatter_col = st.columns([1, 3])
+        with key_col:
+            st.markdown("**Chart Key**")
+            st.markdown(
+                f"- Each dot = one fiscal quarter\n"
+                f"- Pearson r = **{corr:.2f}** ({strength} {direction} correlation)\n"
+                f"- Red dashed line = linear trend\n"
+                f"- Higher search interest quarters tend to coincide with higher revenue quarters"
+            )
+        with scatter_col:
+            st.altair_chart(chart, use_container_width=True)
