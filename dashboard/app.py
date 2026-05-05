@@ -398,43 +398,6 @@ with tab3:
         )
         st.altair_chart(search_chart, use_container_width=True)
 
-    # Brand segment revenue breakdown
-    st.divider()
-    st.subheader("Net Sales by Brand — FY2024")
-    df_seg = load_brand_segment_revenue()
-
-    brand_seg_colors = {
-        "Old Navy":        "#1565C0",
-        "Gap":             "#2E7D32",
-        "Banana Republic": "#00695C",
-        "Athleta":         "#0288D1",
-    }
-    seg_chart = (
-        alt.Chart(df_seg)
-        .mark_bar()
-        .encode(
-            x=alt.X("quarter_label:N", title="Quarter", sort=["Q1 FY2024", "Q2 FY2024", "Q3 FY2024", "Q4 FY2024"]),
-            y=alt.Y("net_sales_m:Q", title="Net Sales ($ millions)", stack=True),
-            color=alt.Color(
-                "brand_name:N",
-                scale=alt.Scale(
-                    domain=list(brand_seg_colors.keys()),
-                    range=list(brand_seg_colors.values()),
-                ),
-                legend=alt.Legend(title="Brand"),
-            ),
-            tooltip=[
-                alt.Tooltip("quarter_label:N", title="Quarter"),
-                alt.Tooltip("brand_name:N", title="Brand"),
-                alt.Tooltip("net_sales_m:Q", title="Net Sales ($M)"),
-                alt.Tooltip("is_derived:N", title="Derived (Q3)"),
-            ],
-        )
-        .properties(height=380)
-    )
-    st.altair_chart(seg_chart, use_container_width=True)
-    st.caption("Q3 FY2024 figures are derived (annual total minus Q1+Q2+Q4) as the Q3 press release was unavailable at time of scrape.")
-
     # Scatter: search interest vs revenue
     st.divider()
     st.subheader("Does Search Interest Predict Revenue?")
