@@ -149,7 +149,7 @@ with tab1:
             "Last 2 years": 2,
             "Last 1 year": 1,
         }
-        timeframe_label = st.radio("Timeframe", list(timeframe_options.keys()), index=0)
+        timeframe_label = st.radio("Timeframe", list(timeframe_options.keys()), index=0, key="t1_timeframe")
         years_back = timeframe_options[timeframe_label]
         st.markdown("---")
         st.markdown("**Color key**")
@@ -226,7 +226,7 @@ with tab2:
             "Last 2 years": 2,
             "Last 1 year": 1,
         }
-        t2_label = st.radio("Timeframe", list(t2_options.keys()), index=0)
+        t2_label = st.radio("Timeframe", list(t2_options.keys()), index=0, key="t2_timeframe")
         t2_years = t2_options[t2_label]
 
     brand_df = df2[df2["brand_term"] == brand_sel].sort_values("week_date")
