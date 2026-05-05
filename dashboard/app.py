@@ -130,7 +130,7 @@ BRAND_COLORS = {
     "Levi's":          "#FF6F00",
 }
 
-tab1, tab2, tab3 = st.tabs(["Search Interest by Brand", "Seasonality & Retail Moments", "Revenue vs. Search"])
+tab1, tab2, tab3 = st.tabs(["Search Interest by Brand", "Search Interest by Seasonality", "Revenue vs. Search"])
 
 # ── Tab 1: Search Interest by Brand ──────────────────────────────────────────
 with tab1:
@@ -210,63 +210,89 @@ with tab1:
             st.markdown("**5-Year Summary**")
             st.dataframe(summary, use_container_width=True)
 
-# ── Tab 2: Seasonality & Retail Moments ──────────────────────────────────────
+# ── Tab 2: Search Interest by Seasonality ────────────────────────────────────
 with tab2:
-    st.subheader("Search Interest with Retail Moments")
     df2 = load_search_trends()
-    brand_sel = st.selectbox("Select brand", sorted(df2["brand_term"].unique()))
+
+    ctrl_col2, chart_col2 = st.columns([1, 3])
+
+    with ctrl_col2:
+        st.markdown("### Filters")
+        brand_sel = st.selectbox("Brand", sorted(df2["brand_term"].unique()))
+
+        t2_options = {
+            "All (5 years)": None,
+            "Last 3 years": 3,
+            "Last 2 years": 2,
+            "Last 1 year": 1,
+        }
+        t2_label = st.radio("Timeframe", list(t2_options.keys()), index=0)
+        t2_years = t2_options[t2_label]
+
     brand_df = df2[df2["brand_term"] == brand_sel].sort_values("week_date")
+    if t2_years is not None:
+        t2_cutoff = df2["week_date"].max() - pd.DateOffset(years=t2_years)
+        brand_df = brand_df[brand_df["week_date"] >= t2_cutoff]
 
-    min_yr = brand_df["week_date"].dt.year.min()
-    max_yr = brand_df["week_date"].dt.year.max()
-    bands_df = build_retail_bands(min_yr, max_yr)
+    with chart_col2:
+        st.subheader(f"Search Interest with Retail Moments — {brand_sel}")
 
-    bands = (
-        alt.Chart(bands_df)
-        .mark_rect(opacity=0.15)
-        .encode(
-            x=alt.X("start:T"),
-            x2=alt.X2("end:T"),
-            color=alt.Color(
-                "event:N",
-                scale=alt.Scale(
-                    domain=["Back to School", "Black Friday", "Holiday Season", "Spring Sale"],
-                    range=["#FFC107", "#DC3545", "#17A2B8", "#28A745"],
+        min_yr = brand_df["week_date"].dt.year.min()
+        max_yr = brand_df["week_date"].dt.year.max()
+        bands_df = build_retail_bands(min_yr, max_yr)
+        # Clip bands to the filtered date range
+        range_start = brand_df["week_date"].min()
+        range_end = brand_df["week_date"].max()
+        bands_df = bands_df[bands_df["end"] >= range_start]
+        bands_df["start"] = bands_df["start"].clip(lower=range_start)
+        bands_df["end"] = bands_df["end"].clip(upper=range_end)
+
+        bands = (
+            alt.Chart(bands_df)
+            .mark_rect(opacity=0.15)
+            .encode(
+                x=alt.X("start:T"),
+                x2=alt.X2("end:T"),
+                color=alt.Color(
+                    "event:N",
+                    scale=alt.Scale(
+                        domain=["Back to School", "Black Friday", "Holiday Season", "Spring Sale"],
+                        range=["#FFC107", "#DC3545", "#17A2B8", "#28A745"],
+                    ),
+                    legend=alt.Legend(title="Retail Event"),
                 ),
-                legend=alt.Legend(title="Retail Event"),
-            ),
+            )
         )
-    )
-    line = (
-        alt.Chart(brand_df)
-        .mark_line()
-        .encode(
-            x=alt.X("week_date:T", title="Week"),
-            y=alt.Y("interest_score:Q", title="Search Interest (0–100)", scale=alt.Scale(domain=[0, 100])),
-            tooltip=[
-                alt.Tooltip("week_date:T", title="Week"),
-                alt.Tooltip("interest_score:Q", title="Interest"),
-            ],
+        line = (
+            alt.Chart(brand_df)
+            .mark_line()
+            .encode(
+                x=alt.X("week_date:T", title="Week"),
+                y=alt.Y("interest_score:Q", title="Search Interest (0–100)", scale=alt.Scale(domain=[0, 100])),
+                tooltip=[
+                    alt.Tooltip("week_date:T", title="Week"),
+                    alt.Tooltip("interest_score:Q", title="Interest"),
+                ],
+            )
         )
-    )
+        st.altair_chart((bands + line).properties(height=380).interactive(), use_container_width=True)
 
-    st.altair_chart((bands + line).properties(height=380).interactive(), use_container_width=True)
-
-    # Seasonality bar chart
-    brand_df["month"] = brand_df["week_date"].dt.month
-    monthly_avg = (
-        brand_df.groupby("month")["interest_score"]
-        .mean()
-        .reset_index()
-        .rename(columns={"month": "Month", "interest_score": "Avg Interest"})
-    )
-    monthly_avg["Month"] = monthly_avg["Month"].map({
-        1: "Jan", 2: "Feb", 3: "Mar", 4: "Apr", 5: "May", 6: "Jun",
-        7: "Jul", 8: "Aug", 9: "Sep", 10: "Oct", 11: "Nov", 12: "Dec",
-    })
-    st.markdown(f"**Average Monthly Interest — {brand_sel}**")
-    st.bar_chart(monthly_avg.set_index("Month")["Avg Interest"])
-    st.caption("Which months consistently drive the most search activity for this brand.")
+        # Monthly avg bar chart
+        brand_df = brand_df.copy()
+        brand_df["month"] = brand_df["week_date"].dt.month
+        monthly_avg = (
+            brand_df.groupby("month")["interest_score"]
+            .mean()
+            .reset_index()
+            .rename(columns={"month": "Month", "interest_score": "Avg Interest"})
+        )
+        monthly_avg["Month"] = monthly_avg["Month"].map({
+            1: "Jan", 2: "Feb", 3: "Mar", 4: "Apr", 5: "May", 6: "Jun",
+            7: "Jul", 8: "Aug", 9: "Sep", 10: "Oct", 11: "Nov", 12: "Dec",
+        })
+        st.markdown(f"**Average Monthly Interest — {brand_sel}**")
+        st.bar_chart(monthly_avg.set_index("Month")["Avg Interest"])
+        st.caption("Which months consistently drive the most search activity for this brand.")
 
 # ── Tab 3: Revenue vs. Search ─────────────────────────────────────────────────
 with tab3:
