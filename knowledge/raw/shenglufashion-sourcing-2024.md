@@ -56,7 +56,7 @@ LikeLoading...
 
 [Why Sourcing from China? A Case Study on VF Corporation’s Textile and Apparel Sourcing and Supply Chain Strategy](https://shenglufashion.com/2021/07/28/why-sourcing-from-china-a-case-study-on-vf-corporations-textile-and-apparel-sourcing-and-supply-chain-strategy/ "Why Sourcing from China? A Case Study on VF Corporation’s Textile and Apparel Sourcing and Supply Chain&nbsp;Strategy")July 28, 2021In "Apparel industry"
 
-[VF Corporation’s Evolving Apparel Sourcing Base: 2023-2024](https://shenglufashion.com/2025/03/01/vf-corporations-evolving-apparel-sourcing-base-2023-2024/ "VF Corporation’s Evolving Apparel Sourcing Base:&nbsp;2023-2024")March 1, 2025In "Apparel industry"
+[H&M’s Evolving Apparel Sourcing Base (updated April 2026)](https://shenglufashion.com/2026/04/21/hms-evolving-apparel-sourcing-base-updated-april-2026/ "H&amp;M’s Evolving Apparel Sourcing Base (updated April&nbsp;2026)")April 21, 2026In "International Trade"
 
 ![Unknown's avatar](https://2.gravatar.com/avatar/818fd41da3d4cbd3f0875f547ceca19ba990c2d943358d58627ce1e2c055e8af?s=42&d=wavatar&r=G)
 
@@ -364,7 +364,7 @@ Professor @ University of Delaware [View all posts by Sheng Lu](https://shengluf
 
   - [![](https://shenglufashion.com/wp-content/uploads/2018/08/cropped-sheng.jpg?w=50) FASH455 Global Apparel & Textile Trade and Sourcing](https://shenglufashion.com/)
 
-Join 1,567 other subscribers
+Join 1,569 other subscribers
 
 Sign me up
 

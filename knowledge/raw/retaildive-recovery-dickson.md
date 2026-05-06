@@ -156,42 +156,33 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 ### Editors’ picks
 
-- [![A white brick Lululemon storefront in WIlliamsburg, Virginia](https://imgproxy.divecdn.com/oLdV2NY58T7nDKctRlnXVHGJcWbW8tKRVqMrcaghvL0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctMzI3OS5qcGc=.webp)](https://www.retaildive.com/news/lululemon-athleisure-downward-spiral-innovation-turnaround/760318/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![A child in front of an entrance to a shopping center.](https://imgproxy.divecdn.com/Eb0zOySw06em8gIup2dSr1jTasai7P3K4appNE8cS2M/g:nowe:844:1519/c:2848:1609/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctMDU2OS5qcGc=.webp)](https://www.retaildive.com/news/how-to-run-a-stores-b-malls/761169/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-Dani James/Retail Dive
+Daphne Howland/Retail Dive
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-
-
-Deep Dive
-
+### [How to run A stores in a B mall](https://www.retaildive.com/news/how-to-run-a-stores-b-malls/761169/)
 
 
 
-
-
-### [Lululemon’s ‘downward spiral’ — and how the brand plans to break out of it](https://www.retaildive.com/news/lululemon-athleisure-downward-spiral-innovation-turnaround/760318/)
-
-
-
-High-priced athleisure isn’t dead, but boring athleisure might be. That means it’s back to the innovation drawing board for the much-loved Canadian brand.
+Retailers in lower-traffic shopping centers require excellent associates, individualized operations and realistic expectations, experts say.
 
 
 
 
 
 
-By Cara Salpini •
+By Daphne Howland •
 
 
 
 
 
 
-Sept. 22, 2025
+Oct. 7, 2025
 
 - [![A person leaning against a blue pickup truck wearing a tan button-up shirt and blue jeans with Tecovas boots.](https://imgproxy.divecdn.com/_oRUAbYuIOeZZWpp47Rcr-nzi5UTyYngEyLbrlO15Tc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UZWNvdmFzX0xpZmVzdHlsZV8yLi5qcGc=.webp)](https://www.retaildive.com/news/brands-watch-2026-skims-tecovas-fp-movement/812225/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
@@ -249,63 +240,90 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 \| [Post a press release](https://www.retaildive.com/press-release/get-started/)
 
-[Tapestry Selects Cordial as Enterprise Messaging Platform\\
+[Agile Pricing at Scale: Academy Sports + Outdoors Renews Commitment to Revionics AI Platform\\
 \\
 \\
-From Cordial\\
+From Revionics\\
 \\
-April 15, 2026\\
+April 29, 2026\\
 \\
-![Cordial logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776189829/press_release/assets/company_logos/Cordial_Logo_Black_Full_Color_kp2fy8.png)](https://www.retaildive.com/press-release/20260414-tapestry-selects-cordial-as-enterprise-messaging-platform-1/) [Inside the Four European Houses Atelier Avenue Is Bringing to America\\
+![Revionics logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1777497991/press_release/assets/company_logos/Revionics-an-Aptos-company_bkb0d8.jpg)](https://www.retaildive.com/press-release/20260429-agile-pricing-at-scale-academy-sports-outdoors-renews-commitment-to-revi/) [KWI AI Product Image Search Selected As “Overall RetailTech Innovation of the Year” In 2026 Re…\\
+\\
+\\
+From KWI\\
+\\
+April 23, 2026\\
+\\
+![KWI logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776950489/press_release/assets/company_logos/KWI_Submark_600x600_fappqs.png)](https://www.retaildive.com/press-release/20260423-kwi-ai-product-image-search-selected-as-overall-retailtech-innovation-of-t-1/) [Inside the Four European Houses Atelier Avenue Is Bringing to America\\
 \\
 \\
 From Atelier Avenue Group\\
 \\
 April 15, 2026\\
 \\
-![Atelier Avenue Group logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776259700/press_release/assets/company_logos/Untitled_design_44_r0jmop.png)](https://www.retaildive.com/press-release/20260415-inside-the-four-european-houses-atelier-avenue-is-bringing-to-america/) [Airship Expands Industry-first AI Agent Fleet, Bringing Goal Optimization to the Enterprise\\
+![Atelier Avenue Group logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776259700/press_release/assets/company_logos/Untitled_design_44_r0jmop.png)](https://www.retaildive.com/press-release/20260415-inside-the-four-european-houses-atelier-avenue-is-bringing-to-america/) [Tapestry Selects Cordial as Enterprise Messaging Platform\\
 \\
 \\
-From Airship\\
+From Cordial\\
 \\
-April 13, 2026\\
+April 15, 2026\\
 \\
-![Airship logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776016288/press_release/assets/company_logos/Airship_250x250_logo_cnpiag.png)](https://www.retaildive.com/press-release/20260412-airship-expands-industry-first-ai-agent-fleet-bringing-goal-optimization-t/) [EyeQ Monitoring Launches New Integration with Rapid Surveillance Units for Retail Properties, …\\
-\\
-\\
-From EyeQ Monitoring\\
-\\
-April 14, 2026\\
-\\
-![EyeQ Monitoring logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776129557/press_release/assets/company_logos/eyeqmonitoring_logo_gbx2q0.jpg)](https://www.retaildive.com/press-release/20260413-eyeq-monitoring-launches-new-rapid-surveillance-unit-for-large-scale-retail-1/)
+![Cordial logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776189829/press_release/assets/company_logos/Cordial_Logo_Black_Full_Color_kp2fy8.png)](https://www.retaildive.com/press-release/20260414-tapestry-selects-cordial-as-enterprise-messaging-platform-1/)
 
 
 Editors’ picks
 
 
 
-- [![A white brick Lululemon storefront in WIlliamsburg, Virginia](https://imgproxy.divecdn.com/oLdV2NY58T7nDKctRlnXVHGJcWbW8tKRVqMrcaghvL0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctMzI3OS5qcGc=.webp)](https://www.retaildive.com/news/lululemon-athleisure-downward-spiral-innovation-turnaround/760318/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![An illustration of a person hanging onto a coin in rough seas.](https://imgproxy.divecdn.com/plibbgyrAxx0V2tx2DsfgHAuxpZU3TDB7jy78vBrvM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iYW5rcnVwdGN5dHJhY2tlcl9WMl9yZXRhaWxkaXZlLnBuZw==.webp)](https://www.retaildive.com/news/running-list-major-retail-bankruptcies/624502/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-Dani James/Retail Dive
+Adeline Kon/Retail Dive
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-
-
-Deep Dive
-
+Tracker
 
 
 
-
-
-### [Lululemon’s ‘downward spiral’ — and how the brand plans to break out of it](https://www.retaildive.com/news/lululemon-athleisure-downward-spiral-innovation-turnaround/760318/)
+### [The running list of major retail bankruptcies](https://www.retaildive.com/news/running-list-major-retail-bankruptcies/624502/)
 
 
 
-High-priced athleisure isn’t dead, but boring athleisure might be. That means it’s back to the innovation drawing board for the much-loved Canadian brand.
+A number of companies have experienced bankruptcies at the start of 2026, including Saks Global, Pat McGrath Cosmetics and Francesca’s.
+
+
+
+
+
+
+By Retail Dive Staff •
+
+
+
+
+
+
+
+
+
+Updated Nov. 25, 2025
+
+
+- [![A corner Adidas store with a tall screen featuring the words "You Got This."](https://imgproxy.divecdn.com/zBLiCAx4Swm7G0lWi_f-eybKV_8Rtnzo17ChwA9pduA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaWN0dXJlXzFfM18tcmVzaXplZF94eWdkanouanBn.webp)](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+Courtesy of Adidas
+
+![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+
+
+### [With Nike in turnaround mode, is this Adidas’ opportunity in the US?](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)
+
+
+
+North America accounts for most of the revenue difference between the rivals, and Adidas CEO Bjørn Gulden is pushing the retailer to be “more American.”
 
 
 
@@ -319,47 +337,19 @@ By Cara Salpini •
 
 
 
-Sept. 22, 2025
-
-- [![A person leaning against a blue pickup truck wearing a tan button-up shirt and blue jeans with Tecovas boots.](https://imgproxy.divecdn.com/_oRUAbYuIOeZZWpp47Rcr-nzi5UTyYngEyLbrlO15Tc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UZWNvdmFzX0xpZmVzdHlsZV8yLi5qcGc=.webp)](https://www.retaildive.com/news/brands-watch-2026-skims-tecovas-fp-movement/812225/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-Permission granted by Tecovas
-
-![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [6 brands to watch in 2026](https://www.retaildive.com/news/brands-watch-2026-skims-tecovas-fp-movement/812225/)
-
-
-
-From Mango to Cyklar, legacy and emerging brands alike are leaning on physical retail to win over customers.
-
-
-
-
-
-
-By Caroline Jansen •
-
-
-
-
-
-
-Feb. 17, 2026
+Oct. 21, 2025
 
 
 Latest in Operations
 
 
-- [![People walking into an Eddie Bauer that is going out of business.](https://imgproxy.divecdn.com/YY3StA7cFCSn9FsWkv-DvQVvUrbbaDJOui3RBOsEMHQ/g:nowe:54:130/c:585:330/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lZGRpZV9iYXVlcl9vdXRfb2ZfYml6X3JldGFpbF8tXzEuanBlZw==.webp)](https://www.retaildive.com/news/retailers-close-more-than-40k-stores-5-years/818423/)
+- [![People walking past a store.](https://imgproxy.divecdn.com/IikhwvYBpVDiQ14SQZ4alSUnMKFH6KnQfSeHP8RxqB0/g:nowe:0:48/c:640:361/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iZW5kX3JldGFpbF8tXzcuanBlZw==.webp)](https://www.retaildive.com/news/rei-coop-flat-sales-narrower-losses-store-union-workers-anniversary-sale-boycott/819310/)
 
 
 
 
 
-[Retailers could close more than 40K stores in the next 5 years](https://www.retaildive.com/news/retailers-close-more-than-40k-stores-5-years/818423/)
+[REI reports flat sales, narrower losses as store workers call for a boycott](https://www.retaildive.com/news/rei-coop-flat-sales-narrower-losses-store-union-workers-anniversary-sale-boycott/819310/)
 
 
 
@@ -370,47 +360,47 @@ By Daphne Howland
 
 
 
-- [![A Nike storefront at The Grove shopping center in Los Angeles, California.](https://imgproxy.divecdn.com/RrfJeb_t1qKozQLLfozIK-OLpxCXxi4crbCv1US9qbI/g:nowe:0:194/c:4031:2277/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTU1MS5KUEc=.webp)](https://www.retaildive.com/news/nike-layoffs-cuts-thousands-tech-jobs/818391/)
+- [![A person window shops at store at a street corner. An orange corner is parked on the right, next to a stop sign.](https://imgproxy.divecdn.com/r8DCqF0GXvivT4zGIqzlvZ833_n3bcDZEEqe_pN1tN8/g:nowe:0:441/c:5678:3207/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaXJjYS0xOTY5LUdhcC1PY2Vhbi1BdmUtU3RvcmUtSWNvbmljLmpwZw==.webp)](https://www.retaildive.com/news/gap-co-founder-doris-fisher-dies-94/819321/)
 
 
 
 
 
-[Nike cuts 1,400 jobs across tech, operations](https://www.retaildive.com/news/nike-layoffs-cuts-thousands-tech-jobs/818391/)
-
-
-
-
-
-
-By Cara Salpini
-
-
-
-- [![Retail rendering of a pop up store in partnership with Google](https://imgproxy.divecdn.com/OAbJychIoU4Sq28lEC-GnKuJZZVeUJrhPuw2o2Ri_lg/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QTUdfR19TY2FmZm9sZGluZ18wMS5qcGc=.webp)](https://www.retaildive.com/news/the-weekly-closeout-pat-mcgrath-labs-exits-bankruptcy-gamestop-bets-on-r/818376/)
-
-
-
-
-
-[The Weekly Closeout: Pat McGrath Labs exits bankruptcy, GameStop bets on ‘retro’](https://www.retaildive.com/news/the-weekly-closeout-pat-mcgrath-labs-exits-bankruptcy-gamestop-bets-on-r/818376/)
+[Gap co-founder Doris Fisher dies at 94](https://www.retaildive.com/news/gap-co-founder-doris-fisher-dies-94/819321/)
 
 
 
 
 
 
-By Retail Dive Staff
+By Kaarin Moore
 
 
 
-- [![Bed Bath & Beyond](https://imgproxy.divecdn.com/64wLCCDfCKT-SvUpkcmy9-WN3Hwbds6-DYKrzvAw0Gc/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDI0MzM4MTg5XzEuanBn.webp)](https://www.retaildive.com/news/bed-bath-beyond-container-store-resetting-stores-california/818304/)
+- [![Exterior of the new Victoria's Secret DC store](https://imgproxy.divecdn.com/0LVtYIL1R_GyQw4yEe66MjcI7ot4MIooLZYKLyetaPY/g:nowe:0:534/c:3200:1807/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDg5NC5qcGc=.webp)](https://www.retaildive.com/news/victorias-secret-activist-investor-board-reelection/819323/)
 
 
 
 
 
-[Bed Bath & Beyond will operate stores in California after all](https://www.retaildive.com/news/bed-bath-beyond-container-store-resetting-stores-california/818304/)
+[Victoria’s Secret & Co. faces off with activist investor, again](https://www.retaildive.com/news/victorias-secret-activist-investor-board-reelection/819323/)
+
+
+
+
+
+
+By Dani James
+
+
+
+- [![A GameStop storefront](https://imgproxy.divecdn.com/-RE-xZm51C0d-TYuP-oC9nS10Nd2WyFG0XmI3dfUSsw/g:nowe:2:67/c:1888:1066/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMl9hcHJpbF9yZXRhaWwtNi5qcGc=.webp)](https://www.retaildive.com/news/gamestop-ebay-acquisition-collectibles-powerhouse/819184/)
+
+
+
+
+
+[GameStop’s $56B eBay bid aims to create collectibles powerhouse](https://www.retaildive.com/news/gamestop-ebay-acquisition-collectibles-powerhouse/819184/)
 
 
 

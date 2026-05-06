@@ -32,15 +32,7 @@ Experience the Placer Platform first-hand with automatic freemium access include
 
 Subscribe
 
-Signup - Placer.ai
-
-Continue with Google
-
-OR
-
-Create Account
-
-Already have an account? LoginBy clicking ‘Create account’ you are agreeing to our [Privacy Policy](https://www.placer.ai/privacy-policy) & [Terms of Service](https://www.placer.ai/terms-of-service)
+Placer - Embedded Widgets
 
 ![](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/66ebee56c2cd7f960d124ee0_MagnifyingGlass.svg)[Clear search](https://www.placer.ai/anchor/articles/gap-inc-in-2025-recapping-2024-and-uncovering-banana-republics-athleisure-opportunity#)
 
@@ -198,29 +190,16 @@ For more data-driven retail insights, visit [placer.ai/blog](http://placer.ai/bl
 
 ![](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/69df7119e364c1646298ca06_Default.png)
 
-4 Opportunities the World Cup Will Unlock for Retail, Dining, and Stadiums
+Physical Retail in 2026: How the Giants Are Winning
 
-AI-powered location insights from major events reveal how the 2026 World Cup will shape audiences and consumer behavior nationwide.
-
-WP Downloaded
-
-utm\_campaign
-
-[Read More\\
-![arrow-right](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/62d6a0da95dd65677db2c258_purple-arrow-right.svg)](https://www.placer.ai/anchor/reports/4-opportunities-the-world-cup-will-unlock-for-retail-dining-and-stadiums)
-
-![](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/69df7119e364c1646298ca06_Default.png)
-
-This is some text inside of a div block.
-
-This is some text inside of a div block.
+Read the report to find out how Walmart, Target, Costco Wholesale, and Dollar General are performing in 2026 – and what their trajectories reveal about broader retail trends.
 
 WP Downloaded
 
 utm\_campaign
 
 [Read More\\
-![arrow-right](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/62d6a0da95dd65677db2c258_purple-arrow-right.svg)](https://www.placer.ai/anchor/reports)
+![arrow-right](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/62d6a0da95dd65677db2c258_purple-arrow-right.svg)](https://www.placer.ai/anchor/reports/physical-retail-in-2026-how-the-giants-are-winning) [Read Now](https://www.placer.ai/anchor/reports/physical-retail-in-2026-how-the-giants-are-winning)
 
 ![](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/669f6039ea8e57f57c012c3a_MapTrifold.svg)
 
@@ -266,23 +245,23 @@ Explore how the 2026 World Cup will reshape consumer behavior, from stadiums to 
 
 April 16, 2026
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69e6518d3dea27b4418a4f12_Starbucks%20%26%20Dutch%20Bros%20(%26%20Dunkin).avif)](https://www.placer.ai/anchor/articles/starbucks-and-dutch-bros-take-different-paths-to-growth)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69ede5d4c7bdc29f5ced3346_First%20Watch.avif)](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
 
-[Article](https://www.placer.ai/anchor/articles/starbucks-and-dutch-bros-take-different-paths-to-growth) [Starbucks and Dutch Bros Take Different Paths to Growth](https://www.placer.ai/anchor/articles/starbucks-and-dutch-bros-take-different-paths-to-growth)
+[Article](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category) [The Reinvention of the Breakfast-First Restaurant Category](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
 
-[Shira Petrack](https://www.placer.ai/anchor/articles/starbucks-and-dutch-bros-take-different-paths-to-growth)
+[R.J. Hottovy](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
 
-April 24, 2026
+May 5, 2026
 
-3 minutes
+4 minutes
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69e0c8e412bce863ceed9ff0_Shake%20Shack%20(1).avif)](https://www.placer.ai/anchor/articles/what-shake-shacks-q1-2026-performance-reveals-about-dining-in-2026)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69ea31ff40eb49948665f654_Sweetgreen%20%26%20CAVA.avif)](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen)
 
-[Article](https://www.placer.ai/anchor/articles/what-shake-shacks-q1-2026-performance-reveals-about-dining-in-2026) [What Shake Shack’s Q1 2026 Performance Reveals About Dining in 2026](https://www.placer.ai/anchor/articles/what-shake-shacks-q1-2026-performance-reveals-about-dining-in-2026)
+[Article](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen) [Diverging Paths: What the Data Reveals About CAVA and Sweetgreen](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen)
 
-[Lila Margalit](https://www.placer.ai/anchor/articles/what-shake-shacks-q1-2026-performance-reveals-about-dining-in-2026)
+[R.J. Hottovy](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen)
 
-April 23, 2026
+May 4, 2026
 
 3 minutes
 
@@ -296,23 +275,23 @@ Explore how the 2026 World Cup will reshape consumer behavior, from stadiums to 
 
 April 16, 2026
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69e6518d3dea27b4418a4f12_Starbucks%20%26%20Dutch%20Bros%20(%26%20Dunkin).avif)](https://www.placer.ai/anchor/articles/starbucks-and-dutch-bros-take-different-paths-to-growth)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69ede5d4c7bdc29f5ced3346_First%20Watch.avif)](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
 
-[Article](https://www.placer.ai/anchor/articles/starbucks-and-dutch-bros-take-different-paths-to-growth) [Starbucks and Dutch Bros Take Different Paths to Growth](https://www.placer.ai/anchor/articles/starbucks-and-dutch-bros-take-different-paths-to-growth)
+[Article](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category) [The Reinvention of the Breakfast-First Restaurant Category](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
 
-[Shira Petrack](https://www.placer.ai/anchor/articles/starbucks-and-dutch-bros-take-different-paths-to-growth)
+[R.J. Hottovy](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
 
-April 24, 2026
+May 5, 2026
 
-3 minutes
+4 minutes
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69e0c8e412bce863ceed9ff0_Shake%20Shack%20(1).avif)](https://www.placer.ai/anchor/articles/what-shake-shacks-q1-2026-performance-reveals-about-dining-in-2026)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69ea31ff40eb49948665f654_Sweetgreen%20%26%20CAVA.avif)](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen)
 
-[Article](https://www.placer.ai/anchor/articles/what-shake-shacks-q1-2026-performance-reveals-about-dining-in-2026) [What Shake Shack’s Q1 2026 Performance Reveals About Dining in 2026](https://www.placer.ai/anchor/articles/what-shake-shacks-q1-2026-performance-reveals-about-dining-in-2026)
+[Article](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen) [Diverging Paths: What the Data Reveals About CAVA and Sweetgreen](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen)
 
-[Lila Margalit](https://www.placer.ai/anchor/articles/what-shake-shacks-q1-2026-performance-reveals-about-dining-in-2026)
+[R.J. Hottovy](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen)
 
-April 23, 2026
+May 4, 2026
 
 3 minutes
 
@@ -333,6 +312,14 @@ Grow Your Business With Placer.ai
 [Get a Demo](https://www.placer.ai/request-a-demo) [Sign Up Free](https://analytics.placer.ai/auth/signup)
 
 ![](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/6432b13d637d39edd3d87df7_wp-banner.png)
+
+[Placer.ai April 2026 Mall Index: Back to Growth](https://www.placer.ai/anchor/articles/placer-ai-april-2026-mall-index-back-to-growth)
+
+[Walmart Holds Its Ground as Target Finds Its Footing](https://www.placer.ai/anchor/articles/walmart-holds-its-ground-as-target-finds-its-footing)
+
+[Home Improvement's Long Winter May Be Thawing](https://www.placer.ai/anchor/articles/home-improvements-long-winter-may-be-thawing)
+
+[In-Person Entertainment Audiences in Dallas and LA – Market Trends and Venue-Level Nuance](https://www.placer.ai/anchor/articles/in-person-entertainment-audiences-in-dallas-and-la---market-trends-and-venue-level-nuance)
 
 [The Reinvention of the Breakfast-First Restaurant Category](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
 
@@ -525,11 +512,3 @@ Grow Your Business With Placer.ai
 [Super Saturday Data Reflects More Selective Holiday Shopper](https://www.placer.ai/anchor/articles/super-saturday-data-reflects-more-selective-holiday-shopper)
 
 [RE(I)KEA: Setting Their Own Promotional Calendar](https://www.placer.ai/anchor/articles/re-i-kea-setting-their-own-promotional-calendar)
-
-[7 Brew's Rapid Rise](https://www.placer.ai/anchor/articles/7-brews-rapid-rise)
-
-[Sacramento’s Quiet Rise](https://www.placer.ai/anchor/articles/sacramentos-quiet-rise)
-
-[Dutch Bros Sets Its Sights on the Breakfast Rush](https://www.placer.ai/anchor/articles/dutch-bros-sets-its-sights-on-the-breakfast-rush)
-
-[Bifurcation in Apparel: Thrift and Luxury Ahead of the Holidays](https://www.placer.ai/anchor/articles/bifurcation-in-apparel-thrift-and-luxury-ahead-of-the-holidays)

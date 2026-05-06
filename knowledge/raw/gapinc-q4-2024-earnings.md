@@ -149,42 +149,42 @@ _Don’t miss out on the latest Gap Inc. news! [Sign-up](https://www.gapinc.com/
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Gap and Victoria Beckham Announce Multi-Season Collaboration Rooted in Timeless Design](https://www.gapinc.com/en-us/articles/2026/04/gap-and-victoria-beckham-announce-multi-season-col)
+[Read more about Zac Posen Unveils Custom GapStudio Design for Kendall Jenner at the 2026 Met Gala](https://www.gapinc.com/en-us/articles/2026/05/zac-posen-unveils-custom-gapstudio-design-for-kend)
 
 [Gap](https://www.gapinc.com/en-us/news/gap)
 
-### [Gap and Victoria Beckham Announce Multi-Season Collaboration Rooted in Timeless Design](https://www.gapinc.com/en-us/articles/2026/04/gap-and-victoria-beckham-announce-multi-season-col)
+### [Zac Posen Unveils Custom GapStudio Design for Kendall Jenner at the 2026 Met Gala](https://www.gapinc.com/en-us/articles/2026/05/zac-posen-unveils-custom-gapstudio-design-for-kend)
 
-April 20, 2026
+May 4, 2026
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Gap Inc. and Microsoft Research Explores How Human-Centered AI Training Key to Enterprise Adoption](https://www.gapinc.com/en-us/articles/2026/04/gap-inc-and-microsoft-research-explores-how-human-)
+[Read more about Honoring Doris Fisher’s Legacy](https://www.gapinc.com/en-us/articles/2026/05/honoring-doris-fisher-s-legacy)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
 
-### [Gap Inc. and Microsoft Research Explores How Human-Centered AI Training Key to Enterprise Adoption](https://www.gapinc.com/en-us/articles/2026/04/gap-inc-and-microsoft-research-explores-how-human-)
+### [Honoring Doris Fisher’s Legacy](https://www.gapinc.com/en-us/articles/2026/05/honoring-doris-fisher-s-legacy)
 
-April 16, 2026
+May 4, 2026
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Old Navy Announces Their Second Designer Collaboration With Christopher John Rogers](https://www.gapinc.com/en-us/articles/2026/04/old-navy-announces-their-second-designer-collabora)
+[Read more about Doris F. Fisher (1931–2026)](https://www.gapinc.com/en-us/articles/2026/05/doris-f-fisher-1931%E2%80%932026)
+
+[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
+
+### [Doris F. Fisher (1931–2026)](https://www.gapinc.com/en-us/articles/2026/05/doris-f-fisher-1931%E2%80%932026)
+
+May 4, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
+[Read more about Old Navy Kicks Off 17th Annual Kids Safety Donation Drive; "Super Safety Events" Happening Saturday, May 2](https://www.gapinc.com/en-us/articles/2026/04/old-navy-kicks-off-17th-annual-kids-safety-donatio)
 
 [Old Navy](https://www.gapinc.com/en-us/news/old-navy)
 
-### [Old Navy Announces Their Second Designer Collaboration With Christopher John Rogers](https://www.gapinc.com/en-us/articles/2026/04/old-navy-announces-their-second-designer-collabora)
+### [Old Navy Kicks Off 17th Annual Kids Safety Donation Drive; "Super Safety Events" Happening Saturday, May 2](https://www.gapinc.com/en-us/articles/2026/04/old-navy-kicks-off-17th-annual-kids-safety-donatio)
 
-April 15, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Gap Inc. and FIT Launch The Doris Fisher Creators Program to Bridge the Opportunity Gap for Emerging Fashion Talent](https://www.gapinc.com/en-us/articles/2026/04/gap-inc-and-fit-launch-the-doris-fisher-creators-p)
-
-[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
-
-### [Gap Inc. and FIT Launch The Doris Fisher Creators Program to Bridge the Opportunity Gap for Emerging Fashion Talent](https://www.gapinc.com/en-us/articles/2026/04/gap-inc-and-fit-launch-the-doris-fisher-creators-p)
-
-April 14, 2026
+April 29, 2026
 
 [Back to top](https://www.gapinc.com/en-us/articles/2025/03/gap-inc-reports-fourth-quarter-and-fiscal-2024-res#page-top)

@@ -195,33 +195,33 @@ By Dani James •
 
 Feb. 9, 2026
 
-- [![A child in front of an entrance to a shopping center.](https://imgproxy.divecdn.com/Eb0zOySw06em8gIup2dSr1jTasai7P3K4appNE8cS2M/g:nowe:844:1519/c:2848:1609/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctMDU2OS5qcGc=.webp)](https://www.retaildive.com/news/how-to-run-a-stores-b-malls/761169/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![A corner Adidas store with a tall screen featuring the words "You Got This."](https://imgproxy.divecdn.com/zBLiCAx4Swm7G0lWi_f-eybKV_8Rtnzo17ChwA9pduA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaWN0dXJlXzFfM18tcmVzaXplZF94eWdkanouanBn.webp)](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-Daphne Howland/Retail Dive
+Courtesy of Adidas
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-### [How to run A stores in a B mall](https://www.retaildive.com/news/how-to-run-a-stores-b-malls/761169/)
+### [With Nike in turnaround mode, is this Adidas’ opportunity in the US?](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)
 
 
 
-Retailers in lower-traffic shopping centers require excellent associates, individualized operations and realistic expectations, experts say.
-
-
-
-
-
-
-By Daphne Howland •
+North America accounts for most of the revenue difference between the rivals, and Adidas CEO Bjørn Gulden is pushing the retailer to be “more American.”
 
 
 
 
 
 
-Oct. 7, 2025
+By Cara Salpini •
+
+
+
+
+
+
+Oct. 21, 2025
 
 
 ### Retail Dive news delivered to your inbox
@@ -251,35 +251,35 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 \| [Post a press release](https://www.retaildive.com/press-release/get-started/)
 
-[Inside the Four European Houses Atelier Avenue Is Bringing to America\\
+[Saddle Creek Logistics Services Celebrates Six Decades\\
+\\
+\\
+From Saddle Creek Logistics Services\\
+\\
+May 04, 2026\\
+\\
+![Saddle Creek Logistics Services logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1777896181/press_release/assets/company_logos/SC_LOGO_stack_250x250_nkkngc.png)](https://www.retaildive.com/press-release/20260504-saddle-creek-logistics-services-celebrates-six-decades-1/) [New Research Explains Why It’s Costing Brands to Undervalue Consumer Differences\\
+\\
+\\
+From Schaefer\\
+\\
+April 30, 2026\\
+\\
+![Schaefer logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1777559687/press_release/assets/company_logos/Schaefer_Logo_Green_Black_k3gfa8.png)](https://www.retaildive.com/press-release/20260430-new-research-explains-why-its-costing-brands-to-undervalue-consumer-differ/) [Inside the Four European Houses Atelier Avenue Is Bringing to America\\
 \\
 \\
 From Atelier Avenue Group\\
 \\
 April 15, 2026\\
 \\
-![Atelier Avenue Group logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776259700/press_release/assets/company_logos/Untitled_design_44_r0jmop.png)](https://www.retaildive.com/press-release/20260415-inside-the-four-european-houses-atelier-avenue-is-bringing-to-america/) [Interface Systems Releases 2026 Retail Loss Prevention Benchmark Report\\
+![Atelier Avenue Group logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776259700/press_release/assets/company_logos/Untitled_design_44_r0jmop.png)](https://www.retaildive.com/press-release/20260415-inside-the-four-european-houses-atelier-avenue-is-bringing-to-america/) [Tapestry Selects Cordial as Enterprise Messaging Platform\\
 \\
 \\
-From Interface Systems\\
+From Cordial\\
 \\
 April 15, 2026\\
 \\
-![Interface Systems logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776240206/press_release/assets/company_logos/interface-logo_wjecs1.jpg)](https://www.retaildive.com/press-release/20260415-interface-systems-releases-2026-retail-loss-prevention-benchmark-report/) [Upgraded Impinj R700 Reader Delivers Enterprise-Grade Edge Intelligence for Autonomous Reading…\\
-\\
-\\
-From Impinj\\
-\\
-April 16, 2026\\
-\\
-![Impinj logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776300619/press_release/assets/company_logos/Impinj_Primary_Logo_CLR_SM-600-400_mzrwrk.png)](https://www.retaildive.com/press-release/20260415-upgraded-impinj-r700-reader-delivers-enterprise-grade-edge-intelligence-for-1/) [KWI AI Product Image Search Selected As “Overall RetailTech Innovation of the Year” In 2026 Re…\\
-\\
-\\
-From KWI\\
-\\
-April 23, 2026\\
-\\
-![KWI logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776950489/press_release/assets/company_logos/KWI_Submark_600x600_fappqs.png)](https://www.retaildive.com/press-release/20260423-kwi-ai-product-image-search-selected-as-overall-retailtech-innovation-of-t-1/)
+![Cordial logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776189829/press_release/assets/company_logos/Cordial_Logo_Black_Full_Color_kp2fy8.png)](https://www.retaildive.com/press-release/20260414-tapestry-selects-cordial-as-enterprise-messaging-platform-1/)
 
 
 Editors’ picks
@@ -314,62 +314,45 @@ By Dani James •
 
 Feb. 9, 2026
 
-- [![A child in front of an entrance to a shopping center.](https://imgproxy.divecdn.com/Eb0zOySw06em8gIup2dSr1jTasai7P3K4appNE8cS2M/g:nowe:844:1519/c:2848:1609/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctMDU2OS5qcGc=.webp)](https://www.retaildive.com/news/how-to-run-a-stores-b-malls/761169/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![A corner Adidas store with a tall screen featuring the words "You Got This."](https://imgproxy.divecdn.com/zBLiCAx4Swm7G0lWi_f-eybKV_8Rtnzo17ChwA9pduA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaWN0dXJlXzFfM18tcmVzaXplZF94eWdkanouanBn.webp)](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-Daphne Howland/Retail Dive
+Courtesy of Adidas
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-### [How to run A stores in a B mall](https://www.retaildive.com/news/how-to-run-a-stores-b-malls/761169/)
+### [With Nike in turnaround mode, is this Adidas’ opportunity in the US?](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)
 
 
 
-Retailers in lower-traffic shopping centers require excellent associates, individualized operations and realistic expectations, experts say.
-
-
-
-
-
-
-By Daphne Howland •
+North America accounts for most of the revenue difference between the rivals, and Adidas CEO Bjørn Gulden is pushing the retailer to be “more American.”
 
 
 
 
 
 
-Oct. 7, 2025
+By Cara Salpini •
+
+
+
+
+
+
+Oct. 21, 2025
 
 
 Latest in Financial News
 
 
-- [![Retail rendering of a pop up store in partnership with Google](https://imgproxy.divecdn.com/OAbJychIoU4Sq28lEC-GnKuJZZVeUJrhPuw2o2Ri_lg/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QTUdfR19TY2FmZm9sZGluZ18wMS5qcGc=.webp)](https://www.retaildive.com/news/the-weekly-closeout-pat-mcgrath-labs-exits-bankruptcy-gamestop-bets-on-r/818376/)
+- [![People walking past a store.](https://imgproxy.divecdn.com/IikhwvYBpVDiQ14SQZ4alSUnMKFH6KnQfSeHP8RxqB0/g:nowe:0:48/c:640:361/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iZW5kX3JldGFpbF8tXzcuanBlZw==.webp)](https://www.retaildive.com/news/rei-coop-flat-sales-narrower-losses-store-union-workers-anniversary-sale-boycott/819310/)
 
 
 
 
 
-[The Weekly Closeout: Pat McGrath Labs exits bankruptcy, GameStop bets on ‘retro’](https://www.retaildive.com/news/the-weekly-closeout-pat-mcgrath-labs-exits-bankruptcy-gamestop-bets-on-r/818376/)
-
-
-
-
-
-
-By Retail Dive Staff
-
-
-
-- [![Bright blue skies and big white puffy clouds behind a Men's Wearhouse store.](https://imgproxy.divecdn.com/SYBRmMswy0aAdNq9goJ4bK5_cFOKQugVqeCcO7BO6RM/g:nowe:0:746/c:4032:2277/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDg4Ni5qcGVn.webp)](https://www.retaildive.com/news/mens-wearhouse-owner-tailored-brands-go-public-ipo/818170/)
-
-
-
-
-
-[Men’s Wearhouse owner aims to rejoin the stock market](https://www.retaildive.com/news/mens-wearhouse-owner-tailored-brands-go-public-ipo/818170/)
+[REI reports flat sales, narrower losses as store workers call for a boycott](https://www.retaildive.com/news/rei-coop-flat-sales-narrower-losses-store-union-workers-anniversary-sale-boycott/819310/)
 
 
 
@@ -380,13 +363,13 @@ By Daphne Howland
 
 
 
-- [![Exterior of a Primark store in downtown Chicago.](https://imgproxy.divecdn.com/8-nsPZ0Zv_WiNQocKL8NHXV0TnjE86HYHMKEiJu3uIQ/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcmltYXJrX1VkWkxKTjEuanBn.webp)](https://www.retaildive.com/news/primark-spinoff-abf-stand-alone-apparel-company/818050/)
+- [![Monster High characters lined up.](https://imgproxy.divecdn.com/adn11EY9980-YwGSb5kD8gszP1yrMxQJT0HCuNgG_ik/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NSF9IZXJvX3YyXzEuanBn.webp)](https://www.retaildive.com/news/mattel-ceo-consumers-buying-toys-q1-earnings/819264/)
 
 
 
 
 
-[Primark to be spun off into stand-alone company](https://www.retaildive.com/news/primark-spinoff-abf-stand-alone-apparel-company/818050/)
+[Mattel CEO: ‘Consumers are buying toys’](https://www.retaildive.com/news/mattel-ceo-consumers-buying-toys-q1-earnings/819264/)
 
 
 
@@ -397,20 +380,37 @@ By Kaarin Moore
 
 
 
-- [![The checkout counter at a Backcountry outdoor gear and apparel store](https://imgproxy.divecdn.com/wbhWq9YLY0MJgOyKjrmsykSWricFqQf2CtGLY6uZRdY/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iYWNrY291bnRyeV9zdG9yZV9sb3NfYW5nZWxlcy5qcGc=.webp)](https://www.retaildive.com/news/backcountry-brand-incubator-acquires-coalatree/817752/)
+- [![A GameStop storefront](https://imgproxy.divecdn.com/-RE-xZm51C0d-TYuP-oC9nS10Nd2WyFG0XmI3dfUSsw/g:nowe:2:67/c:1888:1066/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMl9hcHJpbF9yZXRhaWwtNi5qcGc=.webp)](https://www.retaildive.com/news/gamestop-ebay-acquisition-collectibles-powerhouse/819184/)
 
 
 
 
 
-[Backcountry acquires Coalatree as it debuts brand incubator](https://www.retaildive.com/news/backcountry-brand-incubator-acquires-coalatree/817752/)
+[GameStop’s $56B eBay bid aims to create collectibles powerhouse](https://www.retaildive.com/news/gamestop-ebay-acquisition-collectibles-powerhouse/819184/)
 
 
 
 
 
 
-By Tatiana Walk-Morris
+By Dani James
+
+
+
+- [![An Estée Lauder shop at Vitosha Boulevard in Sofia, Bulgaria on Oct. 16, 2023.](https://imgproxy.divecdn.com/7YAs9Qq9-1k0SDw_vTOxemxF8LCilwd8nM_LLFvFSoY/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTQ4Njk5NzM1LmpwZw==.webp)](https://www.retaildive.com/news/estee-lauder-layoffs-point-of-sale-department-stores/819068/)
+
+
+
+
+
+[Estée Lauder now expects up to 10K role reductions](https://www.retaildive.com/news/estee-lauder-layoffs-point-of-sale-department-stores/819068/)
+
+
+
+
+
+
+By Dani James
 
 
 
