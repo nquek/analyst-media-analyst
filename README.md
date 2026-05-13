@@ -6,7 +6,7 @@ An end-to-end analytics pipeline that tracks brand search interest and quarterly
 
 This project answers two core business questions:
 1. **How does search interest for Gap Inc. brands (Old Navy, Gap, Banana Republic, Athleta) compare to competitors over time?**
-2. **Does quarterly revenue performance correlate with brand search interest?**
+2. **Does quarterly revenue performance correlate with brand search interest for Gap Inc. and its brands?**
 
 The pipeline ingests weekly Google Trends data and quarterly SEC EDGAR filings, transforms them through a star schema in Snowflake via dbt, and surfaces insights through an interactive Streamlit dashboard.
 
