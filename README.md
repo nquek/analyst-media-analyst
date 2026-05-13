@@ -83,7 +83,6 @@ flowchart TB
     J --> L & N
     K & L & M & N --> O
     P --> Q
-Q --> R[Claude Code\nInterview Demo]
 G --> |raw trends data| I
 H --> |raw financials| J
 style A fill:#185FA5,color:#E6F1FB
