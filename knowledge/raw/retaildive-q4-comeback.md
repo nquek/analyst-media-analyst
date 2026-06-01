@@ -195,33 +195,33 @@ By Dani James •
 
 Feb. 9, 2026
 
-- [![A corner Adidas store with a tall screen featuring the words "You Got This."](https://imgproxy.divecdn.com/zBLiCAx4Swm7G0lWi_f-eybKV_8Rtnzo17ChwA9pduA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaWN0dXJlXzFfM18tcmVzaXplZF94eWdkanouanBn.webp)](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![ChatGPT, Gemini, Microsoft Copilot, Claude, and Perplexity app icons are seen on a Google Pixel smartphone.](https://imgproxy.divecdn.com/Gr1xPcd8fwJqnfkStLhS3ts3OPlggpsJ1KU6LXysKy0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc2MDUzNzQ5LmpwZw==.webp)](https://www.retaildive.com/news/retails-ai-bet-risks-data-market-share/810202/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-Courtesy of Adidas
+Getty Images
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-### [With Nike in turnaround mode, is this Adidas’ opportunity in the US?](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)
+### [Retail’s risky AI commerce bet](https://www.retaildive.com/news/retails-ai-bet-risks-data-market-share/810202/)
 
 
 
-North America accounts for most of the revenue difference between the rivals, and Adidas CEO Bjørn Gulden is pushing the retailer to be “more American.”
-
-
-
-
-
-
-By Cara Salpini •
+As retailers race to meet consumers on external AI platforms, they risk losing data and direct interaction with shoppers. Experts say disruption has only just begun.
 
 
 
 
 
 
-Oct. 21, 2025
+By Dani James •
+
+
+
+
+
+
+Jan. 26, 2026
 
 
 ### Retail Dive news delivered to your inbox
@@ -251,35 +251,35 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 \| [Post a press release](https://www.retaildive.com/press-release/get-started/)
 
-[Saddle Creek Logistics Services Celebrates Six Decades\\
+[ZeroToOne.AI Deploys its Large Behavioral Model at Advertising Scale Through GroundTruth, Laun…\\
 \\
 \\
-From Saddle Creek Logistics Services\\
+From GroundTruth\\
 \\
-May 04, 2026\\
+May 28, 2026\\
 \\
-![Saddle Creek Logistics Services logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1777896181/press_release/assets/company_logos/SC_LOGO_stack_250x250_nkkngc.png)](https://www.retaildive.com/press-release/20260504-saddle-creek-logistics-services-celebrates-six-decades-1/) [New Research Explains Why It’s Costing Brands to Undervalue Consumer Differences\\
-\\
-\\
-From Schaefer\\
-\\
-April 30, 2026\\
-\\
-![Schaefer logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1777559687/press_release/assets/company_logos/Schaefer_Logo_Green_Black_k3gfa8.png)](https://www.retaildive.com/press-release/20260430-new-research-explains-why-its-costing-brands-to-undervalue-consumer-differ/) [Inside the Four European Houses Atelier Avenue Is Bringing to America\\
+![GroundTruth logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1779979814/press_release/assets/company_logos/ZTO-GT-250px_y1lmzw.png)](https://www.retaildive.com/press-release/20260528-zerotooneai-deploys-its-large-behavioral-model-at-advertising-scale-throug-1/) [New goHappy Report Links Frontline Engagement to 10-Point Turnover Drop\\
 \\
 \\
-From Atelier Avenue Group\\
+From goHappy\\
 \\
-April 15, 2026\\
+May 14, 2026\\
 \\
-![Atelier Avenue Group logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776259700/press_release/assets/company_logos/Untitled_design_44_r0jmop.png)](https://www.retaildive.com/press-release/20260415-inside-the-four-european-houses-atelier-avenue-is-bringing-to-america/) [Tapestry Selects Cordial as Enterprise Messaging Platform\\
+![goHappy logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1778724672/press_release/assets/company_logos/goHappy_logo_-_2026_Green_bps3st.jpg)](https://www.retaildive.com/press-release/20260513-new-gohappy-report-links-frontline-engagement-to-10-point-turnover-drop-1/) [WHSmith Partners with VisionR for AI Powered Shopper Insights\\
 \\
 \\
-From Cordial\\
+From VisionR\\
 \\
-April 15, 2026\\
+May 13, 2026\\
 \\
-![Cordial logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776189829/press_release/assets/company_logos/Cordial_Logo_Black_Full_Color_kp2fy8.png)](https://www.retaildive.com/press-release/20260414-tapestry-selects-cordial-as-enterprise-messaging-platform-1/)
+![VisionR logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1778683900/press_release/assets/company_logos/New_Project_10_amnctr.png)](https://www.retaildive.com/press-release/20260513-whsmith-partners-with-visionr-for-ai-powered-shopper-insights/) [Melting Forest Launches at The Drop, by GNC with Functional Energy & D-Stress\\
+\\
+\\
+From Melting Forest\\
+\\
+May 11, 2026\\
+\\
+![Melting Forest logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1778526842/press_release/assets/company_logos/Melting_forest_Logo_ctibia.jpg)](https://www.retaildive.com/press-release/20260511-melting-forest-launches-at-the-drop-by-gnc-with-functional-energy-d-stre/)
 
 
 Editors’ picks
@@ -314,45 +314,45 @@ By Dani James •
 
 Feb. 9, 2026
 
-- [![A corner Adidas store with a tall screen featuring the words "You Got This."](https://imgproxy.divecdn.com/zBLiCAx4Swm7G0lWi_f-eybKV_8Rtnzo17ChwA9pduA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaWN0dXJlXzFfM18tcmVzaXplZF94eWdkanouanBn.webp)](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![ChatGPT, Gemini, Microsoft Copilot, Claude, and Perplexity app icons are seen on a Google Pixel smartphone.](https://imgproxy.divecdn.com/Gr1xPcd8fwJqnfkStLhS3ts3OPlggpsJ1KU6LXysKy0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc2MDUzNzQ5LmpwZw==.webp)](https://www.retaildive.com/news/retails-ai-bet-risks-data-market-share/810202/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-Courtesy of Adidas
+Getty Images
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-### [With Nike in turnaround mode, is this Adidas’ opportunity in the US?](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)
+### [Retail’s risky AI commerce bet](https://www.retaildive.com/news/retails-ai-bet-risks-data-market-share/810202/)
 
 
 
-North America accounts for most of the revenue difference between the rivals, and Adidas CEO Bjørn Gulden is pushing the retailer to be “more American.”
-
-
-
-
-
-
-By Cara Salpini •
+As retailers race to meet consumers on external AI platforms, they risk losing data and direct interaction with shoppers. Experts say disruption has only just begun.
 
 
 
 
 
 
-Oct. 21, 2025
+By Dani James •
+
+
+
+
+
+
+Jan. 26, 2026
 
 
 Latest in Financial News
 
 
-- [![People walking past a store.](https://imgproxy.divecdn.com/IikhwvYBpVDiQ14SQZ4alSUnMKFH6KnQfSeHP8RxqB0/g:nowe:0:48/c:640:361/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iZW5kX3JldGFpbF8tXzcuanBlZw==.webp)](https://www.retaildive.com/news/rei-coop-flat-sales-narrower-losses-store-union-workers-anniversary-sale-boycott/819310/)
+- [![An dark blue oval sign in white capital letters spellig "Old Navy" sticks out from a white building.](https://imgproxy.divecdn.com/Mzhw_sp1Sife7blWHZ1IQJqiriv9cR7l3AvIy0ZdpQ8/g:nowe:1074:1588/c:6286:3551/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMl9hcHJpbF9yZXRhaWwtNTEuanBn.webp)](https://www.retaildive.com/news/old-navy-fashion-misses-spell-trouble-gap-inc-q1-earnings/821459/)
 
 
 
 
 
-[REI reports flat sales, narrower losses as store workers call for a boycott](https://www.retaildive.com/news/rei-coop-flat-sales-narrower-losses-store-union-workers-anniversary-sale-boycott/819310/)
+[Fashion misses at Old Navy spell trouble for Gap Inc.](https://www.retaildive.com/news/old-navy-fashion-misses-spell-trouble-gap-inc-q1-earnings/821459/)
 
 
 
@@ -363,13 +363,47 @@ By Daphne Howland
 
 
 
-- [![Monster High characters lined up.](https://imgproxy.divecdn.com/adn11EY9980-YwGSb5kD8gszP1yrMxQJT0HCuNgG_ik/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NSF9IZXJvX3YyXzEuanBn.webp)](https://www.retaildive.com/news/mattel-ceo-consumers-buying-toys-q1-earnings/819264/)
+- [![A person carrying a tote bag looks at items on a grocery store shelf](https://imgproxy.divecdn.com/CVd0Vn0bom2_ubwc21d40zKAMmGJ164cKAp-bdQFuG8/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA4OTUyNzQzLmpwZw==.webp)](https://www.retaildive.com/news/consumer-sentiment-falls-cost-living-inflation-Fed/821066/)
 
 
 
 
 
-[Mattel CEO: ‘Consumers are buying toys’](https://www.retaildive.com/news/mattel-ceo-consumers-buying-toys-q1-earnings/819264/)
+[Consumer sentiment falls to new low; cost of living ‘first-order’ worry](https://www.retaildive.com/news/consumer-sentiment-falls-cost-living-inflation-Fed/821066/)
+
+
+
+
+
+
+By Jim Tyson
+
+
+
+- [![A red Burlington storefront says "ladies, mens, kids, baby, home, coats," as clouds billow overhead in a bright blue sky.](https://imgproxy.divecdn.com/c0gLNHMv2lPVEDr-0qcjpgP328aRbAuq8dlBvlGX-tU/g:nowe:0:230/c:4032:2278/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctMDg4My5qcGc=.webp)](https://www.retaildive.com/news/rei-union-turns-away-thousands-mattel-brick-shop-expands/821386/)
+
+
+
+
+
+[The Weekly Closeout: Burlington plots store openings, Mattel expands Brick Shop](https://www.retaildive.com/news/rei-union-turns-away-thousands-mattel-brick-shop-expands/821386/)
+
+
+
+
+
+
+By Retail Dive Staff
+
+
+
+- [![A Dollar Tree store with a large green and white sign above the entrance, located in a shopping center. The building has a beige exterior with green trim and large windows displaying promotional signs. Several parked cars are visible in the foreground, and a leafless tree stands on the left side of the image under a clear blue sky.](https://imgproxy.divecdn.com/6FBxq1huDwpSSUxKQAw1GGeNsavYAlglVFGb0Deya6o/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRjROWVBHLmpwZw==.webp)](https://www.retaildive.com/news/dollar-tree-q1-earnings-model-built-inflation-high-prices/821403/)
+
+
+
+
+
+[Dollar Tree CEO: ‘Our model is built for environments like this’](https://www.retaildive.com/news/dollar-tree-q1-earnings-model-built-inflation-high-prices/821403/)
 
 
 
@@ -377,40 +411,6 @@ By Daphne Howland
 
 
 By Kaarin Moore
-
-
-
-- [![A GameStop storefront](https://imgproxy.divecdn.com/-RE-xZm51C0d-TYuP-oC9nS10Nd2WyFG0XmI3dfUSsw/g:nowe:2:67/c:1888:1066/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMl9hcHJpbF9yZXRhaWwtNi5qcGc=.webp)](https://www.retaildive.com/news/gamestop-ebay-acquisition-collectibles-powerhouse/819184/)
-
-
-
-
-
-[GameStop’s $56B eBay bid aims to create collectibles powerhouse](https://www.retaildive.com/news/gamestop-ebay-acquisition-collectibles-powerhouse/819184/)
-
-
-
-
-
-
-By Dani James
-
-
-
-- [![An Estée Lauder shop at Vitosha Boulevard in Sofia, Bulgaria on Oct. 16, 2023.](https://imgproxy.divecdn.com/7YAs9Qq9-1k0SDw_vTOxemxF8LCilwd8nM_LLFvFSoY/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTQ4Njk5NzM1LmpwZw==.webp)](https://www.retaildive.com/news/estee-lauder-layoffs-point-of-sale-department-stores/819068/)
-
-
-
-
-
-[Estée Lauder now expects up to 10K role reductions](https://www.retaildive.com/news/estee-lauder-layoffs-point-of-sale-department-stores/819068/)
-
-
-
-
-
-
-By Dani James
 
 
 

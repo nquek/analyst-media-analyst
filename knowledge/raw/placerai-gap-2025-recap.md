@@ -32,7 +32,15 @@ Experience the Placer Platform first-hand with automatic freemium access include
 
 Subscribe
 
-Placer - Embedded Widgets
+Signup - Placer.ai
+
+Continue with Google
+
+OR
+
+Create Account
+
+Already have an account? LoginBy clicking ‘Create account’ you are agreeing to our [Privacy Policy](https://www.placer.ai/privacy-policy) & [Terms of Service](https://www.placer.ai/terms-of-service)
 
 ![](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/66ebee56c2cd7f960d124ee0_MagnifyingGlass.svg)[Clear search](https://www.placer.ai/anchor/articles/gap-inc-in-2025-recapping-2024-and-uncovering-banana-republics-athleisure-opportunity#)
 
@@ -121,6 +129,18 @@ But the brand may be positioning itself for a comeback. Last year, Banana Republ
 
 And as return to office mandates continue to roll in – reinvigorating the long dormant demand for business casual and office wear – the chain is well positioned for a comeback.
 
+![](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/69df7119e364c1646298ca06_Default.png)
+
+What High-Growth Brands Know About Picking the Right Location
+
+Explore key signals guiding data-driven site selection from brands actively expanding their brick-and-mortar footprints.
+
+WP Downloaded
+
+utm\_campaign
+
+[Read More](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location) [Read Now](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
+
 ### **Do Banana Republic Shoppers Want More Athleisure?**
 
 Location intelligence analysis also reveals an additional growth opportunity. Banana Republic is the only Gap banner without a dedicated sportswear line. Athleta specializes in athletic wear, Gap offers GapFit, and Old Navy’s activewear line has been a [core component](https://www.fool.com/earnings/call-transcripts/2024/05/30/gap-gps-q1-2024-earnings-call-transcript/) of the banner’s success in recent years.
@@ -188,19 +208,6 @@ For more data-driven retail insights, visit [placer.ai/blog](http://placer.ai/bl
 
 ‍
 
-![](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/69df7119e364c1646298ca06_Default.png)
-
-Physical Retail in 2026: How the Giants Are Winning
-
-Read the report to find out how Walmart, Target, Costco Wholesale, and Dollar General are performing in 2026 – and what their trajectories reveal about broader retail trends.
-
-WP Downloaded
-
-utm\_campaign
-
-[Read More\\
-![arrow-right](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/62d6a0da95dd65677db2c258_purple-arrow-right.svg)](https://www.placer.ai/anchor/reports/physical-retail-in-2026-how-the-giants-are-winning) [Read Now](https://www.placer.ai/anchor/reports/physical-retail-in-2026-how-the-giants-are-winning)
-
 ![](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/669f6039ea8e57f57c012c3a_MapTrifold.svg)
 
 **Learn how downtown regions across US cities are measuring up with our free tools.**
@@ -237,61 +244,69 @@ Oops! Something went wrong while submitting the form.
 
 Recent Publications
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69c906dff0b2f489a8887c5a_Cover%20900x690%20(1).avif)](https://www.placer.ai/anchor/reports/4-opportunities-the-world-cup-will-unlock-for-retail-dining-and-stadiums)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a003b34454b018a0af1b008_Cover%20900x690.avif)](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
 
-[INSIDER](https://www.placer.ai/anchor/reports) [4 Opportunities the World Cup Will Unlock for Retail, Dining, and Stadiums](https://www.placer.ai/anchor/reports/4-opportunities-the-world-cup-will-unlock-for-retail-dining-and-stadiums)
+[INSIDER\\
+\\
+Report](https://www.placer.ai/anchor/reports) [What High-Growth Brands Know About Picking the Right Location](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
 
-Explore how the 2026 World Cup will reshape consumer behavior, from stadiums to living rooms, unlocking new opportunities for retail, dining, and travel.
+Discover how high-growth retail and dining brands choose winning locations using data-driven insights. Learn key strategies for site selection and expansion success including demand and demographic analysis.
 
-April 16, 2026
+[Placer Research](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69ede5d4c7bdc29f5ced3346_First%20Watch.avif)](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
+May 21, 2026
 
-[Article](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category) [The Reinvention of the Breakfast-First Restaurant Category](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a1d2543a529725dc075ebaf_Hobby%20Retail.avif)](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
 
-[R.J. Hottovy](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
+[Article](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail) [Consumer Desire for Small Indulgences Boosts Hobby Retail](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
 
-May 5, 2026
+[Elizabeth Lafontaine](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
 
-4 minutes
+June 1, 2026
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69ea31ff40eb49948665f654_Sweetgreen%20%26%20CAVA.avif)](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen)
+3 minutes
 
-[Article](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen) [Diverging Paths: What the Data Reveals About CAVA and Sweetgreen](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a1583e909e1b0c96c713742_Shein%20%26%20Everlane.avif)](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
 
-[R.J. Hottovy](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen)
+[Article](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane) [What Shein Is Really Buying with Everlane](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
 
-May 4, 2026
+[Lila Margalit](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
+
+May 29, 2026
 
 3 minutes
 
 Recent Publications
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69c906dff0b2f489a8887c5a_Cover%20900x690%20(1).avif)](https://www.placer.ai/anchor/reports/4-opportunities-the-world-cup-will-unlock-for-retail-dining-and-stadiums)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a003b34454b018a0af1b008_Cover%20900x690.avif)](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
 
-[INSIDER](https://www.placer.ai/anchor/reports) [4 Opportunities the World Cup Will Unlock for Retail, Dining, and Stadiums](https://www.placer.ai/anchor/reports/4-opportunities-the-world-cup-will-unlock-for-retail-dining-and-stadiums)
+[INSIDER\\
+\\
+Report](https://www.placer.ai/anchor/reports) [What High-Growth Brands Know About Picking the Right Location](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
 
-Explore how the 2026 World Cup will reshape consumer behavior, from stadiums to living rooms, unlocking new opportunities for retail, dining, and travel.
+Discover how high-growth retail and dining brands choose winning locations using data-driven insights. Learn key strategies for site selection and expansion success including demand and demographic analysis.
 
-April 16, 2026
+[Placer Research](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69ede5d4c7bdc29f5ced3346_First%20Watch.avif)](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
+May 21, 2026
 
-[Article](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category) [The Reinvention of the Breakfast-First Restaurant Category](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a1d2543a529725dc075ebaf_Hobby%20Retail.avif)](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
 
-[R.J. Hottovy](https://www.placer.ai/anchor/articles/the-reinvention-of-the-breakfast-first-restaurant-category)
+[Article](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail) [Consumer Desire for Small Indulgences Boosts Hobby Retail](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
 
-May 5, 2026
+[Elizabeth Lafontaine](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
 
-4 minutes
+June 1, 2026
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/69ea31ff40eb49948665f654_Sweetgreen%20%26%20CAVA.avif)](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen)
+3 minutes
 
-[Article](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen) [Diverging Paths: What the Data Reveals About CAVA and Sweetgreen](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a1583e909e1b0c96c713742_Shein%20%26%20Everlane.avif)](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
 
-[R.J. Hottovy](https://www.placer.ai/anchor/articles/diverging-paths-what-the-data-reveals-about-cava-and-sweetgreen)
+[Article](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane) [What Shein Is Really Buying with Everlane](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
 
-May 4, 2026
+[Lila Margalit](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
+
+May 29, 2026
 
 3 minutes
 
@@ -312,6 +327,42 @@ Grow Your Business With Placer.ai
 [Get a Demo](https://www.placer.ai/request-a-demo) [Sign Up Free](https://analytics.placer.ai/auth/signup)
 
 ![](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/6432b13d637d39edd3d87df7_wp-banner.png)
+
+[Super Mario Galaxy's Impact on Movie Theater Audience](https://www.placer.ai/anchor/articles/super-mario-galaxys-impact-on-movie-theater-audience)
+
+[Jersey Mike's on the Way to an IPO – Traffic and Audience Growth](https://www.placer.ai/anchor/articles/jersey-mikes-on-the-way-to-an-ipo---traffic-and-audience-growth)
+
+[Consumer Desire for Small Indulgences Boosts Hobby Retail](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
+
+[test embed ezra](https://www.placer.ai/anchor/articles/test-embed-ezra)
+
+[Five Below: Letting Go and Having Fun in Q1 2026](https://www.placer.ai/anchor/articles/five-below-letting-go-and-having-fun-in-q1-2026)
+
+[What Shein Is Really Buying with Everlane](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
+
+[Beauty and Wellness’ Reinvention Era: Inside Ulta and Bath & Body Works’ Growth Strategies](https://www.placer.ai/anchor/articles/beauty-and-wellness-reinvention-era-inside-ulta-and-bath-body-works-growth-strategies)
+
+[Why Dollar General Is Outpacing Dollar Tree in Early 2026](https://www.placer.ai/anchor/articles/why-dollar-general-is-outpacing-dollar-tree-in-early-2026)
+
+[Traffic Softens, but Growth Levers Remain for DICK’s, Gap, and lululemon](https://www.placer.ai/anchor/articles/traffic-softens-but-growth-levers-remain-for-dicks-gap-and-lululemon)
+
+[The Department Store Divide: What's Working in 2026](https://www.placer.ai/anchor/articles/the-department-store-divide-whats-working-in-2026)
+
+[Off-Price Picks Up Even More Steam in Q1 2026 – Led by Ross](https://www.placer.ai/anchor/articles/off-price-picks-up-even-more-steam-in-q1-2026---led-by-ross)
+
+[Grocery in Q1 2026: Is Traditional Grocery Making a Comeback?](https://www.placer.ai/anchor/articles/grocery-in-q1-2026-is-traditional-grocery-making-a-comeback)
+
+[Soaring Gas Prices Fuel Traffic and Shift Behavior at Wholesale Club Pumps](https://www.placer.ai/anchor/articles/soaring-gas-prices-fuel-traffic-and-shift-behavior-at-wholesale-club-pumps)
+
+[New Technology, Same Commitment: Our Responsible AI Principles](https://www.placer.ai/anchor/articles/new-technology-same-commitment-our-responsible-ai-principles)
+
+[Placer.ai Macroeconomic Indicators Recap, April 2026: Resilient Retail Demand](https://www.placer.ai/anchor/articles/placer-ai-macroeconomic-indicators-recap-april-2026-resilient-retail-demand)
+
+[April 2026 Placer.ai Dining Index: Is the Price at the Pump Impacting Drive-Thru Visits?](https://www.placer.ai/anchor/articles/april-2026-placer-ai-dining-index-is-the-price-at-the-pump-impacting-drive-thru-visits)
+
+[April 2026 Placer.ai Office Index: RTO Progress Amid Gas Price Headwinds](https://www.placer.ai/anchor/articles/april-2026-placer-ai-office-index-rto-progress-amid-gas-price-headwinds)
+
+[The Devil Wears Prada 2 Helps Stabilize Theater Traffic](https://www.placer.ai/anchor/articles/the-devil-wears-prada-2-helps-stabilize-theater-traffic)
 
 [Placer.ai April 2026 Mall Index: Back to Growth](https://www.placer.ai/anchor/articles/placer-ai-april-2026-mall-index-back-to-growth)
 
@@ -476,39 +527,3 @@ Grow Your Business With Placer.ai
 [Tractor Supply’s Demand-Driven Expansion](https://www.placer.ai/anchor/articles/tractor-supplys-demand-driven-expansion)
 
 [Q4 2025 FSR Trends Emphasize Strategy, Value, and Footprint Discipline](https://www.placer.ai/anchor/articles/q4-2025-fsr-trends-emphasize-strategy-value-and-footprint-discipline)
-
-[What Other QSR Brands Can Learn From McDonald’s Loyalty Strategy](https://www.placer.ai/anchor/articles/what-other-qsr-brands-can-learn-from-mcdonalds-loyalty-strategy)
-
-[The Commuters Shaping Downtown Columbus](https://www.placer.ai/anchor/articles/the-commuters-shaping-downtown-columbus)
-
-[Chipotle’s Growth Is No Longer Just About New Restaurants](https://www.placer.ai/anchor/articles/chipotles-growth-is-no-longer-just-about-new-restaurants)
-
-[Opportunity vs. Operational Reality in Dollar Tree's 99 Cents Only Acquisition](https://www.placer.ai/anchor/articles/opportunity-vs-operational-reality-in-dollar-trees-99-cents-only-acquisition)
-
-[Which Gym Is Right For You in 2026?](https://www.placer.ai/anchor/articles/which-gym-is-right-for-you-in-2026)
-
-[Placer.ai Overall Retail, E-Commerce Distribution, Industrial Manufacturing Index, December 2025](https://www.placer.ai/anchor/articles/placer-ai-overall-retail-e-commerce-distribution-industrial-manufacturing-index-december-2025)
-
-[PacSun Puts Gen Z in Focus](https://www.placer.ai/anchor/articles/pacsun-puts-gen-z-in-focus)
-
-[Checking Out Grocery in 2025 and Lessons for 2026](https://www.placer.ai/anchor/articles/checking-out-grocery-in-2025-and-lessons-for-2026)
-
-[Placer.ai December 2025 Office Index: ‘Tis the Season to WFH](https://www.placer.ai/anchor/articles/placer-ai-december-2025-office-index-tis-the-season-to-wfh)
-
-[What 2025’s Biggest QSR Traffic Surges Reveal About Dining Strategies for 2026](https://www.placer.ai/anchor/articles/what-2025s-biggest-qsr-traffic-surges-reveal-about-dining-strategies-for-2026)
-
-[All The Things I Think I Think About What I Got Right And Wrong About Retail In 2025](https://www.placer.ai/anchor/articles/all-the-things-i-think-i-think-about-what-i-got-right-and-wrong-about-retail-in-2025)
-
-[Placer.ai December 2025 Mall Index: Recapping 2025 Shopping Center Trends](https://www.placer.ai/anchor/articles/placer-ai-december-2025-mall-index-recapping-2025-shopping-center-trends)
-
-[Discretionary Retail in 2025: A Year of Discernment, Reinvention & Small Joys](https://www.placer.ai/anchor/articles/discretionary-retail-in-2025-a-year-of-discernment-reinvention-small-joys)
-
-[Surprises You Should Have Expected](https://www.placer.ai/anchor/articles/surprises-you-should-have-expected)
-
-[Younger Shoppers, Consolidation Boost Holiday Traffic to Michaels & Hobby Lobby](https://www.placer.ai/anchor/articles/younger-shoppers-consolidation-boost-holiday-traffic-to-michaels-hobby-lobby)
-
-[Value, Bifurcation, and Self-Gifting During the 2025 Holiday Season](https://www.placer.ai/anchor/articles/value-bifurcation-and-self-gifting-during-the-2025-holiday-season)
-
-[Super Saturday Data Reflects More Selective Holiday Shopper](https://www.placer.ai/anchor/articles/super-saturday-data-reflects-more-selective-holiday-shopper)
-
-[RE(I)KEA: Setting Their Own Promotional Calendar](https://www.placer.ai/anchor/articles/re-i-kea-setting-their-own-promotional-calendar)

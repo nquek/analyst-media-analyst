@@ -132,42 +132,42 @@ _Don’t miss out on the latest Gap Inc. news! [Sign-up](https://www.gapinc.com/
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Zac Posen Unveils Custom GapStudio Design for Kendall Jenner at the 2026 Met Gala](https://www.gapinc.com/en-us/articles/2026/05/zac-posen-unveils-custom-gapstudio-design-for-kend)
+[Read more about Gap Inc. Reports First Quarter Fiscal 2026 Results, Raises Full Year Earnings Per Share Outlook](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-reports-first-quarter-fiscal-2026-results,)
+
+[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
+
+### [Gap Inc. Reports First Quarter Fiscal 2026 Results, Raises Full Year Earnings Per Share Outlook](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-reports-first-quarter-fiscal-2026-results,)
+
+May 28, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
+[Read more about Gap Inc. Appoints Donald Kohler as Banana Republic President and Chief Executive Officer](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-appoints-donald-kohler-as-banana-republic-)
+
+[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
+
+### [Gap Inc. Appoints Donald Kohler as Banana Republic President and Chief Executive Officer](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-appoints-donald-kohler-as-banana-republic-)
+
+May 19, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
+[Read more about Gap Launches Two Limited-Edition, Football-Inspired Collections Designed in Collaboration with Ouigi Theodore](https://www.gapinc.com/en-us/articles/2026/05/gap-launches-two-limited-edition,-football-inspire)
 
 [Gap](https://www.gapinc.com/en-us/news/gap)
 
-### [Zac Posen Unveils Custom GapStudio Design for Kendall Jenner at the 2026 Met Gala](https://www.gapinc.com/en-us/articles/2026/05/zac-posen-unveils-custom-gapstudio-design-for-kend)
+### [Gap Launches Two Limited-Edition, Football-Inspired Collections Designed in Collaboration with Ouigi Theodore](https://www.gapinc.com/en-us/articles/2026/05/gap-launches-two-limited-edition,-football-inspire)
 
-May 4, 2026
+May 18, 2026
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Honoring Doris Fisher’s Legacy](https://www.gapinc.com/en-us/articles/2026/05/honoring-doris-fisher-s-legacy)
+[Read more about Gap Inc. Names Lourdes Arocho SVP, Head of Licensing](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-names-lourdes-arocho-svp,-head-of-licensin)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
 
-### [Honoring Doris Fisher’s Legacy](https://www.gapinc.com/en-us/articles/2026/05/honoring-doris-fisher-s-legacy)
+### [Gap Inc. Names Lourdes Arocho SVP, Head of Licensing](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-names-lourdes-arocho-svp,-head-of-licensin)
 
-May 4, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Doris F. Fisher (1931–2026)](https://www.gapinc.com/en-us/articles/2026/05/doris-f-fisher-1931%E2%80%932026)
-
-[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
-
-### [Doris F. Fisher (1931–2026)](https://www.gapinc.com/en-us/articles/2026/05/doris-f-fisher-1931%E2%80%932026)
-
-May 4, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Old Navy Kicks Off 17th Annual Kids Safety Donation Drive; "Super Safety Events" Happening Saturday, May 2](https://www.gapinc.com/en-us/articles/2026/04/old-navy-kicks-off-17th-annual-kids-safety-donatio)
-
-[Old Navy](https://www.gapinc.com/en-us/news/old-navy)
-
-### [Old Navy Kicks Off 17th Annual Kids Safety Donation Drive; "Super Safety Events" Happening Saturday, May 2](https://www.gapinc.com/en-us/articles/2026/04/old-navy-kicks-off-17th-annual-kids-safety-donatio)
-
-April 29, 2026
+May 14, 2026
 
 [Back to top](https://www.gapinc.com/en-us/articles/2024/08/gap-inc-reports-second-quarter-fiscal-2024-results#page-top)

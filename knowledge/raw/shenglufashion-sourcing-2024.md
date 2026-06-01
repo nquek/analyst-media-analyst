@@ -52,9 +52,9 @@ by Sheng Lu
 
 LikeLoading...
 
-[Minimum Wage in the Apparel Industry Continues to Rise in Most Asian Countries in 2016](https://shenglufashion.com/2016/01/28/minimum-wage-in-the-apparel-industry-continues-to-rise-in-most-asian-countries-in-2016/ "Minimum Wage in the Apparel Industry Continues to Rise in Most Asian Countries in&nbsp;2016")January 28, 2016In "International Trade"
-
 [Why Sourcing from China? A Case Study on VF Corporation’s Textile and Apparel Sourcing and Supply Chain Strategy](https://shenglufashion.com/2021/07/28/why-sourcing-from-china-a-case-study-on-vf-corporations-textile-and-apparel-sourcing-and-supply-chain-strategy/ "Why Sourcing from China? A Case Study on VF Corporation’s Textile and Apparel Sourcing and Supply Chain&nbsp;Strategy")July 28, 2021In "Apparel industry"
+
+[Minimum Wage in the Apparel Industry Continues to Rise in Most Asian Countries in 2016](https://shenglufashion.com/2016/01/28/minimum-wage-in-the-apparel-industry-continues-to-rise-in-most-asian-countries-in-2016/ "Minimum Wage in the Apparel Industry Continues to Rise in Most Asian Countries in&nbsp;2016")January 28, 2016In "International Trade"
 
 [H&M’s Evolving Apparel Sourcing Base (updated April 2026)](https://shenglufashion.com/2026/04/21/hms-evolving-apparel-sourcing-base-updated-april-2026/ "H&amp;M’s Evolving Apparel Sourcing Base (updated April&nbsp;2026)")April 21, 2026In "International Trade"
 

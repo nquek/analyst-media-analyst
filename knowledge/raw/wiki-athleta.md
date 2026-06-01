@@ -1,5 +1,13 @@
 [Jump to content](https://en.wikipedia.org/wiki/Athleta_(clothing)#bodyContent)
 
+[![Banner 1 logo](https://upload.wikimedia.org/wikipedia/commons/6/60/WikiLovesPride_2026_elementos_derivado_Barba_editor_lgbt_no_gadget_-_3_Obra_derivada.png)\\
+\\
+Edit with pride and win! Participate in Wiki Loves Pride 2026\\
+\\
+![Banner 2 logo](https://upload.wikimedia.org/wikipedia/commons/5/50/WikiLovesPride_2026_elementos-10.png)](https://en.wikipedia.org/wiki/Event:Wiki_Loves_Pride/2026)
+
+[Hide](https://en.wikipedia.org/wiki/Athleta_(clothing)# "Hide")
+
 From Wikipedia, the free encyclopedia
 
 Look for **Athleta (clothing)** on one of Wikipedia's [sister projects](https://en.wikipedia.org/wiki/Special:SiteMatrix "Special:SiteMatrix"):
@@ -31,10 +39,6 @@ Look for **Athleta (clothing)** on one of Wikipedia's [sister projects](https://
 - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png)
 
 [Wikivoyage](https://en.wikivoyage.org/wiki/Special:Search/Athleta_(clothing) "wikivoyage:Special:Search/Athleta (clothing)") (travel guide)
-
-- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png)
-
-[Wikinews](https://en.wikinews.org/wiki/Special:Search/Athleta_(clothing) "wikinews:Special:Search/Athleta (clothing)") (news source)
 
 - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png)
 

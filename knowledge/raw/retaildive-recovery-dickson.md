@@ -156,124 +156,33 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 ### Editors’ picks
 
-- [![A child in front of an entrance to a shopping center.](https://imgproxy.divecdn.com/Eb0zOySw06em8gIup2dSr1jTasai7P3K4appNE8cS2M/g:nowe:844:1519/c:2848:1609/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctMDU2OS5qcGc=.webp)](https://www.retaildive.com/news/how-to-run-a-stores-b-malls/761169/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![A corner Adidas store with a tall screen featuring the words "You Got This."](https://imgproxy.divecdn.com/zBLiCAx4Swm7G0lWi_f-eybKV_8Rtnzo17ChwA9pduA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaWN0dXJlXzFfM18tcmVzaXplZF94eWdkanouanBn.webp)](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-Daphne Howland/Retail Dive
-
-![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [How to run A stores in a B mall](https://www.retaildive.com/news/how-to-run-a-stores-b-malls/761169/)
-
-
-
-Retailers in lower-traffic shopping centers require excellent associates, individualized operations and realistic expectations, experts say.
-
-
-
-
-
-
-By Daphne Howland •
-
-
-
-
-
-
-Oct. 7, 2025
-
-- [![A person leaning against a blue pickup truck wearing a tan button-up shirt and blue jeans with Tecovas boots.](https://imgproxy.divecdn.com/_oRUAbYuIOeZZWpp47Rcr-nzi5UTyYngEyLbrlO15Tc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UZWNvdmFzX0xpZmVzdHlsZV8yLi5qcGc=.webp)](https://www.retaildive.com/news/brands-watch-2026-skims-tecovas-fp-movement/812225/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-Permission granted by Tecovas
+Courtesy of Adidas
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-### [6 brands to watch in 2026](https://www.retaildive.com/news/brands-watch-2026-skims-tecovas-fp-movement/812225/)
+### [With Nike in turnaround mode, is this Adidas’ opportunity in the US?](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)
 
 
 
-From Mango to Cyklar, legacy and emerging brands alike are leaning on physical retail to win over customers.
-
-
-
-
-
-
-By Caroline Jansen •
+North America accounts for most of the revenue difference between the rivals, and Adidas CEO Bjørn Gulden is pushing the retailer to be “more American.”
 
 
 
 
 
 
-Feb. 17, 2026
+By Cara Salpini •
 
 
-### Retail Dive news delivered to your inbox
-
-Get the free daily newsletter read by industry experts
-
-Email:
-
-- Select Newsletter:[ ] Daily DiveM-F
-- Select Newsletter:[ ] DTC WeeklyEvery Tuesday
-- Select Newsletter:[ ] Marketing WeeklyEvery Wednesday
-- Select Newsletter:[ ] Tech WeeklyEvery Thursday
-- Select Newsletter:[ ] Operations WeeklyEvery Monday
-- Select user consent:[ ]
-By signing up to receive our newsletter, you agree to our
-[Terms of Use](https://www.informatechtarget.com/terms-of-use/) and
-[Privacy Policy](https://www.informatechtarget.com/privacy-policy/). You can unsubscribe at anytime.
 
 
-Sign upA valid email address is required.Please select at least one newsletter.
-
-![Daily Dive newsletter example](https://www.retaildive.com/static/img/article-signup.png?313321260226)
-
-## Company Announcements
-
-[View all](https://www.retaildive.com/press-release/)
-
-\| [Post a press release](https://www.retaildive.com/press-release/get-started/)
-
-[Agile Pricing at Scale: Academy Sports + Outdoors Renews Commitment to Revionics AI Platform\\
-\\
-\\
-From Revionics\\
-\\
-April 29, 2026\\
-\\
-![Revionics logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1777497991/press_release/assets/company_logos/Revionics-an-Aptos-company_bkb0d8.jpg)](https://www.retaildive.com/press-release/20260429-agile-pricing-at-scale-academy-sports-outdoors-renews-commitment-to-revi/) [KWI AI Product Image Search Selected As “Overall RetailTech Innovation of the Year” In 2026 Re…\\
-\\
-\\
-From KWI\\
-\\
-April 23, 2026\\
-\\
-![KWI logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776950489/press_release/assets/company_logos/KWI_Submark_600x600_fappqs.png)](https://www.retaildive.com/press-release/20260423-kwi-ai-product-image-search-selected-as-overall-retailtech-innovation-of-t-1/) [Inside the Four European Houses Atelier Avenue Is Bringing to America\\
-\\
-\\
-From Atelier Avenue Group\\
-\\
-April 15, 2026\\
-\\
-![Atelier Avenue Group logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776259700/press_release/assets/company_logos/Untitled_design_44_r0jmop.png)](https://www.retaildive.com/press-release/20260415-inside-the-four-european-houses-atelier-avenue-is-bringing-to-america/) [Tapestry Selects Cordial as Enterprise Messaging Platform\\
-\\
-\\
-From Cordial\\
-\\
-April 15, 2026\\
-\\
-![Cordial logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1776189829/press_release/assets/company_logos/Cordial_Logo_Black_Full_Color_kp2fy8.png)](https://www.retaildive.com/press-release/20260414-tapestry-selects-cordial-as-enterprise-messaging-platform-1/)
 
 
-Editors’ picks
-
-
+Oct. 21, 2025
 
 - [![An illustration of a person hanging onto a coin in rough seas.](https://imgproxy.divecdn.com/plibbgyrAxx0V2tx2DsfgHAuxpZU3TDB7jy78vBrvM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iYW5rcnVwdGN5dHJhY2tlcl9WMl9yZXRhaWxkaXZlLnBuZw==.webp)](https://www.retaildive.com/news/running-list-major-retail-bankruptcies/624502/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
@@ -308,7 +217,70 @@ By Retail Dive Staff •
 
 
 
-Updated Nov. 25, 2025
+Updated May 26, 2026
+
+
+
+### Retail Dive news delivered to your inbox
+
+Get the free daily newsletter read by industry experts
+
+Email:
+
+- Select Newsletter:[ ] Daily DiveM-F
+- Select Newsletter:[ ] DTC WeeklyEvery Tuesday
+- Select Newsletter:[ ] Marketing WeeklyEvery Wednesday
+- Select Newsletter:[ ] Tech WeeklyEvery Thursday
+- Select Newsletter:[ ] Operations WeeklyEvery Monday
+- Select user consent:[ ]
+By signing up to receive our newsletter, you agree to our
+[Terms of Use](https://www.informatechtarget.com/terms-of-use/) and
+[Privacy Policy](https://www.informatechtarget.com/privacy-policy/). You can unsubscribe at anytime.
+
+
+Sign upA valid email address is required.Please select at least one newsletter.
+
+![Daily Dive newsletter example](https://www.retaildive.com/static/img/article-signup.png?313321260226)
+
+## Company Announcements
+
+[View all](https://www.retaildive.com/press-release/)
+
+\| [Post a press release](https://www.retaildive.com/press-release/get-started/)
+
+[Gen Z is Fueling the Secondhand Economy, But Trust Remains a Key Unlock for Future Growth, See…\\
+\\
+\\
+From Seel\\
+\\
+May 28, 2026\\
+\\
+![Seel logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1779982047/press_release/assets/company_logos/Seel_Logo_ritp6f.jpg)](https://www.retaildive.com/press-release/20260528-gen-z-is-fueling-the-secondhand-economy-but-trust-remains-a-key-unlock-for-1/) [ZeroToOne.AI Deploys its Large Behavioral Model at Advertising Scale Through GroundTruth, Laun…\\
+\\
+\\
+From GroundTruth\\
+\\
+May 28, 2026\\
+\\
+![GroundTruth logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1779979814/press_release/assets/company_logos/ZTO-GT-250px_y1lmzw.png)](https://www.retaildive.com/press-release/20260528-zerotooneai-deploys-its-large-behavioral-model-at-advertising-scale-throug-1/) [OnQ Integrates IBM AS/400 into its Converge Platform, Bringing Real-Time Inventory to In-Store…\\
+\\
+\\
+From OnQ\\
+\\
+May 15, 2026\\
+\\
+![OnQ logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1778823810/press_release/assets/company_logos/OnQ_Logo_Square_rfbbeb.png)](https://www.retaildive.com/press-release/20260515-onq-integrates-ibm-as400-into-its-converge-platform-bringing-real-time-in/) [WHSmith Partners with VisionR for AI Powered Shopper Insights\\
+\\
+\\
+From VisionR\\
+\\
+May 13, 2026\\
+\\
+![VisionR logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1778683900/press_release/assets/company_logos/New_Project_10_amnctr.png)](https://www.retaildive.com/press-release/20260513-whsmith-partners-with-visionr-for-ai-powered-shopper-insights/)
+
+
+Editors’ picks
+
 
 
 - [![A corner Adidas store with a tall screen featuring the words "You Got This."](https://imgproxy.divecdn.com/zBLiCAx4Swm7G0lWi_f-eybKV_8Rtnzo17ChwA9pduA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaWN0dXJlXzFfM18tcmVzaXplZF94eWdkanouanBn.webp)](https://www.retaildive.com/news/nike-turnaround-adidas-us-opportunity-north-america/803047/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
@@ -339,34 +311,70 @@ By Cara Salpini •
 
 Oct. 21, 2025
 
+- [![An illustration of a person hanging onto a coin in rough seas.](https://imgproxy.divecdn.com/plibbgyrAxx0V2tx2DsfgHAuxpZU3TDB7jy78vBrvM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iYW5rcnVwdGN5dHJhY2tlcl9WMl9yZXRhaWxkaXZlLnBuZw==.webp)](https://www.retaildive.com/news/running-list-major-retail-bankruptcies/624502/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+Adeline Kon/Retail Dive
+
+![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+
+
+Tracker
+
+
+
+### [The running list of major retail bankruptcies](https://www.retaildive.com/news/running-list-major-retail-bankruptcies/624502/)
+
+
+
+A number of companies have experienced bankruptcies at the start of 2026, including Saks Global, Pat McGrath Cosmetics and Francesca’s.
+
+
+
+
+
+
+By Retail Dive Staff •
+
+
+
+
+
+
+
+
+
+Updated May 26, 2026
+
+
 
 Latest in Operations
 
 
-- [![People walking past a store.](https://imgproxy.divecdn.com/IikhwvYBpVDiQ14SQZ4alSUnMKFH6KnQfSeHP8RxqB0/g:nowe:0:48/c:640:361/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iZW5kX3JldGFpbF8tXzcuanBlZw==.webp)](https://www.retaildive.com/news/rei-coop-flat-sales-narrower-losses-store-union-workers-anniversary-sale-boycott/819310/)
+- [![A red Burlington storefront says "ladies, mens, kids, baby, home, coats," as clouds billow overhead in a bright blue sky.](https://imgproxy.divecdn.com/c0gLNHMv2lPVEDr-0qcjpgP328aRbAuq8dlBvlGX-tU/g:nowe:0:230/c:4032:2278/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctMDg4My5qcGc=.webp)](https://www.retaildive.com/news/rei-union-turns-away-thousands-mattel-brick-shop-expands/821386/)
 
 
 
 
 
-[REI reports flat sales, narrower losses as store workers call for a boycott](https://www.retaildive.com/news/rei-coop-flat-sales-narrower-losses-store-union-workers-anniversary-sale-boycott/819310/)
+[The Weekly Closeout: Burlington plots store openings, Mattel expands Brick Shop](https://www.retaildive.com/news/rei-union-turns-away-thousands-mattel-brick-shop-expands/821386/)
 
 
 
 
 
 
-By Daphne Howland
+By Retail Dive Staff
 
 
 
-- [![A person window shops at store at a street corner. An orange corner is parked on the right, next to a stop sign.](https://imgproxy.divecdn.com/r8DCqF0GXvivT4zGIqzlvZ833_n3bcDZEEqe_pN1tN8/g:nowe:0:441/c:5678:3207/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaXJjYS0xOTY5LUdhcC1PY2Vhbi1BdmUtU3RvcmUtSWNvbmljLmpwZw==.webp)](https://www.retaildive.com/news/gap-co-founder-doris-fisher-dies-94/819321/)
+- [![A Dollar Tree store with a large green and white sign above the entrance, located in a shopping center. The building has a beige exterior with green trim and large windows displaying promotional signs. Several parked cars are visible in the foreground, and a leafless tree stands on the left side of the image under a clear blue sky.](https://imgproxy.divecdn.com/6FBxq1huDwpSSUxKQAw1GGeNsavYAlglVFGb0Deya6o/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRjROWVBHLmpwZw==.webp)](https://www.retaildive.com/news/dollar-tree-q1-earnings-model-built-inflation-high-prices/821403/)
 
 
 
 
 
-[Gap co-founder Doris Fisher dies at 94](https://www.retaildive.com/news/gap-co-founder-doris-fisher-dies-94/819321/)
+[Dollar Tree CEO: ‘Our model is built for environments like this’](https://www.retaildive.com/news/dollar-tree-q1-earnings-model-built-inflation-high-prices/821403/)
 
 
 
@@ -377,37 +385,37 @@ By Kaarin Moore
 
 
 
-- [![Exterior of the new Victoria's Secret DC store](https://imgproxy.divecdn.com/0LVtYIL1R_GyQw4yEe66MjcI7ot4MIooLZYKLyetaPY/g:nowe:0:534/c:3200:1807/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDg5NC5qcGc=.webp)](https://www.retaildive.com/news/victorias-secret-activist-investor-board-reelection/819323/)
+- [![The exterior of a DXL Men's Apparel store](https://imgproxy.divecdn.com/DwrCaR4NFMOtCZ1-Czh-UchvGx8-zyMdk6MZskIhFHY/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EWExfc3RvcmVfZXh0ZXJpb3JfcGhvdG9fLmpwZw==.webp)](https://www.retaildive.com/news/destination-xl-rejects-take-private-offer-zodiac/821461/)
 
 
 
 
 
-[Victoria’s Secret & Co. faces off with activist investor, again](https://www.retaildive.com/news/victorias-secret-activist-investor-board-reelection/819323/)
-
-
-
-
-
-
-By Dani James
-
-
-
-- [![A GameStop storefront](https://imgproxy.divecdn.com/-RE-xZm51C0d-TYuP-oC9nS10Nd2WyFG0XmI3dfUSsw/g:nowe:2:67/c:1888:1066/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMl9hcHJpbF9yZXRhaWwtNi5qcGc=.webp)](https://www.retaildive.com/news/gamestop-ebay-acquisition-collectibles-powerhouse/819184/)
-
-
-
-
-
-[GameStop’s $56B eBay bid aims to create collectibles powerhouse](https://www.retaildive.com/news/gamestop-ebay-acquisition-collectibles-powerhouse/819184/)
+[Destination XL rejects $46M go-private offer](https://www.retaildive.com/news/destination-xl-rejects-take-private-offer-zodiac/821461/)
 
 
 
 
 
 
-By Dani James
+By Lara Ewen
+
+
+
+- [![U.S. President Donald Trump holds an executive order](https://imgproxy.divecdn.com/D9H0PPNgiUHMC2fMNCCxzSPndX849b_47mvdo8pscGk/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA3NTg5NzM4X0JRQjQ4QWwuanBn.webp)](https://www.retaildive.com/news/cbp-raises-accepted-tariff-refunds-to-85b/821333/)
+
+
+
+
+
+[CBP raises accepted tariff refunds to $85B](https://www.retaildive.com/news/cbp-raises-accepted-tariff-refunds-to-85b/821333/)
+
+
+
+
+
+
+By Antone Gonsalves
 
 
 

@@ -46,42 +46,42 @@ _Don’t miss out on the latest Gap Inc. news! [Sign-up](https://www.gapinc.com/
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Gap Inc. Reports Fourth Quarter and Fiscal 2025 Results; Provides Fiscal 2026 Outlook](https://www.gapinc.com/en-us/articles/2026/03/gap-inc-reports-fourth-quarter-and-fiscal-2025-res)
+[Read more about Gap Inc. Reports First Quarter Fiscal 2026 Results, Raises Full Year Earnings Per Share Outlook](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-reports-first-quarter-fiscal-2026-results,)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
 
-### [Gap Inc. Reports Fourth Quarter and Fiscal 2025 Results; Provides Fiscal 2026 Outlook](https://www.gapinc.com/en-us/articles/2026/03/gap-inc-reports-fourth-quarter-and-fiscal-2025-res)
+### [Gap Inc. Reports First Quarter Fiscal 2026 Results, Raises Full Year Earnings Per Share Outlook](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-reports-first-quarter-fiscal-2026-results,)
 
-March 5, 2026
-
-[Company](https://www.gapinc.com/en-us/news/company)
-
-[Read more about Gap Inc. Announces 6 Percent Increase to First Quarter Dividend](https://www.gapinc.com/en-us/articles/2026/02/gap-inc-announces-6-percent-increase-to-first-quar)
-
-[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
-
-### [Gap Inc. Announces 6 Percent Increase to First Quarter Dividend](https://www.gapinc.com/en-us/articles/2026/02/gap-inc-announces-6-percent-increase-to-first-quar)
-
-February 24, 2026
+May 28, 2026
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Gap Inc. Is Using AI to Reimagine Retail, With New Innovations Launching in Time for Cyber Monday](https://www.gapinc.com/en-us/articles/2025/11/gap-inc-is-using-ai-to-reimagine-retail,-with-new-)
+[Read more about Gap Inc. Appoints Donald Kohler as Banana Republic President and Chief Executive Officer](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-appoints-donald-kohler-as-banana-republic-)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
 
-### [Gap Inc. Is Using AI to Reimagine Retail, With New Innovations Launching in Time for Cyber Monday](https://www.gapinc.com/en-us/articles/2025/11/gap-inc-is-using-ai-to-reimagine-retail,-with-new-)
+### [Gap Inc. Appoints Donald Kohler as Banana Republic President and Chief Executive Officer](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-appoints-donald-kohler-as-banana-republic-)
 
-November 25, 2025
+May 19, 2026
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Gap Inc. Reports Third Quarter Fiscal 2025 Results, Raises Full Year Outlook for Operating Margin](https://www.gapinc.com/en-us/articles/2025/11/gap-inc-reports-third-quarter-fiscal-2025-results,)
+[Read more about Gap Inc. Names Lourdes Arocho SVP, Head of Licensing](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-names-lourdes-arocho-svp,-head-of-licensin)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
 
-### [Gap Inc. Reports Third Quarter Fiscal 2025 Results, Raises Full Year Outlook for Operating Margin](https://www.gapinc.com/en-us/articles/2025/11/gap-inc-reports-third-quarter-fiscal-2025-results,)
+### [Gap Inc. Names Lourdes Arocho SVP, Head of Licensing](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-names-lourdes-arocho-svp,-head-of-licensin)
 
-November 20, 2025
+May 14, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
+[Read more about Gap Inc. Announces Second Quarter Dividend](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-announces-second-quarter-dividend)
+
+[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
+
+### [Gap Inc. Announces Second Quarter Dividend](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-announces-second-quarter-dividend)
+
+May 12, 2026
 
 [Back to top](https://www.gapinc.com/en-us/articles/2024/05/evolving-media-marketing-at-gap-inc#page-top)
