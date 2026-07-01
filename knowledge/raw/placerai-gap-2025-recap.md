@@ -131,15 +131,15 @@ And as return to office mandates continue to roll in – reinvigorating the long
 
 ![](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/69df7119e364c1646298ca06_Default.png)
 
-What High-Growth Brands Know About Picking the Right Location
+Dining In 2026: All Roads Lead To Value
 
-Explore key signals guiding data-driven site selection from brands actively expanding their brick-and-mortar footprints.
+How shifting consumer priorities are reshaping value perceptions across QSR, fast casual, and casual chains.
 
 WP Downloaded
 
 utm\_campaign
 
-[Read More](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location) [Read Now](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
+[Read More](https://www.placer.ai/anchor/reports/dining-in-2026-all-roads-lead-to-value) [Read Now](https://www.placer.ai/anchor/reports/dining-in-2026-all-roads-lead-to-value)
 
 ### **Do Banana Republic Shoppers Want More Athleisure?**
 
@@ -244,69 +244,69 @@ Oops! Something went wrong while submitting the form.
 
 Recent Publications
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a003b34454b018a0af1b008_Cover%20900x690.avif)](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a27b7fc99c1d691758af27a_cover900x690.avif)](https://www.placer.ai/anchor/reports/migration-after-the-boom-where-americans-are-moving-in-2026)
 
 [INSIDER\\
 \\
-Report](https://www.placer.ai/anchor/reports) [What High-Growth Brands Know About Picking the Right Location](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
+Report](https://www.placer.ai/anchor/reports) [Migration After the Boom: Where Americans Are Moving in 2026](https://www.placer.ai/anchor/reports/migration-after-the-boom-where-americans-are-moving-in-2026)
 
-Discover how high-growth retail and dining brands choose winning locations using data-driven insights. Learn key strategies for site selection and expansion success including demand and demographic analysis.
+Find out where Americans are moving in 2026, why they're relocating, and how developers, investors, and retailers can stay ahead of the trends.
 
-[Placer Research](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
+[Placer Research](https://www.placer.ai/anchor/reports/migration-after-the-boom-where-americans-are-moving-in-2026)
 
-May 21, 2026
+June 18, 2026
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a1d2543a529725dc075ebaf_Hobby%20Retail.avif)](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a437a9fda4045e70ea533d6_Pre-Summer%20Travel%20Check%20In.avif)](https://www.placer.ai/anchor/articles/summer-2026-travel-a-k-shaped-memorial-day-kickoff)
 
-[Article](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail) [Consumer Desire for Small Indulgences Boosts Hobby Retail](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
+[Article](https://www.placer.ai/anchor/articles/summer-2026-travel-a-k-shaped-memorial-day-kickoff) [Summer 2026 Travel: A K-Shaped Memorial Day Kickoff](https://www.placer.ai/anchor/articles/summer-2026-travel-a-k-shaped-memorial-day-kickoff)
 
-[Elizabeth Lafontaine](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
+[Lila Margalit](https://www.placer.ai/anchor/articles/summer-2026-travel-a-k-shaped-memorial-day-kickoff)
 
-June 1, 2026
+June 30, 2026
 
 3 minutes
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a1583e909e1b0c96c713742_Shein%20%26%20Everlane.avif)](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a3a5af2b5ca92d1a1b9ace2_Ikea%20x%20Best%20Buy%20(1).avif)](https://www.placer.ai/anchor/articles/best-buys-creative-playbook-for-monetizing-its-footprint)
 
-[Article](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane) [What Shein Is Really Buying with Everlane](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
+[Article](https://www.placer.ai/anchor/articles/best-buys-creative-playbook-for-monetizing-its-footprint) [Best Buy's Creative Playbook for Monetizing Its Footprint](https://www.placer.ai/anchor/articles/best-buys-creative-playbook-for-monetizing-its-footprint)
 
-[Lila Margalit](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
+[Lila Margalit](https://www.placer.ai/anchor/articles/best-buys-creative-playbook-for-monetizing-its-footprint)
 
-May 29, 2026
+June 29, 2026
 
 3 minutes
 
 Recent Publications
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a003b34454b018a0af1b008_Cover%20900x690.avif)](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a27b7fc99c1d691758af27a_cover900x690.avif)](https://www.placer.ai/anchor/reports/migration-after-the-boom-where-americans-are-moving-in-2026)
 
 [INSIDER\\
 \\
-Report](https://www.placer.ai/anchor/reports) [What High-Growth Brands Know About Picking the Right Location](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
+Report](https://www.placer.ai/anchor/reports) [Migration After the Boom: Where Americans Are Moving in 2026](https://www.placer.ai/anchor/reports/migration-after-the-boom-where-americans-are-moving-in-2026)
 
-Discover how high-growth retail and dining brands choose winning locations using data-driven insights. Learn key strategies for site selection and expansion success including demand and demographic analysis.
+Find out where Americans are moving in 2026, why they're relocating, and how developers, investors, and retailers can stay ahead of the trends.
 
-[Placer Research](https://www.placer.ai/anchor/reports/what-high-growth-brands-know-about-picking-the-right-location)
+[Placer Research](https://www.placer.ai/anchor/reports/migration-after-the-boom-where-americans-are-moving-in-2026)
 
-May 21, 2026
+June 18, 2026
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a1d2543a529725dc075ebaf_Hobby%20Retail.avif)](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a437a9fda4045e70ea533d6_Pre-Summer%20Travel%20Check%20In.avif)](https://www.placer.ai/anchor/articles/summer-2026-travel-a-k-shaped-memorial-day-kickoff)
 
-[Article](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail) [Consumer Desire for Small Indulgences Boosts Hobby Retail](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
+[Article](https://www.placer.ai/anchor/articles/summer-2026-travel-a-k-shaped-memorial-day-kickoff) [Summer 2026 Travel: A K-Shaped Memorial Day Kickoff](https://www.placer.ai/anchor/articles/summer-2026-travel-a-k-shaped-memorial-day-kickoff)
 
-[Elizabeth Lafontaine](https://www.placer.ai/anchor/articles/consumer-desire-for-small-indulgences-boosts-hobby-retail)
+[Lila Margalit](https://www.placer.ai/anchor/articles/summer-2026-travel-a-k-shaped-memorial-day-kickoff)
 
-June 1, 2026
+June 30, 2026
 
 3 minutes
 
-[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a1583e909e1b0c96c713742_Shein%20%26%20Everlane.avif)](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
+[![](https://cdn.prod.website-files.com/62d64ff33158a9a2aba96531/6a3a5af2b5ca92d1a1b9ace2_Ikea%20x%20Best%20Buy%20(1).avif)](https://www.placer.ai/anchor/articles/best-buys-creative-playbook-for-monetizing-its-footprint)
 
-[Article](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane) [What Shein Is Really Buying with Everlane](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
+[Article](https://www.placer.ai/anchor/articles/best-buys-creative-playbook-for-monetizing-its-footprint) [Best Buy's Creative Playbook for Monetizing Its Footprint](https://www.placer.ai/anchor/articles/best-buys-creative-playbook-for-monetizing-its-footprint)
 
-[Lila Margalit](https://www.placer.ai/anchor/articles/what-shein-is-really-buying-with-everlane)
+[Lila Margalit](https://www.placer.ai/anchor/articles/best-buys-creative-playbook-for-monetizing-its-footprint)
 
-May 29, 2026
+June 29, 2026
 
 3 minutes
 
@@ -327,6 +327,56 @@ Grow Your Business With Placer.ai
 [Get a Demo](https://www.placer.ai/request-a-demo) [Sign Up Free](https://analytics.placer.ai/auth/signup)
 
 ![](https://cdn.prod.website-files.com/62d4feaf5d3ddb3f0f9c5515/6432b13d637d39edd3d87df7_wp-banner.png)
+
+[What Prime Week 2026 Reveals About Today's Shopper](https://www.placer.ai/anchor/articles/what-prime-week-2026-reveals-about-todays-shopper)
+
+[Can Bed Bath & Beyond Make A Comeback?](https://www.placer.ai/anchor/articles/can-bed-bath-beyond-make-a-comeback)
+
+[Anchored Ep 7: The Data-Driven Customer Era](https://www.placer.ai/anchor/articles/anchored-ep-7-the-data-driven-customer-era)
+
+[Best Buy's Creative Playbook for Monetizing Its Footprint](https://www.placer.ai/anchor/articles/best-buys-creative-playbook-for-monetizing-its-footprint)
+
+[Who Showed Up for The World Cup U.S. Opener in Los Angeles?](https://www.placer.ai/anchor/articles/who-showed-up-for-the-world-cup-u-s-opener)
+
+[Introducing Anchored](https://www.placer.ai/anchor/articles/introducing-anchored)
+
+[Can Endless Shrimp Fuel Red Lobster's Recovery?](https://www.placer.ai/anchor/articles/can-endless-shrimp-fuel-red-lobsters-recovery)
+
+[Summer 2026 Travel: A K-Shaped Memorial Day Kickoff](https://www.placer.ai/anchor/articles/summer-2026-travel-a-k-shaped-memorial-day-kickoff)
+
+[Chipotle's World Cup BOGO Becomes Its Busiest Day of 2026](https://www.placer.ai/anchor/articles/chipotles-world-cup-bogo-becomes-its-busiest-day-of-2026)
+
+[State-Level Retail in May 2026: Mapping the Impact of Gas Prices and Severe Weather](https://www.placer.ai/anchor/articles/state-level-retail-in-may-2026-mapping-the-impact-of-gas-prices-and-severe-weather)
+
+[test for data wrapper graphs](https://www.placer.ai/anchor/articles/test-for-data-wrapper-graphs)
+
+[What To Expect From Prime Day 2026?](https://www.placer.ai/anchor/articles/what-to-expect-from-prime-day-2026)
+
+[Why Darden is Outpacing Full-Service Dining in 2026](https://www.placer.ai/anchor/articles/why-darden-is-outpacing-full-service-dining-in-2026)
+
+[Why Activations on the Las Vegas Strip Are Key to the City's Tourism Recovery](https://www.placer.ai/anchor/articles/why-activations-on-the-las-vegas-strip-are-key-to-the-citys-tourism-recovery)
+
+[The Economy Was Already Straining Retail Corridors – Now Fuel Prices Are Ramping Up the Pressure](https://www.placer.ai/anchor/articles/the-economy-was-already-straining-retail-corridors---now-fuel-prices-are-ramping-up-the-pressure)
+
+[What Can Restaurants Expect This Father’s Day?](https://www.placer.ai/anchor/articles/what-can-restaurants-expect-this-fathers-day)
+
+[May 2026 Placer.ai Dining Index: Is Drive-Thru Traffic Running Out of Gas?](https://www.placer.ai/anchor/articles/may-2026-placer-ai-dining-index-is-drive-thru-traffic-running-out-of-gas)
+
+[test for graphs](https://www.placer.ai/anchor/articles/test-for-graphs)
+
+[Migration After the Boom: Where Americans Are Moving in 2026](https://www.placer.ai/anchor/articles/migration-after-the-boom-where-americans-are-moving-in-2026)
+
+[Can Bob Wright Work His Potbelly Magic at Wendy’s?](https://www.placer.ai/anchor/articles/can-bob-wright-work-his-potbelly-magic-at-wendys)
+
+[Placer.ai May 2026 Mall Index: Malls Defy the Slowdown](https://www.placer.ai/anchor/articles/placer-ai-mall-index-may-2026)
+
+[May 2026 Placer.ai Office Index: Gains Hide in Plain Sight](https://www.placer.ai/anchor/articles/may-2026-placer-ai-office-index-gains-hide-in-plain-sight)
+
+[Waning Consumer Sentiment Puts Pressure on Retail Industry](https://www.placer.ai/anchor/articles/waning-consumer-sentiment-puts-pressure-on-retail-industry)
+
+[Restaurants at an Inflection Point: Takeaways from the 2026 NRA Show](https://www.placer.ai/anchor/articles/restaurants-at-an-inflection-point-takeaways-from-the-2026-nra-show)
+
+[Rising Gas Prices Are Changing How America Fills Up – And Shops](https://www.placer.ai/anchor/articles/rising-gas-prices-are-changing-how-america-fills-up---and-shops)
 
 [Super Mario Galaxy's Impact on Movie Theater Audience](https://www.placer.ai/anchor/articles/super-mario-galaxys-impact-on-movie-theater-audience)
 
@@ -477,53 +527,3 @@ Grow Your Business With Placer.ai
 [Clarity Wins as Off-Price Widens Its Lead Over Department Stores](https://www.placer.ai/anchor/articles/clarity-wins-as-off-price-widens-its-lead-over-department-stores)
 
 [Placer.ai and The Retail Strategy Partner to Bridge the Gap Between Location Analytics and Deal Execution](https://www.placer.ai/anchor/articles/placer-ai-and-the-retail-strategy-partner-to-bridge-the-gap-between-location-analytics-and-deal-execution)
-
-[Continued Improvement in the Home Improvement Space](https://www.placer.ai/anchor/articles/continued-improvement-in-the-home-improvement-space)
-
-[Placer.ai Overall Retail, E-Commerce Distribution, Industrial Manufacturing Index, January 2026](https://www.placer.ai/anchor/articles/placer-ai-overall-retail-e-commerce-distribution-industrial-manufacturing-index-january-2026)
-
-[How Super Bowl Events Drove Foot Traffic and High-Value Tourism to the Bay Area](https://www.placer.ai/anchor/articles/how-super-bowl-events-drove-foot-traffic-and-high-value-tourism-to-the-bay-area)
-
-[Placer.ai Deepens Bloomberg Collaboration with Data Entitlements Offering](https://www.placer.ai/anchor/articles/placer-ai-deepens-bloomberg-collaboration-with-data-entitlements-offering)
-
-[Placer.ai January 2026 Office Index: Fern Puts RTO to the Test](https://www.placer.ai/anchor/articles/placer-ai-january-2026-office-index-fern-puts-rto-to-the-test)
-
-[Dollar Stores, the New Face of the Holiday Season](https://www.placer.ai/anchor/articles/dollar-stores-the-new-face-of-the-holiday-season)
-
-[What Awaits the New CEOs at Walmart and Target?](https://www.placer.ai/anchor/articles/what-awaits-the-new-ceos-at-walmart-and-target)
-
-[Planet Fitness Keeps Pumping as 2026 Gets Underway](https://www.placer.ai/anchor/articles/planet-fitness-keeps-pumping-as-2026-gets-underway)
-
-[Wingstop in Q4 2025: Speed Emerges as a Key Lever for Growth](https://www.placer.ai/anchor/articles/wingstop-in-q4-2025-speed-emerges-as-a-key-lever-for-growth)
-
-[Shake Shack in Q4 2025: Expansion-Led Growth With Stable Same-Store Demand](https://www.placer.ai/anchor/articles/shake-shack-in-q4-2025-expansion-led-growth-with-stable-same-store-demand)
-
-[How CAVA and sweetgreen are Sustaining Growth in Today’s Dining Landscape](https://www.placer.ai/anchor/articles/how-cava-and-sweetgreen-are-sustaining-growth-in-todays-dining-landscape)
-
-[January 2026 Placer.ai Mall Index: Strong Start to 2026](https://www.placer.ai/anchor/articles/january-2026-placer-ai-mall-index-strong-start-to-2026)
-
-[RBI Brands: Where Do The Chains Stand After Q4?](https://www.placer.ai/anchor/articles/rbi-brands-where-do-the-chains-stand-after-q4)
-
-[World Cup Connections](https://www.placer.ai/anchor/articles/world-cup-connections)
-
-[Dutch Bros’ Grounds for Success in 2026](https://www.placer.ai/anchor/articles/dutch-bros-grounds-for-success-in-2026)
-
-[Trader Joe’s, Aldi, and Lidl: Don’t Put These Low-Price Grocers in the Same Basket](https://www.placer.ai/anchor/articles/trader-joes-aldi-and-lidl-dont-put-these-low-price-grocers-in-the-same-basket)
-
-[Higher-End Bloomin' Concepts Outperformed in Q4 2025](https://www.placer.ai/anchor/articles/higher-end-bloomin-concepts-outperformed-in-q4-2025)
-
-[The 2026 Fight for Value, Precision, and the Middle-Income Consumer in the Restaurant Space](https://www.placer.ai/anchor/articles/the-2026-fight-for-value-precision-and-the-middle-income-consumer)
-
-[What it Takes to Win at Grocery in 2026](https://www.placer.ai/anchor/articles/what-it-takes-to-win-at-grocery-in-2026)
-
-[Yum! Brands Navigates QSR Headwinds in Q4](https://www.placer.ai/anchor/articles/yum-brands-navigates-qsr-headwinds-in-q4)
-
-[Winter Storm Fern Sparked a Retail Rush](https://www.placer.ai/anchor/articles/winter-storm-fern-sparked-a-retail-rush)
-
-[The Demand-Side Story Behind Saks Global’s Bankruptcy](https://www.placer.ai/anchor/articles/the-demand-side-story-behind-saks-globals-bankruptcy)
-
-[Visiting the Great Outdoors](https://www.placer.ai/anchor/articles/visiting-the-great-outdoors)
-
-[Tractor Supply’s Demand-Driven Expansion](https://www.placer.ai/anchor/articles/tractor-supplys-demand-driven-expansion)
-
-[Q4 2025 FSR Trends Emphasize Strategy, Value, and Footprint Discipline](https://www.placer.ai/anchor/articles/q4-2025-fsr-trends-emphasize-strategy-value-and-footprint-discipline)

@@ -46,6 +46,16 @@ _Don’t miss out on the latest Gap Inc. news! [Sign-up](https://www.gapinc.com/
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
+[Read more about Gap Inc. Releases 2025 Impact Report](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-releases-2025-impact-report)
+
+[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
+
+### [Gap Inc. Releases 2025 Impact Report](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-releases-2025-impact-report)
+
+June 4, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
 [Read more about Gap Inc. Reports First Quarter Fiscal 2026 Results, Raises Full Year Earnings Per Share Outlook](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-reports-first-quarter-fiscal-2026-results,)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
@@ -73,15 +83,5 @@ May 19, 2026
 ### [Gap Inc. Names Lourdes Arocho SVP, Head of Licensing](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-names-lourdes-arocho-svp,-head-of-licensin)
 
 May 14, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Gap Inc. Announces Second Quarter Dividend](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-announces-second-quarter-dividend)
-
-[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
-
-### [Gap Inc. Announces Second Quarter Dividend](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-announces-second-quarter-dividend)
-
-May 12, 2026
 
 [Back to top](https://www.gapinc.com/en-us/articles/2024/05/evolving-media-marketing-at-gap-inc#page-top)

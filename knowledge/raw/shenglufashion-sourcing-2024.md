@@ -6,7 +6,9 @@ Tap to unmute
 
 [Gap CEO talks China exposure and tariff impact](https://www.youtube.com/watch?v=fEZBu-h0L4M) [Yahoo Finance](https://www.youtube.com/channel/UCEAZeUIeJs0IjQiqTCdVSIg)
 
-Yahoo Finance1.5M subscribers
+![thumbnail-image](https://yt3.ggpht.com/EzpXGh_uBw5qlDMPpaViWWsWGt6ZGFRJu8qIEyg4HQaQAOVDAp0EAqDjwMqKM0I4tdDmH1pJ=s68-c-k-c0x00ffffff-no-rj)
+
+Yahoo Finance1.51M subscribers
 
 [Watch on](https://www.youtube.com/watch?v=fEZBu-h0L4M)
 
@@ -52,9 +54,9 @@ by Sheng Lu
 
 LikeLoading...
 
-[Why Sourcing from China? A Case Study on VF Corporation’s Textile and Apparel Sourcing and Supply Chain Strategy](https://shenglufashion.com/2021/07/28/why-sourcing-from-china-a-case-study-on-vf-corporations-textile-and-apparel-sourcing-and-supply-chain-strategy/ "Why Sourcing from China? A Case Study on VF Corporation’s Textile and Apparel Sourcing and Supply Chain&nbsp;Strategy")July 28, 2021In "Apparel industry"
-
 [Minimum Wage in the Apparel Industry Continues to Rise in Most Asian Countries in 2016](https://shenglufashion.com/2016/01/28/minimum-wage-in-the-apparel-industry-continues-to-rise-in-most-asian-countries-in-2016/ "Minimum Wage in the Apparel Industry Continues to Rise in Most Asian Countries in&nbsp;2016")January 28, 2016In "International Trade"
+
+[Why Sourcing from China? A Case Study on VF Corporation’s Textile and Apparel Sourcing and Supply Chain Strategy](https://shenglufashion.com/2021/07/28/why-sourcing-from-china-a-case-study-on-vf-corporations-textile-and-apparel-sourcing-and-supply-chain-strategy/ "Why Sourcing from China? A Case Study on VF Corporation’s Textile and Apparel Sourcing and Supply Chain&nbsp;Strategy")July 28, 2021In "Apparel industry"
 
 [H&M’s Evolving Apparel Sourcing Base (updated April 2026)](https://shenglufashion.com/2026/04/21/hms-evolving-apparel-sourcing-base-updated-april-2026/ "H&amp;M’s Evolving Apparel Sourcing Base (updated April&nbsp;2026)")April 21, 2026In "International Trade"
 
@@ -349,6 +351,20 @@ Professor @ University of Delaware [View all posts by Sheng Lu](https://shengluf
 
 ## Leave a comment [Cancel reply](https://shenglufashion.com/2025/03/06/gap-inc-s-evolving-apparel-sourcing-base-2021-2024/\#respond)
 
+Write a comment...
+
+Log in or provide your name and email to leave a comment.
+
+Email me new posts
+
+InstantlyDailyWeekly
+
+Email me new comments
+
+Save my name, email, and website in this browser for the next time I comment.
+
+Comment
+
 Δ
 
 - [Comment](https://shenglufashion.com/2025/03/06/gap-inc-s-evolving-apparel-sourcing-base-2021-2024/#comments)
@@ -364,7 +380,7 @@ Professor @ University of Delaware [View all posts by Sheng Lu](https://shengluf
 
   - [![](https://shenglufashion.com/wp-content/uploads/2018/08/cropped-sheng.jpg?w=50) FASH455 Global Apparel & Textile Trade and Sourcing](https://shenglufashion.com/)
 
-Join 1,569 other subscribers
+Join 1,565 other subscribers
 
 Sign me up
 

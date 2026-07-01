@@ -132,6 +132,36 @@ _Don’t miss out on the latest Gap Inc. news! [Sign-up](https://www.gapinc.com/
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
+[Read more about Gap Inc. Kicks Off AI-Led Effort to Modernize Marketing](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-kicks-off-ai-led-effort-to-modernize-marke)
+
+[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
+
+### [Gap Inc. Kicks Off AI-Led Effort to Modernize Marketing](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-kicks-off-ai-led-effort-to-modernize-marke)
+
+June 22, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
+[Read more about Gap Launches Limited-Edition Collection to Support Water.org's Get Blue™ Movement](https://www.gapinc.com/en-us/articles/2026/06/gap-launches-limited-edition-collection-to-support)
+
+[Gap](https://www.gapinc.com/en-us/news/gap)
+
+### [Gap Launches Limited-Edition Collection to Support Water.org's Get Blue™ Movement](https://www.gapinc.com/en-us/articles/2026/06/gap-launches-limited-edition-collection-to-support)
+
+June 9, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
+[Read more about Gap Inc. Releases 2025 Impact Report](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-releases-2025-impact-report)
+
+[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
+
+### [Gap Inc. Releases 2025 Impact Report](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-releases-2025-impact-report)
+
+June 4, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
 [Read more about Gap Inc. Reports First Quarter Fiscal 2026 Results, Raises Full Year Earnings Per Share Outlook](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-reports-first-quarter-fiscal-2026-results,)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
@@ -139,35 +169,5 @@ _Don’t miss out on the latest Gap Inc. news! [Sign-up](https://www.gapinc.com/
 ### [Gap Inc. Reports First Quarter Fiscal 2026 Results, Raises Full Year Earnings Per Share Outlook](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-reports-first-quarter-fiscal-2026-results,)
 
 May 28, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Gap Inc. Appoints Donald Kohler as Banana Republic President and Chief Executive Officer](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-appoints-donald-kohler-as-banana-republic-)
-
-[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
-
-### [Gap Inc. Appoints Donald Kohler as Banana Republic President and Chief Executive Officer](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-appoints-donald-kohler-as-banana-republic-)
-
-May 19, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Gap Launches Two Limited-Edition, Football-Inspired Collections Designed in Collaboration with Ouigi Theodore](https://www.gapinc.com/en-us/articles/2026/05/gap-launches-two-limited-edition,-football-inspire)
-
-[Gap](https://www.gapinc.com/en-us/news/gap)
-
-### [Gap Launches Two Limited-Edition, Football-Inspired Collections Designed in Collaboration with Ouigi Theodore](https://www.gapinc.com/en-us/articles/2026/05/gap-launches-two-limited-edition,-football-inspire)
-
-May 18, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Gap Inc. Names Lourdes Arocho SVP, Head of Licensing](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-names-lourdes-arocho-svp,-head-of-licensin)
-
-[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
-
-### [Gap Inc. Names Lourdes Arocho SVP, Head of Licensing](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-names-lourdes-arocho-svp,-head-of-licensin)
-
-May 14, 2026
 
 [Back to top](https://www.gapinc.com/en-us/articles/2024/08/gap-inc-reports-second-quarter-fiscal-2024-results#page-top)

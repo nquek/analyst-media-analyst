@@ -28,6 +28,14 @@ By signing up to receive our newsletter, you agree to our
 [Terms of Use](https://www.informatechtarget.com/terms-of-use/) and
 [Privacy Policy](https://www.informatechtarget.com/privacy-policy/). You can unsubscribe at anytime.
 
+reCAPTCHA
+
+Recaptcha requires verification.
+
+I'm not a robot
+
+reCAPTCHA
+
 [![Informa Tech Target Logo](https://d12v9rtnomnebu.cloudfront.net/logo/ITechTarget-Orbit-W_rgb.png)Informa TechTarget\|](https://www.informatechtarget.com/)
 
 - [CX Dive](https://www.customerexperiencedive.com/)
@@ -35,9 +43,15 @@ By signing up to receive our newsletter, you agree to our
 - [Marketing Dive](https://www.marketingdive.com/)
 - [Supply Chain Dive](https://www.supplychaindive.com/)
 
-[Explore our brands![Informa Tech Target Brands](https://d12v9rtnomnebu.cloudfront.net/logo/link-external-wht.svg)](https://www.informatechtarget.com/our-brands/) [An Informa TechTarget Publication](https://www.informatechtarget.com/)
+[Explore our brands![Informa TechTarget Brands](https://d12v9rtnomnebu.cloudfront.net/logo/link-external-wht.svg)](https://www.informatechtarget.com/our-brands/) [An Informa TechTarget Publication](https://www.informatechtarget.com/)
 
-Search![search](https://www.retaildive.com/static/img/menu_icons/search.svg?313321260226)![close search](https://www.retaildive.com/static/img/menu_icons/close.svg?313321260226)
+Search
+
+![](https://www.retaildive.com/static/img/menu_icons/close.svg?313321260226)![](https://www.retaildive.com/static/img/menu_icons/ai_search.svg?310516080626)
+
+## People also ask
+
+- Loading questions...
 
 An article from![site logo](https://d12v9rtnomnebu.cloudfront.net/logo/printer_friendly/retaildive.jpg)
 
@@ -77,6 +91,7 @@ Courtesy of Gap Inc.
 
 ![](https://www.retaildive.com/static/img/play.svg?313321260226)
 Listen to the article
+
 
 4 min
 
@@ -139,8 +154,7 @@ Dec. 8, 2023
   - [![Post on X](https://www.retaildive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Old%20Navy%2C%20Gap%20lead%20comeback%20as%20Athleta%20drags%20https%3A//www.retaildive.com/news/old-navy-gap-lead-comeback-athleta-sales-down-q4/741856/%20via%20@RetailDive)
   - [![Share on Facebook](https://www.retaildive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.retaildive.com/news/old-navy-gap-lead-comeback-athleta-sales-down-q4/741856/)
   - ![Print this page](https://www.retaildive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
-
-- [![License this article](https://www.retaildive.com/static/img/social_icons/article_page/cart.svg?313321260226)purchase licensing rights](https://www.retaildive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.retaildive.com/news/old-navy-gap-lead-comeback-athleta-sales-down-q4/741856/ "License")
+  - [![License this article](https://www.retaildive.com/static/img/social_icons/article_page/cart.svg?313321260226)License](https://www.retaildive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.retaildive.com/news/old-navy-gap-lead-comeback-athleta-sales-down-q4/741856/)
 
 Filed Under:[Financial News,](https://www.retaildive.com/topic/financial-news/)[Holidays](https://www.retaildive.com/topic/holiday-shopping-season/)
 
@@ -150,6 +164,14 @@ Get the free daily newsletter read by industry experts
 
 Email:
 
+reCAPTCHA
+
+Recaptcha requires verification.
+
+I'm not a robot
+
+reCAPTCHA
+
 - Select Newsletter:[ ] Daily DiveM-F
 - Select Newsletter:[ ] DTC WeeklyEvery Tuesday
 - Select Newsletter:[ ] Marketing WeeklyEvery Wednesday
@@ -163,65 +185,75 @@ By signing up to receive our newsletter, you agree to our
 
 Sign upA valid email address is required.Please select at least one newsletter.
 
-![Daily Dive newsletter example](https://www.retaildive.com/static/img/article-signup.png?313321260226)
+![Newsletter example on mobile](https://imgproxy.divecdn.com/z0agfhPf9yeDlWJQ7_a0VusOvY8N9cxF_IFU65IgX9M/raw:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL3NpdGV0aGVtZXMvZGl2ZS9hcnRpY2xlLXNpZ251cC5wbmc=)
 
 ### Editors’ picks
 
-- [![Former Walmart Inc. CEO Doug McMillon speaking at a New York City event](https://imgproxy.divecdn.com/gMVlcU8PU8mGFtikGw5Uj5huNp4mbvO8uVLPK0Gh9tI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUwOTcxMTI4LmpwZw==.webp)](https://www.retaildive.com/news/walmart-ceo-doug-mcmillon-decade-leadership-change/810889/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![](https://imgproxy.divecdn.com/sR3iLUYR7qWoU2S6xFS10blVO018MCapuHg9lONw81g/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9kZWFscy1oZWFkZXIucG5n.webp)](https://www.retaildive.com/news/the-running-list-of-major-retail-deals/622801/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-Michael M. Santiago / Staff via Getty Images
-
-![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [Walmart’s decade of change with Doug McMillon](https://www.retaildive.com/news/walmart-ceo-doug-mcmillon-decade-leadership-change/810889/)
-
-
-
-The longtime CEO has passed the baton to John Furner, but McMillon’s technology and e-commerce legacy is lasting.
-
-
-
-
-
-
-By Dani James •
-
-
-
-
-
-
-Feb. 9, 2026
-
-- [![ChatGPT, Gemini, Microsoft Copilot, Claude, and Perplexity app icons are seen on a Google Pixel smartphone.](https://imgproxy.divecdn.com/Gr1xPcd8fwJqnfkStLhS3ts3OPlggpsJ1KU6LXysKy0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc2MDUzNzQ5LmpwZw==.webp)](https://www.retaildive.com/news/retails-ai-bet-risks-data-market-share/810202/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-Getty Images
+Adeline Kon/Retail Dive
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-### [Retail’s risky AI commerce bet](https://www.retaildive.com/news/retails-ai-bet-risks-data-market-share/810202/)
+Tracker
 
 
 
-As retailers race to meet consumers on external AI platforms, they risk losing data and direct interaction with shoppers. Experts say disruption has only just begun.
+### [The running list of major retail deals](https://www.retaildive.com/news/the-running-list-of-major-retail-deals/622801/)
 
 
 
-
-
-
-By Dani James •
+In the first quarter of 2026, Anta Sports took a minority stake in Puma, Bob’s Discount Furniture filed for an IPO and Aritzia bought Fred Segal.
 
 
 
 
 
 
-Jan. 26, 2026
+
+By Retail Dive Staff •
+
+
+
+
+
+
+
+
+
+Updated May 26, 2026
+
+
+- [![](https://imgproxy.divecdn.com/rNfxZVZQiQbjr_8bEA2lT5GMPCAaCMHrHWmO5GQqfm8/g:nowe:0:439/c:8192:4628/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ0Mjg1NjIxLmpwZw==.webp)](https://www.retaildive.com/news/bed-bath-beyond-2025-timeline-marcus-lemonis-kirklands/808938/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+Michael M. Santiago via Getty Images
+
+![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+
+
+### [A look back at Bed Bath & Beyond’s pivotal year](https://www.retaildive.com/news/bed-bath-beyond-2025-timeline-marcus-lemonis-kirklands/808938/)
+
+
+
+As the retailer’s deal to acquire the former Kirkland’s nears closing, here’s a review of the events that brought us to this point.
+
+
+
+
+
+
+
+By Caroline Jansen and Dani James •
+
+
+
+
+
+
+Jan. 12, 2026
 
 
 ### Retail Dive news delivered to your inbox
@@ -230,6 +262,14 @@ Get the free daily newsletter read by industry experts
 
 Email:
 
+reCAPTCHA
+
+Recaptcha requires verification.
+
+I'm not a robot
+
+reCAPTCHA
+
 - Select Newsletter:[ ] Daily DiveM-F
 - Select Newsletter:[ ] DTC WeeklyEvery Tuesday
 - Select Newsletter:[ ] Marketing WeeklyEvery Wednesday
@@ -243,7 +283,7 @@ By signing up to receive our newsletter, you agree to our
 
 Sign upA valid email address is required.Please select at least one newsletter.
 
-![Daily Dive newsletter example](https://www.retaildive.com/static/img/article-signup.png?313321260226)
+![Newsletter example on mobile](https://imgproxy.divecdn.com/z0agfhPf9yeDlWJQ7_a0VusOvY8N9cxF_IFU65IgX9M/raw:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL3NpdGV0aGVtZXMvZGl2ZS9hcnRpY2xlLXNpZ251cC5wbmc=)
 
 ## Company Announcements
 
@@ -251,125 +291,136 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 \| [Post a press release](https://www.retaildive.com/press-release/get-started/)
 
-[ZeroToOne.AI Deploys its Large Behavioral Model at Advertising Scale Through GroundTruth, Laun…\\
+[6 of 12 Top-Selling Glutathione Supplements on Amazon Fail Label Claims in Independent Testing…\\
 \\
 \\
-From GroundTruth\\
+From Cata-Kor\\
 \\
-May 28, 2026\\
-\\
-![GroundTruth logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1779979814/press_release/assets/company_logos/ZTO-GT-250px_y1lmzw.png)](https://www.retaildive.com/press-release/20260528-zerotooneai-deploys-its-large-behavioral-model-at-advertising-scale-throug-1/) [New goHappy Report Links Frontline Engagement to 10-Point Turnover Drop\\
+June 26, 2026](https://www.retaildive.com/press-release/20260625-6-of-12-top-selling-glutathione-supplements-on-amazon-fail-label-claims-in/) [Study: Nearly Three-Quarters of Retailers Face Hidden Tax Compliance Costs After Black Friday…\\
 \\
 \\
-From goHappy\\
+From Reach\\
 \\
-May 14, 2026\\
+June 25, 2026\\
 \\
-![goHappy logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1778724672/press_release/assets/company_logos/goHappy_logo_-_2026_Green_bps3st.jpg)](https://www.retaildive.com/press-release/20260513-new-gohappy-report-links-frontline-engagement-to-10-point-turnover-drop-1/) [WHSmith Partners with VisionR for AI Powered Shopper Insights\\
-\\
-\\
-From VisionR\\
-\\
-May 13, 2026\\
-\\
-![VisionR logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1778683900/press_release/assets/company_logos/New_Project_10_amnctr.png)](https://www.retaildive.com/press-release/20260513-whsmith-partners-with-visionr-for-ai-powered-shopper-insights/) [Melting Forest Launches at The Drop, by GNC with Functional Energy & D-Stress\\
+![Reach logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1782406067/press_release/assets/company_logos/reach_black_250x250_gf9dho.png)](https://www.retaildive.com/press-release/20260625-study-nearly-three-quarters-of-retailers-face-hidden-tax-compliance-costs-1/) [Gardner White Selects DataXstream OMS+ to Streamline Sales and Order Management on SAP S/4HANA…\\
 \\
 \\
-From Melting Forest\\
+From DataXstream\\
 \\
-May 11, 2026\\
+June 24, 2026\\
 \\
-![Melting Forest logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1778526842/press_release/assets/company_logos/Melting_forest_Logo_ctibia.jpg)](https://www.retaildive.com/press-release/20260511-melting-forest-launches-at-the-drop-by-gnc-with-functional-energy-d-stre/)
+![DataXstream logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1782315815/press_release/assets/company_logos/oms_block_logo_250x250_uob4yt.png)](https://www.retaildive.com/press-release/20260624-gardner-white-selects-dataxstream-oms-to-streamline-sales-and-order-manage/) [TrustedSite’s 2026 State of Ecommerce Trust Research Reveals AI’s Toll on Shopper Confidence\\
+\\
+\\
+From TrustedSite\\
+\\
+June 11, 2026\\
+\\
+![TrustedSite logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1781122821/press_release/assets/company_logos/trustedsite-logo_e0z0tb.png)](https://www.retaildive.com/press-release/20260610-trustedsites-2026-state-of-ecommerce-trust-research-reveals-ais-toll-on-s-1/)
 
 
 Editors’ picks
 
 
 
-- [![Former Walmart Inc. CEO Doug McMillon speaking at a New York City event](https://imgproxy.divecdn.com/gMVlcU8PU8mGFtikGw5Uj5huNp4mbvO8uVLPK0Gh9tI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUwOTcxMTI4LmpwZw==.webp)](https://www.retaildive.com/news/walmart-ceo-doug-mcmillon-decade-leadership-change/810889/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![Closeup of a department store entrance.](https://imgproxy.divecdn.com/H_5QhRQvk25OUbsyewBeC-HJfb2fQKOtbk0X5v72HsI/g:nowe:0:0/c:1280:723/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYWN5c19zaWRlX2VudHJhbmNlX2hvbGlkYXkyX2FsdF9kYXBobmVob3dsYW5kLmpwZWc=.webp)](https://www.retaildive.com/news/department-store-outlook-survival-billions-sales/809523/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-Michael M. Santiago / Staff via Getty Images
-
-![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [Walmart’s decade of change with Doug McMillon](https://www.retaildive.com/news/walmart-ceo-doug-mcmillon-decade-leadership-change/810889/)
-
-
-
-The longtime CEO has passed the baton to John Furner, but McMillon’s technology and e-commerce legacy is lasting.
-
-
-
-
-
-
-By Dani James •
-
-
-
-
-
-
-Feb. 9, 2026
-
-- [![ChatGPT, Gemini, Microsoft Copilot, Claude, and Perplexity app icons are seen on a Google Pixel smartphone.](https://imgproxy.divecdn.com/Gr1xPcd8fwJqnfkStLhS3ts3OPlggpsJ1KU6LXysKy0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc2MDUzNzQ5LmpwZw==.webp)](https://www.retaildive.com/news/retails-ai-bet-risks-data-market-share/810202/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-Getty Images
+Daphne Howland/Retail Dive
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-### [Retail’s risky AI commerce bet](https://www.retaildive.com/news/retails-ai-bet-risks-data-market-share/810202/)
 
 
-
-As retailers race to meet consumers on external AI platforms, they risk losing data and direct interaction with shoppers. Experts say disruption has only just begun.
-
-
-
-
-
-
-By Dani James •
+Deep Dive
 
 
 
 
 
 
-Jan. 26, 2026
+### [What’s up with department stores?](https://www.retaildive.com/news/department-store-outlook-survival-billions-sales/809523/)
+
+
+
+The retail model is in retreat. But that doesn’t mean it — or its billions in sales — will disappear any time soon.
+
+
+
+
+
+
+
+By Daphne Howland •
+
+
+
+
+
+
+Jan. 22, 2026
+
+- [![A person leaning against a blue pickup truck wearing a tan button-up shirt and blue jeans with Tecovas boots.](https://imgproxy.divecdn.com/_oRUAbYuIOeZZWpp47Rcr-nzi5UTyYngEyLbrlO15Tc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UZWNvdmFzX0xpZmVzdHlsZV8yLi5qcGc=.webp)](https://www.retaildive.com/news/brands-watch-2026-skims-tecovas-fp-movement/812225/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+Permission granted by Tecovas
+
+![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+
+
+### [6 brands to watch in 2026](https://www.retaildive.com/news/brands-watch-2026-skims-tecovas-fp-movement/812225/)
+
+
+
+From Mango to Cyklar, legacy and emerging brands alike are leaning on physical retail to win over customers.
+
+
+
+
+
+
+
+By Caroline Jansen •
+
+
+
+
+
+
+Feb. 17, 2026
 
 
 Latest in Financial News
 
 
-- [![An dark blue oval sign in white capital letters spellig "Old Navy" sticks out from a white building.](https://imgproxy.divecdn.com/Mzhw_sp1Sife7blWHZ1IQJqiriv9cR7l3AvIy0ZdpQ8/g:nowe:1074:1588/c:6286:3551/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMl9hcHJpbF9yZXRhaWwtNTEuanBn.webp)](https://www.retaildive.com/news/old-navy-fashion-misses-spell-trouble-gap-inc-q1-earnings/821459/)
+- [![A large cardboard box sits on a welcome mat on the front porch of a house.](https://imgproxy.divecdn.com/DQtTKUX-DRIujJjAHEhrf8MPZvl8Lt3g0pz33IBQFEI/g:nowe:760:1105/c:7074:3996/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYWNrYWdlLWF0LWRvb3JzdGVwLmpwZw==.webp)](https://www.retaildive.com/news/amazon-prime-day-online-us-sales-numbers-grow-2026/823973/)
 
 
 
 
 
-[Fashion misses at Old Navy spell trouble for Gap Inc.](https://www.retaildive.com/news/old-navy-fashion-misses-spell-trouble-gap-inc-q1-earnings/821459/)
+[Amazon’s Prime Day drives online sales in the US up 9.3%](https://www.retaildive.com/news/amazon-prime-day-online-us-sales-numbers-grow-2026/823973/)
 
 
 
 
 
 
-By Daphne Howland
+
+By Dani James
 
 
 
-- [![A person carrying a tote bag looks at items on a grocery store shelf](https://imgproxy.divecdn.com/CVd0Vn0bom2_ubwc21d40zKAMmGJ164cKAp-bdQFuG8/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA4OTUyNzQzLmpwZw==.webp)](https://www.retaildive.com/news/consumer-sentiment-falls-cost-living-inflation-Fed/821066/)
+- [![The interior of a busy shopping mall.](https://imgproxy.divecdn.com/-Il6ZpfS-sV4g8piA9tGT1T3B5aVucgSYcJQEFBRO2k/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTU0NDAwMzguanBn.webp)](https://www.retaildive.com/news/consumer-spending-rises-inflation-speeds-up-three-year-high/823861/)
 
 
 
 
 
-[Consumer sentiment falls to new low; cost of living ‘first-order’ worry](https://www.retaildive.com/news/consumer-sentiment-falls-cost-living-inflation-Fed/821066/)
+[Consumer spending rises as inflation speeds up to three-year high](https://www.retaildive.com/news/consumer-spending-rises-inflation-speeds-up-three-year-high/823861/)
+
 
 
 
@@ -380,37 +431,39 @@ By Jim Tyson
 
 
 
-- [![A red Burlington storefront says "ladies, mens, kids, baby, home, coats," as clouds billow overhead in a bright blue sky.](https://imgproxy.divecdn.com/c0gLNHMv2lPVEDr-0qcjpgP328aRbAuq8dlBvlGX-tU/g:nowe:0:230/c:4032:2278/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctMDg4My5qcGc=.webp)](https://www.retaildive.com/news/rei-union-turns-away-thousands-mattel-brick-shop-expands/821386/)
+- [![A Reformation storefront on Melrose Avenue in Los Angeles, California.](https://imgproxy.divecdn.com/aMbv9e5AHt3IFWSGztqqHsd71VZ7vhcVpNV2YC7hNEI/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTYyMC5KUEc=.webp)](https://www.retaildive.com/news/reformation-ipo-profitable-dtc-model-possible/823857/)
 
 
 
 
 
-[The Weekly Closeout: Burlington plots store openings, Mattel expands Brick Shop](https://www.retaildive.com/news/rei-union-turns-away-thousands-mattel-brick-shop-expands/821386/)
-
-
-
-
-
-
-By Retail Dive Staff
-
-
-
-- [![A Dollar Tree store with a large green and white sign above the entrance, located in a shopping center. The building has a beige exterior with green trim and large windows displaying promotional signs. Several parked cars are visible in the foreground, and a leafless tree stands on the left side of the image under a clear blue sky.](https://imgproxy.divecdn.com/6FBxq1huDwpSSUxKQAw1GGeNsavYAlglVFGb0Deya6o/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRjROWVBHLmpwZw==.webp)](https://www.retaildive.com/news/dollar-tree-q1-earnings-model-built-inflation-high-prices/821403/)
-
-
-
-
-
-[Dollar Tree CEO: ‘Our model is built for environments like this’](https://www.retaildive.com/news/dollar-tree-q1-earnings-model-built-inflation-high-prices/821403/)
+[Reformation’s IPO filing shows profitable DTC is possible](https://www.retaildive.com/news/reformation-ipo-profitable-dtc-model-possible/823857/)
 
 
 
 
 
 
-By Kaarin Moore
+
+By Dani James
+
+
+
+- [![Exterior of Walmart store with a sign that reads "grocery" and two cars parked in front.](https://imgproxy.divecdn.com/z-t_ea-6xF6h5hW3EitrilwAL-tve-mtKtaniXg90Tg/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XYWxtYXJ0X0dlcm1hbnRvd25fTWFyeWxhbmRfMDYwOTI1LTEuSlBH.webp)](https://www.retaildive.com/news/walmart-vibeco-acquisition-bullish-retail-advertising-business/823672/)
+
+
+
+
+
+[Walmart gets bullish on advertising business with Vibe.co acquisition](https://www.retaildive.com/news/walmart-vibeco-acquisition-bullish-retail-advertising-business/823672/)
+
+
+
+
+
+
+
+By Dani James
 
 
 
@@ -433,3 +486,9 @@ a global network that informs, influences and connects the world’s technology 
 \| [Terms of use](https://www.informatechtarget.com/terms-of-use/)
 \| [Take down policy](https://www.industrydive.com/takedown-policy/)
 \| [Cookie Preferences / Do Not Sell](https://www.retaildive.com/news/old-navy-gap-lead-comeback-athleta-sales-down-q4/741856/#)
+
+reCAPTCHA
+
+Recaptcha requires verification.
+
+protected by **reCAPTCHA**
