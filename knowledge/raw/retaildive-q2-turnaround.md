@@ -28,14 +28,6 @@ By signing up to receive our newsletter, you agree to our
 [Terms of Use](https://www.informatechtarget.com/terms-of-use/) and
 [Privacy Policy](https://www.informatechtarget.com/privacy-policy/). You can unsubscribe at anytime.
 
-reCAPTCHA
-
-Recaptcha requires verification.
-
-I'm not a robot
-
-reCAPTCHA
-
 [![Informa Tech Target Logo](https://d12v9rtnomnebu.cloudfront.net/logo/ITechTarget-Orbit-W_rgb.png)Informa TechTarget\|](https://www.informatechtarget.com/)
 
 - [CX Dive](https://www.customerexperiencedive.com/)
@@ -71,18 +63,18 @@ Published Aug. 30, 2024
 
 [Daphne Howland](https://www.retaildive.com/editors/daphne/) Lead Reporter
 
-- ![Share this article](https://www.retaildive.com/static/img/social_icons/share-icon.svg?313321260226)Share
+- ![](https://www.retaildive.com/static/img/social_icons/share-icon.svg?313321260226)Share
 
 
-  - ![Copy link](https://www.retaildive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
-  - [![Email this page](https://www.retaildive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Gap%20Inc.%20CEO%3A%20%E2%80%98We%E2%80%99re%20running%20a%20fundamentally%20stronger%20business%E2%80%99&Body=https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/)
-  - [![Post to LinkedIn](https://www.retaildive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/&title=Gap%20Inc.%20CEO%3A%20%E2%80%98We%E2%80%99re%20running%20a%20fundamentally%20stronger%20business%E2%80%99)
-  - [![Post on X](https://www.retaildive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Gap%20Inc.%20CEO%3A%20%E2%80%98We%E2%80%99re%20running%20a%20fundamentally%20stronger%20business%E2%80%99%20https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/%20via%20@RetailDive)
-  - [![Share on Facebook](https://www.retaildive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/)
-  - ![Print this page](https://www.retaildive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
+  - ![](https://www.retaildive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Gap%20Inc.%20CEO%3A%20%E2%80%98We%E2%80%99re%20running%20a%20fundamentally%20stronger%20business%E2%80%99&Body=https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/)
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/&title=Gap%20Inc.%20CEO%3A%20%E2%80%98We%E2%80%99re%20running%20a%20fundamentally%20stronger%20business%E2%80%99)
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Gap%20Inc.%20CEO%3A%20%E2%80%98We%E2%80%99re%20running%20a%20fundamentally%20stronger%20business%E2%80%99%20https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/%20via%20@RetailDive)
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/)
+  - ![](https://www.retaildive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
 
-- [![License this article](https://www.retaildive.com/static/img/social_icons/article_page/license-icon.svg?313321260226)License](https://www.retaildive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/)
-- [![Set preferred source](https://www.retaildive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.retaildive.com)
+- [![](https://www.retaildive.com/static/img/social_icons/article_page/license-icon.svg?313321260226)License](https://www.retaildive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/)
+- [![](https://www.retaildive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.retaildive.com)
 
 ![Singer Troye Sivan, wearing a white tee and loose-cut jeans, stands in front of beige background in an ad for Gap](https://imgproxy.divecdn.com/Lp_infGDIzkBTiMovBTxNCaiNZeUcSKkmoJL2Vj60Bw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HQVBfRkEyNF8yXzEuanBn.webp)
 
@@ -151,17 +143,17 @@ Aug. 29, 2024
 •
 Aug. 23, 2024
 
-- [![Set preferred source](https://www.retaildive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.retaildive.com)
-- ![Share this article](https://www.retaildive.com/static/img/social_icons/share-icon.svg?313321260226)Share
+- [![](https://www.retaildive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.retaildive.com)
+- ![](https://www.retaildive.com/static/img/social_icons/share-icon.svg?313321260226)Share
 
 
-  - ![Copy link](https://www.retaildive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
-  - [![Email this page](https://www.retaildive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Gap%20Inc.%20CEO%3A%20%E2%80%98We%E2%80%99re%20running%20a%20fundamentally%20stronger%20business%E2%80%99&Body=https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/)
-  - [![Post to LinkedIn](https://www.retaildive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/&title=Gap%20Inc.%20CEO%3A%20%E2%80%98We%E2%80%99re%20running%20a%20fundamentally%20stronger%20business%E2%80%99)
-  - [![Post on X](https://www.retaildive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Gap%20Inc.%20CEO%3A%20%E2%80%98We%E2%80%99re%20running%20a%20fundamentally%20stronger%20business%E2%80%99%20https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/%20via%20@RetailDive)
-  - [![Share on Facebook](https://www.retaildive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/)
-  - ![Print this page](https://www.retaildive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
-  - [![License this article](https://www.retaildive.com/static/img/social_icons/article_page/cart.svg?313321260226)License](https://www.retaildive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/)
+  - ![](https://www.retaildive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Gap%20Inc.%20CEO%3A%20%E2%80%98We%E2%80%99re%20running%20a%20fundamentally%20stronger%20business%E2%80%99&Body=https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/)
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/&title=Gap%20Inc.%20CEO%3A%20%E2%80%98We%E2%80%99re%20running%20a%20fundamentally%20stronger%20business%E2%80%99)
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Gap%20Inc.%20CEO%3A%20%E2%80%98We%E2%80%99re%20running%20a%20fundamentally%20stronger%20business%E2%80%99%20https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/%20via%20@RetailDive)
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/)
+  - ![](https://www.retaildive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
+  - [![](https://www.retaildive.com/static/img/social_icons/article_page/cart.svg?313321260226)License](https://www.retaildive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.retaildive.com/news/gap-inc-second-quarter-turnaround-momentum-troye-sivan-loose-fit-denim/725653/)
 
 Filed Under:[Financial News](https://www.retaildive.com/topic/financial-news/)
 
@@ -170,14 +162,6 @@ Filed Under:[Financial News](https://www.retaildive.com/topic/financial-news/)
 Get the free daily newsletter read by industry experts
 
 Email:
-
-reCAPTCHA
-
-Recaptcha requires verification.
-
-I'm not a robot
-
-reCAPTCHA
 
 - Select Newsletter:[ ] Daily DiveM-F
 - Select Newsletter:[ ] DTC WeeklyEvery Tuesday
@@ -196,7 +180,37 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 ### Editors’ picks
 
-- [![](https://imgproxy.divecdn.com/sR3iLUYR7qWoU2S6xFS10blVO018MCapuHg9lONw81g/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9kZWFscy1oZWFkZXIucG5n.webp)](https://www.retaildive.com/news/the-running-list-of-major-retail-deals/622801/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![Heidi O'Neill sits on a bench in front of a pale wood wall.](https://imgproxy.divecdn.com/gi-OV6AuhnVrpA2_pV6gk46FIoyOX2iSwto3GrcGjLU/g:nowe:0:724/c:2133:1205/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9sdWx1bGVtb25fSGVpZGlfT05laWxsXzA0XzIyXzI2LmpwZw==.webp)](https://www.retaildive.com/news/defense-lululemon-ceo-heidi-oneill/819101/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+Courtesy of Lululemon
+
+![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+
+
+### [Is Heidi O’Neill exactly what Lululemon needs?](https://www.retaildive.com/news/defense-lululemon-ceo-heidi-oneill/819101/)
+
+
+
+Negative opinions have proliferated since she was named to the top spot, but analysts say critiques are overblown.
+
+
+
+
+
+
+
+By Cara Salpini •
+
+
+
+
+
+
+
+May 12, 2026
+
+- [![An illustration of a person hanging onto a coin in rough seas.](https://imgproxy.divecdn.com/plibbgyrAxx0V2tx2DsfgHAuxpZU3TDB7jy78vBrvM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iYW5rcnVwdGN5dHJhY2tlcl9WMl9yZXRhaWxkaXZlLnBuZw==.webp)](https://www.retaildive.com/news/running-list-major-retail-bankruptcies/624502/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 Adeline Kon/Retail Dive
 
@@ -208,11 +222,11 @@ Tracker
 
 
 
-### [The running list of major retail deals](https://www.retaildive.com/news/the-running-list-of-major-retail-deals/622801/)
+### [The running list of major retail bankruptcies](https://www.retaildive.com/news/running-list-major-retail-bankruptcies/624502/)
 
 
 
-In the first quarter of 2026, Anta Sports took a minority stake in Puma, Bob’s Discount Furniture filed for an IPO and Aritzia bought Fred Segal.
+Bankruptcy filings have continued in recent months, including from QVC Group and Sleep Number.
 
 
 
@@ -230,37 +244,10 @@ By Retail Dive Staff •
 
 
 
-Updated May 26, 2026
 
 
-- [![](https://imgproxy.divecdn.com/rNfxZVZQiQbjr_8bEA2lT5GMPCAaCMHrHWmO5GQqfm8/g:nowe:0:439/c:8192:4628/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ0Mjg1NjIxLmpwZw==.webp)](https://www.retaildive.com/news/bed-bath-beyond-2025-timeline-marcus-lemonis-kirklands/808938/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+Updated July 10, 2026
 
-Michael M. Santiago via Getty Images
-
-![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [A look back at Bed Bath & Beyond’s pivotal year](https://www.retaildive.com/news/bed-bath-beyond-2025-timeline-marcus-lemonis-kirklands/808938/)
-
-
-
-As the retailer’s deal to acquire the former Kirkland’s nears closing, here’s a review of the events that brought us to this point.
-
-
-
-
-
-
-
-By Caroline Jansen and Dani James •
-
-
-
-
-
-
-Jan. 12, 2026
 
 
 ### Retail Dive news delivered to your inbox
@@ -268,14 +255,6 @@ Jan. 12, 2026
 Get the free daily newsletter read by industry experts
 
 Email:
-
-reCAPTCHA
-
-Recaptcha requires verification.
-
-I'm not a robot
-
-reCAPTCHA
 
 - Select Newsletter:[ ] Daily DiveM-F
 - Select Newsletter:[ ] DTC WeeklyEvery Tuesday
@@ -298,61 +277,51 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 \| [Post a press release](https://www.retaildive.com/press-release/get-started/)
 
-[6 of 12 Top-Selling Glutathione Supplements on Amazon Fail Label Claims in Independent Testing…\\
+[Doba Outlines Its Approach to Dropshipping Supplier Evaluation\\
 \\
 \\
-From Cata-Kor\\
+From Doba, Inc\\
 \\
-June 26, 2026](https://www.retaildive.com/press-release/20260625-6-of-12-top-selling-glutathione-supplements-on-amazon-fail-label-claims-in/) [Study: Nearly Three-Quarters of Retailers Face Hidden Tax Compliance Costs After Black Friday…\\
+July 31, 2026\\
 \\
-\\
-From Reach\\
-\\
-June 25, 2026\\
-\\
-![Reach logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1782406067/press_release/assets/company_logos/reach_black_250x250_gf9dho.png)](https://www.retaildive.com/press-release/20260625-study-nearly-three-quarters-of-retailers-face-hidden-tax-compliance-costs-1/) [Gardner White Selects DataXstream OMS+ to Streamline Sales and Order Management on SAP S/4HANA…\\
+![Doba, Inc logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1785492383/press_release/assets/company_logos/logo_01_qn2uc6.png)](https://www.retaildive.com/press-release/20260731-doba-outlines-its-approach-to-dropshipping-supplier-evaluation-1/) [New Benchmark Report by Interface Systems Reveals What Really Drives Restaurant Security Incid…\\
 \\
 \\
-From DataXstream\\
+From Interface Systems\\
 \\
-June 24, 2026\\
-\\
-![DataXstream logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1782315815/press_release/assets/company_logos/oms_block_logo_250x250_uob4yt.png)](https://www.retaildive.com/press-release/20260624-gardner-white-selects-dataxstream-oms-to-streamline-sales-and-order-manage/) [TrustedSite’s 2026 State of Ecommerce Trust Research Reveals AI’s Toll on Shopper Confidence\\
+July 23, 2026](https://www.retaildive.com/press-release/20260723-new-benchmark-report-by-interface-systems-reveals-what-really-drives-restau/) [Omni Channel Solutions Launches OMNI 360, an AI Visibility Framework That Helps Brands Measure…\\
 \\
 \\
-From TrustedSite\\
+From Omni Channel Solutions\\
 \\
-June 11, 2026\\
+July 22, 2026\\
 \\
-![TrustedSite logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1781122821/press_release/assets/company_logos/trustedsite-logo_e0z0tb.png)](https://www.retaildive.com/press-release/20260610-trustedsites-2026-state-of-ecommerce-trust-research-reveals-ais-toll-on-s-1/)
+![Omni Channel Solutions logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1784722659/press_release/assets/company_logos/280609406_533215071862804_6899702938430673036_n_1_uajdlv.jpg)](https://www.retaildive.com/press-release/20260722-omni-channel-solutions-launches-omni-360-an-ai-visibility-framework-that-h/) [iCart Founder Says Shopify Merchants Are Shifting Focus From Traffic Growth to Cart Revenue Op…\\
+\\
+\\
+From Identixweb Limited\\
+\\
+July 14, 2026\\
+\\
+![Identixweb Limited logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1784029531/press_release/assets/company_logos/iCart_App_Logo_ruvidi.png)](https://www.retaildive.com/press-release/20260714-icart-founder-says-shopify-merchants-are-shifting-focus-from-traffic-growth/)
 
 
 Editors’ picks
 
 
+- [![A display of three pairs of shoes.](https://imgproxy.divecdn.com/65Cvpo3mMrSqweGjdrwPdjIZQP-ZnJL8VpLu3zJnwJc/g:nowe:0:244/c:1280:723/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xX1NpbjNrZFQuanBlZw==.webp)](https://www.retaildive.com/news/allbirds-downfall-sale-newbird-ai-pivot-eating-crow/817828/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-- [![Closeup of a department store entrance.](https://imgproxy.divecdn.com/H_5QhRQvk25OUbsyewBeC-HJfb2fQKOtbk0X5v72HsI/g:nowe:0:0/c:1280:723/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYWN5c19zaWRlX2VudHJhbmNlX2hvbGlkYXkyX2FsdF9kYXBobmVob3dsYW5kLmpwZWc=.webp)](https://www.retaildive.com/news/department-store-outlook-survival-billions-sales/809523/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-Daphne Howland/Retail Dive
+Courtesy of Allbirds
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-
-
-Deep Dive
-
+### [Why Allbirds is eating crow](https://www.retaildive.com/news/allbirds-downfall-sale-newbird-ai-pivot-eating-crow/817828/)
 
 
 
-
-
-### [What’s up with department stores?](https://www.retaildive.com/news/department-store-outlook-survival-billions-sales/809523/)
-
-
-
-The retail model is in retreat. But that doesn’t mean it — or its billions in sales — will disappear any time soon.
+The DTC footwear brand may have overestimated its customers’ appreciation for sustainability, and underappreciated their desire for fashion.
 
 
 
@@ -367,84 +336,55 @@ By Daphne Howland •
 
 
 
-Jan. 22, 2026
 
-- [![A person leaning against a blue pickup truck wearing a tan button-up shirt and blue jeans with Tecovas boots.](https://imgproxy.divecdn.com/_oRUAbYuIOeZZWpp47Rcr-nzi5UTyYngEyLbrlO15Tc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UZWNvdmFzX0xpZmVzdHlsZV8yLi5qcGc=.webp)](https://www.retaildive.com/news/brands-watch-2026-skims-tecovas-fp-movement/812225/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+April 20, 2026
 
-Permission granted by Tecovas
+- [![A Saks store in Chicago.](https://imgproxy.divecdn.com/m_tdbaei6Da6uxMz3hxmC37pqvzCoFPwTyIUHVTzZQ0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TYWtzX3N0b3JlZnJvbnQuanBn.webp)](https://www.retaildive.com/news/saks-global-exits-chapter-11-as-exemplar-luxury-group-here-are-5-other-t/822555/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+Kaarin Moore/Retail Dive
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-### [6 brands to watch in 2026](https://www.retaildive.com/news/brands-watch-2026-skims-tecovas-fp-movement/812225/)
+### [Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way](https://www.retaildive.com/news/saks-global-exits-chapter-11-as-exemplar-luxury-group-here-are-5-other-t/822555/)
 
 
 
-From Mango to Cyklar, legacy and emerging brands alike are leaning on physical retail to win over customers.
-
-
-
-
-
-
-
-By Caroline Jansen •
+The luxury retailer is starting over with a new name and fewer burdens, including less debt and a smaller footprint.
 
 
 
 
 
 
-Feb. 17, 2026
+
+By Daphne Howland •
+
+
+
+
+
+
+
+
+
+
+
+Updated July 2, 2026
+
 
 
 Latest in Financial News
 
 
-- [![A large cardboard box sits on a welcome mat on the front porch of a house.](https://imgproxy.divecdn.com/DQtTKUX-DRIujJjAHEhrf8MPZvl8Lt3g0pz33IBQFEI/g:nowe:760:1105/c:7074:3996/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYWNrYWdlLWF0LWRvb3JzdGVwLmpwZw==.webp)](https://www.retaildive.com/news/amazon-prime-day-online-us-sales-numbers-grow-2026/823973/)
+- [![A person hands over a package labeled "Amazon Now."](https://imgproxy.divecdn.com/L4q60NwHgXMswlUsy7ojGpS1OAPXBdI7EvA_Qfc3Sbw/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDUtMTJfMDgwMTI2LnBuZw==.webp)](https://www.retaildive.com/news/amazon-prime-day-details-aws-Q2/826694/)
 
 
 
 
 
-[Amazon’s Prime Day drives online sales in the US up 9.3%](https://www.retaildive.com/news/amazon-prime-day-online-us-sales-numbers-grow-2026/823973/)
-
-
-
-
-
-
-
-By Dani James
-
-
-
-- [![The interior of a busy shopping mall.](https://imgproxy.divecdn.com/-Il6ZpfS-sV4g8piA9tGT1T3B5aVucgSYcJQEFBRO2k/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTU0NDAwMzguanBn.webp)](https://www.retaildive.com/news/consumer-spending-rises-inflation-speeds-up-three-year-high/823861/)
-
-
-
-
-
-[Consumer spending rises as inflation speeds up to three-year high](https://www.retaildive.com/news/consumer-spending-rises-inflation-speeds-up-three-year-high/823861/)
-
-
-
-
-
-
-
-By Jim Tyson
-
-
-
-- [![A Reformation storefront on Melrose Avenue in Los Angeles, California.](https://imgproxy.divecdn.com/aMbv9e5AHt3IFWSGztqqHsd71VZ7vhcVpNV2YC7hNEI/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTYyMC5KUEc=.webp)](https://www.retaildive.com/news/reformation-ipo-profitable-dtc-model-possible/823857/)
-
-
-
-
-
-[Reformation’s IPO filing shows profitable DTC is possible](https://www.retaildive.com/news/reformation-ipo-profitable-dtc-model-possible/823857/)
+[Amazon Prime Day details elusive as AWS takes centerstage](https://www.retaildive.com/news/amazon-prime-day-details-aws-Q2/826694/)
 
 
 
@@ -456,13 +396,49 @@ By Dani James
 
 
 
-- [![Exterior of Walmart store with a sign that reads "grocery" and two cars parked in front.](https://imgproxy.divecdn.com/z-t_ea-6xF6h5hW3EitrilwAL-tve-mtKtaniXg90Tg/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XYWxtYXJ0X0dlcm1hbnRvd25fTWFyeWxhbmRfMDYwOTI1LTEuSlBH.webp)](https://www.retaildive.com/news/walmart-vibeco-acquisition-bullish-retail-advertising-business/823672/)
+- [![People walking by stores and crossing the street in a city, with a small red car in a wide crosswalk.](https://imgproxy.divecdn.com/8JPzxZgEcYQQFT35FD8PTMc1_STWgroQ1FSoGeuPOYM/g:nowe:0:180/c:1280:723/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjM3My5qcGVn.webp)](https://www.retaildive.com/news/macys-new-york-billboard-reformation-ipo/826618/)
 
 
 
 
 
-[Walmart gets bullish on advertising business with Vibe.co acquisition](https://www.retaildive.com/news/walmart-vibeco-acquisition-bullish-retail-advertising-business/823672/)
+[The Weekly Closeout: Macy’s disappearing billboard and Reformation’s IPO](https://www.retaildive.com/news/macys-new-york-billboard-reformation-ipo/826618/)
+
+
+
+
+
+
+
+By Retail Dive Staff
+
+
+
+- [![Crocs storefront](https://imgproxy.divecdn.com/IRbavlob2piOCXYwgAOkLjTlpAKgZoyZ_JOsv6_SIYQ/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS82MTQ1NjY2MTE0XzE3YjYxNGVlNTNfby5qcGc=.webp)](https://www.retaildive.com/news/crocs-tops-one-billion-first-time-q2-earnings-sales-growth/826574/)
+
+
+
+
+
+[Crocs tops $1B in quarterly revenue for the first time](https://www.retaildive.com/news/crocs-tops-one-billion-first-time-q2-earnings-sales-growth/826574/)
+
+
+
+
+
+
+
+By Daphne Howland
+
+
+
+- [![A stone Adidas storefront.](https://imgproxy.divecdn.com/IVcXmbXlhvUYiB3qQEDXKM_cWnxZ0i_NZPFhE-0ZTGU/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CcmFuZF9mbGFnc2hpcF9DaGFtcHMtRWx5c2Vlcy5qcGc=.webp)](https://www.retaildive.com/news/adidas-apparel-outshines-footwear-world-cup-second-quarter-sales-jump/826596/)
+
+
+
+
+
+[Adidas apparel outshines footwear during World Cup quarter](https://www.retaildive.com/news/adidas-apparel-outshines-footwear-world-cup-second-quarter-sales-jump/826596/)
 
 
 
@@ -481,9 +457,11 @@ By Dani James
 
 [![Informa TechTarget](https://www.retaildive.com/static/img/ITechTarget-Logo.png?313321260226)](https://www.informatechtarget.com/)
 
+
 This website is owned and operated by
 [Informa TechTarget](https://www.informatechtarget.com/),
 a global network that informs, influences and connects the world’s technology buyers and sellers.
+
 
 
 © 2025 TechTarget, Inc. or its subsidiaries. All rights reserved. An Informa PLC company.

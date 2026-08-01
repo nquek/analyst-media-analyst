@@ -28,14 +28,6 @@ By signing up to receive our newsletter, you agree to our
 [Terms of Use](https://www.informatechtarget.com/terms-of-use/) and
 [Privacy Policy](https://www.informatechtarget.com/privacy-policy/). You can unsubscribe at anytime.
 
-reCAPTCHA
-
-Recaptcha requires verification.
-
-I'm not a robot
-
-reCAPTCHA
-
 [![Informa Tech Target Logo](https://d12v9rtnomnebu.cloudfront.net/logo/ITechTarget-Orbit-W_rgb.png)Informa TechTarget\|](https://www.informatechtarget.com/)
 
 - [CX Dive](https://www.customerexperiencedive.com/)
@@ -71,18 +63,18 @@ Published March 8, 2024
 
 [Daphne Howland](https://www.retaildive.com/editors/daphne/) Lead Reporter
 
-- ![Share this article](https://www.retaildive.com/static/img/social_icons/share-icon.svg?313321260226)Share
+- ![](https://www.retaildive.com/static/img/social_icons/share-icon.svg?313321260226)Share
 
 
-  - ![Copy link](https://www.retaildive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
-  - [![Email this page](https://www.retaildive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Gap%2C%20Old%20Navy%20make%20progress%20on%20long%20road%20to%20recovery&Body=https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/)
-  - [![Post to LinkedIn](https://www.retaildive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/&title=Gap%2C%20Old%20Navy%20make%20progress%20on%20long%20road%20to%20recovery)
-  - [![Post on X](https://www.retaildive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Gap%2C%20Old%20Navy%20make%20progress%20on%20long%20road%20to%20recovery%20https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/%20via%20@RetailDive)
-  - [![Share on Facebook](https://www.retaildive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/)
-  - ![Print this page](https://www.retaildive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
+  - ![](https://www.retaildive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Gap%2C%20Old%20Navy%20make%20progress%20on%20long%20road%20to%20recovery&Body=https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/)
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/&title=Gap%2C%20Old%20Navy%20make%20progress%20on%20long%20road%20to%20recovery)
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Gap%2C%20Old%20Navy%20make%20progress%20on%20long%20road%20to%20recovery%20https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/%20via%20@RetailDive)
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/)
+  - ![](https://www.retaildive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
 
-- [![License this article](https://www.retaildive.com/static/img/social_icons/article_page/license-icon.svg?313321260226)License](https://www.retaildive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/)
-- [![Set preferred source](https://www.retaildive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.retaildive.com)
+- [![](https://www.retaildive.com/static/img/social_icons/article_page/license-icon.svg?313321260226)License](https://www.retaildive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/)
+- [![](https://www.retaildive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.retaildive.com)
 
 ![A diverse group of people in various poses wearing black clothing.](https://imgproxy.divecdn.com/baICFid6t0rJCjD6_czhQBp4fEHw8NQ5OtabE9RdB6I/g:nowe:5:0/c:1194:675/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HMTA2MjcyX1NQUjI0X0Z1bGxfQ2FzdF9HcmlkX05vX0xvZ28uanBn.webp)
 
@@ -133,17 +125,17 @@ Still, as with the previous quarter, the company in the period moved in the righ
 
 “Overall, Gap is in a better place than it was a year ago,” he said. “Some modest improvements are coming through but, most of all, the energy and mood music have shifted. We think this heralds a lot of very positive changes to come. These will take time to deliver growth, but they will help stabilize the business in the year ahead.”
 
-- [![Set preferred source](https://www.retaildive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.retaildive.com)
-- ![Share this article](https://www.retaildive.com/static/img/social_icons/share-icon.svg?313321260226)Share
+- [![](https://www.retaildive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.retaildive.com)
+- ![](https://www.retaildive.com/static/img/social_icons/share-icon.svg?313321260226)Share
 
 
-  - ![Copy link](https://www.retaildive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
-  - [![Email this page](https://www.retaildive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Gap%2C%20Old%20Navy%20make%20progress%20on%20long%20road%20to%20recovery&Body=https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/)
-  - [![Post to LinkedIn](https://www.retaildive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/&title=Gap%2C%20Old%20Navy%20make%20progress%20on%20long%20road%20to%20recovery)
-  - [![Post on X](https://www.retaildive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Gap%2C%20Old%20Navy%20make%20progress%20on%20long%20road%20to%20recovery%20https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/%20via%20@RetailDive)
-  - [![Share on Facebook](https://www.retaildive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/)
-  - ![Print this page](https://www.retaildive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
-  - [![License this article](https://www.retaildive.com/static/img/social_icons/article_page/cart.svg?313321260226)License](https://www.retaildive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/)
+  - ![](https://www.retaildive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Gap%2C%20Old%20Navy%20make%20progress%20on%20long%20road%20to%20recovery&Body=https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/)
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/&title=Gap%2C%20Old%20Navy%20make%20progress%20on%20long%20road%20to%20recovery)
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Gap%2C%20Old%20Navy%20make%20progress%20on%20long%20road%20to%20recovery%20https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/%20via%20@RetailDive)
+  - [![](https://www.retaildive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/)
+  - ![](https://www.retaildive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
+  - [![](https://www.retaildive.com/static/img/social_icons/article_page/cart.svg?313321260226)License](https://www.retaildive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.retaildive.com/news/gap-old-navy-earnings-sales-progress-recovery-richard-dickson/709698/)
 
 Filed Under:[Operations,](https://www.retaildive.com/topic/operations/)[Financial News](https://www.retaildive.com/topic/financial-news/)
 
@@ -152,14 +144,6 @@ Filed Under:[Operations,](https://www.retaildive.com/topic/operations/)[Financia
 Get the free daily newsletter read by industry experts
 
 Email:
-
-reCAPTCHA
-
-Recaptcha requires verification.
-
-I'm not a robot
-
-reCAPTCHA
 
 - Select Newsletter:[ ] Daily DiveM-F
 - Select Newsletter:[ ] DTC WeeklyEvery Tuesday
@@ -178,7 +162,37 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 ### Editors’ picks
 
-- [![](https://imgproxy.divecdn.com/sR3iLUYR7qWoU2S6xFS10blVO018MCapuHg9lONw81g/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9kZWFscy1oZWFkZXIucG5n.webp)](https://www.retaildive.com/news/the-running-list-of-major-retail-deals/622801/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![Heidi O'Neill sits on a bench in front of a pale wood wall.](https://imgproxy.divecdn.com/gi-OV6AuhnVrpA2_pV6gk46FIoyOX2iSwto3GrcGjLU/g:nowe:0:724/c:2133:1205/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9sdWx1bGVtb25fSGVpZGlfT05laWxsXzA0XzIyXzI2LmpwZw==.webp)](https://www.retaildive.com/news/defense-lululemon-ceo-heidi-oneill/819101/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+Courtesy of Lululemon
+
+![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+
+
+### [Is Heidi O’Neill exactly what Lululemon needs?](https://www.retaildive.com/news/defense-lululemon-ceo-heidi-oneill/819101/)
+
+
+
+Negative opinions have proliferated since she was named to the top spot, but analysts say critiques are overblown.
+
+
+
+
+
+
+
+By Cara Salpini •
+
+
+
+
+
+
+
+May 12, 2026
+
+- [![An illustration of a person hanging onto a coin in rough seas.](https://imgproxy.divecdn.com/plibbgyrAxx0V2tx2DsfgHAuxpZU3TDB7jy78vBrvM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iYW5rcnVwdGN5dHJhY2tlcl9WMl9yZXRhaWxkaXZlLnBuZw==.webp)](https://www.retaildive.com/news/running-list-major-retail-bankruptcies/624502/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 Adeline Kon/Retail Dive
 
@@ -190,11 +204,11 @@ Tracker
 
 
 
-### [The running list of major retail deals](https://www.retaildive.com/news/the-running-list-of-major-retail-deals/622801/)
+### [The running list of major retail bankruptcies](https://www.retaildive.com/news/running-list-major-retail-bankruptcies/624502/)
 
 
 
-In the first quarter of 2026, Anta Sports took a minority stake in Puma, Bob’s Discount Furniture filed for an IPO and Aritzia bought Fred Segal.
+Bankruptcy filings have continued in recent months, including from QVC Group and Sleep Number.
 
 
 
@@ -212,37 +226,10 @@ By Retail Dive Staff •
 
 
 
-Updated May 26, 2026
 
 
-- [![](https://imgproxy.divecdn.com/rNfxZVZQiQbjr_8bEA2lT5GMPCAaCMHrHWmO5GQqfm8/g:nowe:0:439/c:8192:4628/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ0Mjg1NjIxLmpwZw==.webp)](https://www.retaildive.com/news/bed-bath-beyond-2025-timeline-marcus-lemonis-kirklands/808938/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+Updated July 10, 2026
 
-Michael M. Santiago via Getty Images
-
-![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [A look back at Bed Bath & Beyond’s pivotal year](https://www.retaildive.com/news/bed-bath-beyond-2025-timeline-marcus-lemonis-kirklands/808938/)
-
-
-
-As the retailer’s deal to acquire the former Kirkland’s nears closing, here’s a review of the events that brought us to this point.
-
-
-
-
-
-
-
-By Caroline Jansen and Dani James •
-
-
-
-
-
-
-Jan. 12, 2026
 
 
 ### Retail Dive news delivered to your inbox
@@ -250,14 +237,6 @@ Jan. 12, 2026
 Get the free daily newsletter read by industry experts
 
 Email:
-
-reCAPTCHA
-
-Recaptcha requires verification.
-
-I'm not a robot
-
-reCAPTCHA
 
 - Select Newsletter:[ ] Daily DiveM-F
 - Select Newsletter:[ ] DTC WeeklyEvery Tuesday
@@ -280,61 +259,51 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 \| [Post a press release](https://www.retaildive.com/press-release/get-started/)
 
-[6 of 12 Top-Selling Glutathione Supplements on Amazon Fail Label Claims in Independent Testing…\\
+[Doba Outlines Its Approach to Dropshipping Supplier Evaluation\\
 \\
 \\
-From Cata-Kor\\
+From Doba, Inc\\
 \\
-June 26, 2026](https://www.retaildive.com/press-release/20260625-6-of-12-top-selling-glutathione-supplements-on-amazon-fail-label-claims-in/) [Study: Nearly Three-Quarters of Retailers Face Hidden Tax Compliance Costs After Black Friday…\\
+July 31, 2026\\
 \\
-\\
-From Reach\\
-\\
-June 25, 2026\\
-\\
-![Reach logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1782406067/press_release/assets/company_logos/reach_black_250x250_gf9dho.png)](https://www.retaildive.com/press-release/20260625-study-nearly-three-quarters-of-retailers-face-hidden-tax-compliance-costs-1/) [Gardner White Selects DataXstream OMS+ to Streamline Sales and Order Management on SAP S/4HANA…\\
+![Doba, Inc logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1785492383/press_release/assets/company_logos/logo_01_qn2uc6.png)](https://www.retaildive.com/press-release/20260731-doba-outlines-its-approach-to-dropshipping-supplier-evaluation-1/) [New Benchmark Report by Interface Systems Reveals What Really Drives Restaurant Security Incid…\\
 \\
 \\
-From DataXstream\\
+From Interface Systems\\
 \\
-June 24, 2026\\
-\\
-![DataXstream logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1782315815/press_release/assets/company_logos/oms_block_logo_250x250_uob4yt.png)](https://www.retaildive.com/press-release/20260624-gardner-white-selects-dataxstream-oms-to-streamline-sales-and-order-manage/) [TrustedSite’s 2026 State of Ecommerce Trust Research Reveals AI’s Toll on Shopper Confidence\\
+July 23, 2026](https://www.retaildive.com/press-release/20260723-new-benchmark-report-by-interface-systems-reveals-what-really-drives-restau/) [Omni Channel Solutions Launches OMNI 360, an AI Visibility Framework That Helps Brands Measure…\\
 \\
 \\
-From TrustedSite\\
+From Omni Channel Solutions\\
 \\
-June 11, 2026\\
+July 22, 2026\\
 \\
-![TrustedSite logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1781122821/press_release/assets/company_logos/trustedsite-logo_e0z0tb.png)](https://www.retaildive.com/press-release/20260610-trustedsites-2026-state-of-ecommerce-trust-research-reveals-ais-toll-on-s-1/)
+![Omni Channel Solutions logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1784722659/press_release/assets/company_logos/280609406_533215071862804_6899702938430673036_n_1_uajdlv.jpg)](https://www.retaildive.com/press-release/20260722-omni-channel-solutions-launches-omni-360-an-ai-visibility-framework-that-h/) [iCart Founder Says Shopify Merchants Are Shifting Focus From Traffic Growth to Cart Revenue Op…\\
+\\
+\\
+From Identixweb Limited\\
+\\
+July 14, 2026\\
+\\
+![Identixweb Limited logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1784029531/press_release/assets/company_logos/iCart_App_Logo_ruvidi.png)](https://www.retaildive.com/press-release/20260714-icart-founder-says-shopify-merchants-are-shifting-focus-from-traffic-growth/)
 
 
 Editors’ picks
 
 
+- [![A display of three pairs of shoes.](https://imgproxy.divecdn.com/65Cvpo3mMrSqweGjdrwPdjIZQP-ZnJL8VpLu3zJnwJc/g:nowe:0:244/c:1280:723/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xX1NpbjNrZFQuanBlZw==.webp)](https://www.retaildive.com/news/allbirds-downfall-sale-newbird-ai-pivot-eating-crow/817828/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-- [![Closeup of a department store entrance.](https://imgproxy.divecdn.com/H_5QhRQvk25OUbsyewBeC-HJfb2fQKOtbk0X5v72HsI/g:nowe:0:0/c:1280:723/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYWN5c19zaWRlX2VudHJhbmNlX2hvbGlkYXkyX2FsdF9kYXBobmVob3dsYW5kLmpwZWc=.webp)](https://www.retaildive.com/news/department-store-outlook-survival-billions-sales/809523/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-Daphne Howland/Retail Dive
+Courtesy of Allbirds
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-
-
-Deep Dive
-
+### [Why Allbirds is eating crow](https://www.retaildive.com/news/allbirds-downfall-sale-newbird-ai-pivot-eating-crow/817828/)
 
 
 
-
-
-### [What’s up with department stores?](https://www.retaildive.com/news/department-store-outlook-survival-billions-sales/809523/)
-
-
-
-The retail model is in retreat. But that doesn’t mean it — or its billions in sales — will disappear any time soon.
+The DTC footwear brand may have overestimated its customers’ appreciation for sustainability, and underappreciated their desire for fashion.
 
 
 
@@ -349,66 +318,55 @@ By Daphne Howland •
 
 
 
-Jan. 22, 2026
 
-- [![A person leaning against a blue pickup truck wearing a tan button-up shirt and blue jeans with Tecovas boots.](https://imgproxy.divecdn.com/_oRUAbYuIOeZZWpp47Rcr-nzi5UTyYngEyLbrlO15Tc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UZWNvdmFzX0xpZmVzdHlsZV8yLi5qcGc=.webp)](https://www.retaildive.com/news/brands-watch-2026-skims-tecovas-fp-movement/812225/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+April 20, 2026
 
-Permission granted by Tecovas
+- [![A Saks store in Chicago.](https://imgproxy.divecdn.com/m_tdbaei6Da6uxMz3hxmC37pqvzCoFPwTyIUHVTzZQ0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TYWtzX3N0b3JlZnJvbnQuanBn.webp)](https://www.retaildive.com/news/saks-global-exits-chapter-11-as-exemplar-luxury-group-here-are-5-other-t/822555/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+Kaarin Moore/Retail Dive
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-### [6 brands to watch in 2026](https://www.retaildive.com/news/brands-watch-2026-skims-tecovas-fp-movement/812225/)
+### [Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way](https://www.retaildive.com/news/saks-global-exits-chapter-11-as-exemplar-luxury-group-here-are-5-other-t/822555/)
 
 
 
-From Mango to Cyklar, legacy and emerging brands alike are leaning on physical retail to win over customers.
-
-
-
-
-
-
-
-By Caroline Jansen •
+The luxury retailer is starting over with a new name and fewer burdens, including less debt and a smaller footprint.
 
 
 
 
 
 
-Feb. 17, 2026
+
+By Daphne Howland •
+
+
+
+
+
+
+
+
+
+
+
+Updated July 2, 2026
+
 
 
 Latest in Operations
 
 
-- [![Exterior of a Primark store in downtown Chicago.](https://imgproxy.divecdn.com/8-nsPZ0Zv_WiNQocKL8NHXV0TnjE86HYHMKEiJu3uIQ/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcmltYXJrX1VkWkxKTjEuanBn.webp)](https://www.retaildive.com/news/primark-opens-us-stores-houston-indianapolis/824098/)
+- [![Products locked up at a Target in Washington, D.C.](https://imgproxy.divecdn.com/NJYBGB25PXFZ-M4I4b4XDehCMGgSTRihN68gofABK2Q/g:nowe:5:106/c:584:330/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Mb3NzX3ByZXZlbnRpb25fVGFyZ2V0LmpwZw==.webp)](https://www.retaildive.com/news/nrf-shoplifting-stabilizing-online-gift-card-fraud-grows/826710/)
 
 
 
 
 
-[Primark nears 50 US stores with latest openings](https://www.retaildive.com/news/primark-opens-us-stores-houston-indianapolis/824098/)
-
-
-
-
-
-
-
-By Tatiana Walk-Morris
-
-
-
-- [![Close-up of a person using a self checkout machine.](https://imgproxy.divecdn.com/AOb8kMa2hh6tEbRqZFnh2zpmzEhz6GvsJWtUuvPbrlo/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDExOTYyODg5LmpwZw==.webp)](https://www.retaildive.com/news/rhode-island-first-state-mandate-staffing-ratio-self-checkout-grocery/823995/)
-
-
-
-
-
-[Rhode Island becomes first state to mandate staffing ratio for self-checkout](https://www.retaildive.com/news/rhode-island-first-state-mandate-staffing-ratio-self-checkout-grocery/823995/)
+[NRF finds shoplifting stabilizing as online fraud grows](https://www.retaildive.com/news/nrf-shoplifting-stabilizing-online-gift-card-fraud-grows/826710/)
 
 
 
@@ -416,35 +374,17 @@ By Tatiana Walk-Morris
 
 
 
-By Catherine Douglas Moran
+By Daphne Howland
 
 
 
-- [![A Claire's storefront with an open door showing brightly colored accessories inside](https://imgproxy.divecdn.com/xDpOf7Wo6itMfwyKDfEvZz6bxO1mdps43bLRlRJLM4s/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ1NTM0MjAzLmpwZw==.webp)](https://www.retaildive.com/news/claires-opens-illinois-distribution-center-to-boost-inventory-flow/823806/)
-
-
-
-
-
-[Claire’s opens Illinois distribution center to boost inventory flow](https://www.retaildive.com/news/claires-opens-illinois-distribution-center-to-boost-inventory-flow/823806/)
+- [![People walking by stores and crossing the street in a city, with a small red car in a wide crosswalk.](https://imgproxy.divecdn.com/8JPzxZgEcYQQFT35FD8PTMc1_STWgroQ1FSoGeuPOYM/g:nowe:0:180/c:1280:723/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjM3My5qcGVn.webp)](https://www.retaildive.com/news/macys-new-york-billboard-reformation-ipo/826618/)
 
 
 
 
 
-
-
-By Kelly Stroh
-
-
-
-- [![Six shoes in a lineup from the GRANOR MID M S3S Adidas style](https://imgproxy.divecdn.com/Vb1jAwVmVmRo5IjpTJuCbPgS41aZ1IHnzyXxWOH0BkU/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83MjY0MDEuanBn.webp)](https://www.retaildive.com/news/adidas-safety-footwear-five-below-chief-retail-officer-nike-china-strategy/823842/)
-
-
-
-
-
-[The Weekly Closeout: Adidas gets into PPE, Five Below fills out C-suite](https://www.retaildive.com/news/adidas-safety-footwear-five-below-chief-retail-officer-nike-china-strategy/823842/)
+[The Weekly Closeout: Macy’s disappearing billboard and Reformation’s IPO](https://www.retaildive.com/news/macys-new-york-billboard-reformation-ipo/826618/)
 
 
 
@@ -456,6 +396,42 @@ By Retail Dive Staff
 
 
 
+- [![a close up of a business person looking at a chart](https://imgproxy.divecdn.com/WnsMlu-07G-IV3XS1GcBIO3Vx0lB0eXUKrl-x_w4WBM/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTkyMzQ1MDgwLmpwZw==.webp)](https://www.retaildive.com/news/control-AI-costs-spending-harness/826526/)
+
+
+
+
+
+[1 in 4 dollars spent on AI goes to waste](https://www.retaildive.com/news/control-AI-costs-spending-harness/826526/)
+
+
+
+
+
+
+
+By Scarlett Evans
+
+
+
+- [![A close-up of a digital price tag.](https://imgproxy.divecdn.com/vagtaZJ7t8YtwWvd11WybzWNuOs2HQnmEloeiOr0i5Q/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbGVjdHJvbmljX3NoZWxmX2xhYmVsX3dhbG1hcnQuanBn.webp)](https://www.retaildive.com/news/new-jersey-bans-dynamic-pricing/826563/)
+
+
+
+
+
+[New Jersey bans dynamic pricing](https://www.retaildive.com/news/new-jersey-bans-dynamic-pricing/826563/)
+
+
+
+
+
+
+
+By Catherine Douglas Moran
+
+
+
 
 * * *
 
@@ -463,9 +439,11 @@ By Retail Dive Staff
 
 [![Informa TechTarget](https://www.retaildive.com/static/img/ITechTarget-Logo.png?313321260226)](https://www.informatechtarget.com/)
 
+
 This website is owned and operated by
 [Informa TechTarget](https://www.informatechtarget.com/),
 a global network that informs, influences and connects the world’s technology buyers and sellers.
+
 
 
 © 2025 TechTarget, Inc. or its subsidiaries. All rights reserved. An Informa PLC company.

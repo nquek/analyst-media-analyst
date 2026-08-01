@@ -131,42 +131,42 @@ _Don’t miss out on the latest Gap Inc. news! [Sign-up](https://www.gapinc.com/
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Gap Inc. Kicks Off AI-Led Effort to Modernize Marketing](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-kicks-off-ai-led-effort-to-modernize-marke)
+[Read more about Old Navy Surpasses Back-to-School Fundraising Goal for Boys & Girls Clubs, Raising $1.35 Million](https://www.gapinc.com/en-us/articles/2026/07/old-navy-surpasses-back-to-school-fundraising-goal)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
 
-### [Gap Inc. Kicks Off AI-Led Effort to Modernize Marketing](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-kicks-off-ai-led-effort-to-modernize-marke)
+### [Old Navy Surpasses Back-to-School Fundraising Goal for Boys & Girls Clubs, Raising $1.35 Million](https://www.gapinc.com/en-us/articles/2026/07/old-navy-surpasses-back-to-school-fundraising-goal)
 
-June 22, 2026
+July 29, 2026
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Gap Launches Limited-Edition Collection to Support Water.org's Get Blue™ Movement](https://www.gapinc.com/en-us/articles/2026/06/gap-launches-limited-edition-collection-to-support)
+[Read more about Gap Beauty Launches with a New Perspective on Its Most Iconic Scents](https://www.gapinc.com/en-us/articles/2026/07/gap-beauty-launches-with-a-new-perspective-on-its-)
 
 [Gap](https://www.gapinc.com/en-us/news/gap)
 
-### [Gap Launches Limited-Edition Collection to Support Water.org's Get Blue™ Movement](https://www.gapinc.com/en-us/articles/2026/06/gap-launches-limited-edition-collection-to-support)
+### [Gap Beauty Launches with a New Perspective on Its Most Iconic Scents](https://www.gapinc.com/en-us/articles/2026/07/gap-beauty-launches-with-a-new-perspective-on-its-)
 
-June 9, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Gap Inc. Releases 2025 Impact Report](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-releases-2025-impact-report)
-
-[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
-
-### [Gap Inc. Releases 2025 Impact Report](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-releases-2025-impact-report)
-
-June 4, 2026
+July 27, 2026
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Gap Inc. Reports First Quarter Fiscal 2026 Results, Raises Full Year Earnings Per Share Outlook](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-reports-first-quarter-fiscal-2026-results,)
+[Read more about Gap x Los Tacos No. 1 Drop Collab Through the Lens of NYC Taco Culture](https://www.gapinc.com/en-us/articles/2026/07/gap-x-los-tacos-no-1-drop-collab-through-the-lens-)
+
+[Gap](https://www.gapinc.com/en-us/news/gap)
+
+### [Gap x Los Tacos No. 1 Drop Collab Through the Lens of NYC Taco Culture](https://www.gapinc.com/en-us/articles/2026/07/gap-x-los-tacos-no-1-drop-collab-through-the-lens-)
+
+July 22, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
+[Read more about Gap Inc. Expands Cross-Brand Creator and Social Advocacy Program to Employees](https://www.gapinc.com/en-us/articles/2026/07/gap-inc-expands-cross-brand-creator-and-social-adv)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
 
-### [Gap Inc. Reports First Quarter Fiscal 2026 Results, Raises Full Year Earnings Per Share Outlook](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-reports-first-quarter-fiscal-2026-results,)
+### [Gap Inc. Expands Cross-Brand Creator and Social Advocacy Program to Employees](https://www.gapinc.com/en-us/articles/2026/07/gap-inc-expands-cross-brand-creator-and-social-adv)
 
-May 28, 2026
+July 22, 2026
 
 [Back to top](https://www.gapinc.com/en-us/articles/2024/05/gap-inc-reports-first-quarter-fiscal-2024-results#page-top)

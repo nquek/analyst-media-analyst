@@ -46,6 +46,26 @@ _Don’t miss out on the latest Gap Inc. news! [Sign-up](https://www.gapinc.com/
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
+[Read more about Old Navy Surpasses Back-to-School Fundraising Goal for Boys & Girls Clubs, Raising $1.35 Million](https://www.gapinc.com/en-us/articles/2026/07/old-navy-surpasses-back-to-school-fundraising-goal)
+
+[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
+
+### [Old Navy Surpasses Back-to-School Fundraising Goal for Boys & Girls Clubs, Raising $1.35 Million](https://www.gapinc.com/en-us/articles/2026/07/old-navy-surpasses-back-to-school-fundraising-goal)
+
+July 29, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
+[Read more about Gap Inc. Expands Cross-Brand Creator and Social Advocacy Program to Employees](https://www.gapinc.com/en-us/articles/2026/07/gap-inc-expands-cross-brand-creator-and-social-adv)
+
+[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
+
+### [Gap Inc. Expands Cross-Brand Creator and Social Advocacy Program to Employees](https://www.gapinc.com/en-us/articles/2026/07/gap-inc-expands-cross-brand-creator-and-social-adv)
+
+July 22, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
 [Read more about Gap Inc. Releases 2025 Impact Report](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-releases-2025-impact-report)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
@@ -63,25 +83,5 @@ June 4, 2026
 ### [Gap Inc. Reports First Quarter Fiscal 2026 Results, Raises Full Year Earnings Per Share Outlook](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-reports-first-quarter-fiscal-2026-results,)
 
 May 28, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Gap Inc. Appoints Donald Kohler as Banana Republic President and Chief Executive Officer](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-appoints-donald-kohler-as-banana-republic-)
-
-[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
-
-### [Gap Inc. Appoints Donald Kohler as Banana Republic President and Chief Executive Officer](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-appoints-donald-kohler-as-banana-republic-)
-
-May 19, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Gap Inc. Names Lourdes Arocho SVP, Head of Licensing](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-names-lourdes-arocho-svp,-head-of-licensin)
-
-[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
-
-### [Gap Inc. Names Lourdes Arocho SVP, Head of Licensing](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-names-lourdes-arocho-svp,-head-of-licensin)
-
-May 14, 2026
 
 [Back to top](https://www.gapinc.com/en-us/articles/2024/05/evolving-media-marketing-at-gap-inc#page-top)
