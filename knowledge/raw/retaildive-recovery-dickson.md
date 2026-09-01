@@ -162,19 +162,19 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 ### Editors’ picks
 
-- [![Heidi O'Neill sits on a bench in front of a pale wood wall.](https://imgproxy.divecdn.com/gi-OV6AuhnVrpA2_pV6gk46FIoyOX2iSwto3GrcGjLU/g:nowe:0:724/c:2133:1205/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9sdWx1bGVtb25fSGVpZGlfT05laWxsXzA0XzIyXzI2LmpwZw==.webp)](https://www.retaildive.com/news/defense-lululemon-ceo-heidi-oneill/819101/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![People walking past a clothing store. A tree in front of the main entrance.](https://imgproxy.divecdn.com/goNyZqhbah8wUFassbsYI1UCbZuWp4KSDF2vkn_cxNs/g:nowe:0:379/c:1010:570/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjY5OC5qcGVn.webp)](https://www.retaildive.com/news/distressed-retailers-vulnerable-could-file-bankruptcy-2026/810234/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-Courtesy of Lululemon
+Daphne Howland/Retail Dive
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-### [Is Heidi O’Neill exactly what Lululemon needs?](https://www.retaildive.com/news/defense-lululemon-ceo-heidi-oneill/819101/)
+### [As 2026 kicks off, these retailers are vulnerable to bankruptcy](https://www.retaildive.com/news/distressed-retailers-vulnerable-could-file-bankruptcy-2026/810234/)
 
 
 
-Negative opinions have proliferated since she was named to the top spot, but analysts say critiques are overblown.
+As the industry enters another year marked by tariffs and falling consumer sentiment, retailers including J. Crew and Guitar Center face risks.
 
 
 
@@ -190,9 +190,9 @@ By Cara Salpini •
 
 
 
-May 12, 2026
+Feb. 17, 2026
 
-- [![An illustration of a person hanging onto a coin in rough seas.](https://imgproxy.divecdn.com/plibbgyrAxx0V2tx2DsfgHAuxpZU3TDB7jy78vBrvM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iYW5rcnVwdGN5dHJhY2tlcl9WMl9yZXRhaWxkaXZlLnBuZw==.webp)](https://www.retaildive.com/news/running-list-major-retail-bankruptcies/624502/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![](https://imgproxy.divecdn.com/sR3iLUYR7qWoU2S6xFS10blVO018MCapuHg9lONw81g/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9kZWFscy1oZWFkZXIucG5n.webp)](https://www.retaildive.com/news/running-list-major-retail-deals-acquisitions-ipos-2026/824389/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 Adeline Kon/Retail Dive
 
@@ -204,11 +204,11 @@ Tracker
 
 
 
-### [The running list of major retail bankruptcies](https://www.retaildive.com/news/running-list-major-retail-bankruptcies/624502/)
+### [The running list of retail deals in 2026](https://www.retaildive.com/news/running-list-major-retail-deals-acquisitions-ipos-2026/824389/)
 
 
 
-Bankruptcy filings have continued in recent months, including from QVC Group and Sleep Number.
+In the first half of the year, Etsy sold Depop, Reformation filed for an IPO and Bed Bath & Beyond made a slew of acquisitions.
 
 
 
@@ -224,12 +224,7 @@ By Retail Dive Staff •
 
 
 
-
-
-
-
-Updated July 10, 2026
-
+July 8, 2026
 
 
 ### Retail Dive news delivered to your inbox
@@ -259,89 +254,53 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 \| [Post a press release](https://www.retaildive.com/press-release/get-started/)
 
-[Doba Outlines Its Approach to Dropshipping Supplier Evaluation\\
+[Purple Drop Wins a 2026 Shelfie Award as America Falls for Peru’s Chicha Morada\\
 \\
 \\
-From Doba, Inc\\
+From Purple Drop\\
 \\
-July 31, 2026\\
+August 26, 2026\\
 \\
-![Doba, Inc logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1785492383/press_release/assets/company_logos/logo_01_qn2uc6.png)](https://www.retaildive.com/press-release/20260731-doba-outlines-its-approach-to-dropshipping-supplier-evaluation-1/) [New Benchmark Report by Interface Systems Reveals What Really Drives Restaurant Security Incid…\\
-\\
-\\
-From Interface Systems\\
-\\
-July 23, 2026](https://www.retaildive.com/press-release/20260723-new-benchmark-report-by-interface-systems-reveals-what-really-drives-restau/) [Omni Channel Solutions Launches OMNI 360, an AI Visibility Framework That Helps Brands Measure…\\
+![Purple Drop logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1787757863/press_release/assets/company_logos/Purple_Drop_logo_250_x_250_px_asleo5.png)](https://www.retaildive.com/press-release/20260826-purple-drop-wins-a-2026-shelfie-award-as-america-falls-for-perus-chicha-mo-1/) [Bridge Launches $500M Direct Lending Fund to Finance Suppliers of America’s Largest Retailers\\
 \\
 \\
-From Omni Channel Solutions\\
+From Bridge\\
 \\
-July 22, 2026\\
+August 26, 2026\\
 \\
-![Omni Channel Solutions logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1784722659/press_release/assets/company_logos/280609406_533215071862804_6899702938430673036_n_1_uajdlv.jpg)](https://www.retaildive.com/press-release/20260722-omni-channel-solutions-launches-omni-360-an-ai-visibility-framework-that-h/) [iCart Founder Says Shopify Merchants Are Shifting Focus From Traffic Growth to Cart Revenue Op…\\
+![Bridge logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1787746893/press_release/assets/company_logos/Dark_Icon_shjjks.png)](https://www.retaildive.com/press-release/20260826-bridge-launches-500m-direct-lending-fund-to-finance-suppliers-of-americas/) [Seel Launches 1-click Resale, an Industry First, for Shoppers to Get Value out of Purchases th…\\
 \\
 \\
-From Identixweb Limited\\
+From Seel\\
 \\
-July 14, 2026\\
+August 19, 2026\\
 \\
-![Identixweb Limited logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1784029531/press_release/assets/company_logos/iCart_App_Logo_ruvidi.png)](https://www.retaildive.com/press-release/20260714-icart-founder-says-shopify-merchants-are-shifting-focus-from-traffic-growth/)
+![Seel logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1787165670/press_release/assets/company_logos/Seel_Logo_n1iqoo.jpg)](https://www.retaildive.com/press-release/20260819-seel-launches-1-click-resale-an-industry-first-for-shoppers-to-get-value-1/) [ZonPrep Ranks No. 225 on Inc. 5000, Launches Dedicated FBA Consolidation Center\\
+\\
+\\
+From ZonPrep\\
+\\
+August 11, 2026\\
+\\
+![ZonPrep logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1786454465/press_release/assets/company_logos/zonprep-logo-square-transparent_fn2p25.png)](https://www.retaildive.com/press-release/20260811-zonprep-ranks-no-225-on-inc-5000-launches-dedicated-fba-consolidation-ce/)
 
 
 Editors’ picks
 
 
-- [![A display of three pairs of shoes.](https://imgproxy.divecdn.com/65Cvpo3mMrSqweGjdrwPdjIZQP-ZnJL8VpLu3zJnwJc/g:nowe:0:244/c:1280:723/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xX1NpbjNrZFQuanBlZw==.webp)](https://www.retaildive.com/news/allbirds-downfall-sale-newbird-ai-pivot-eating-crow/817828/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+- [![People walking past a clothing store. A tree in front of the main entrance.](https://imgproxy.divecdn.com/goNyZqhbah8wUFassbsYI1UCbZuWp4KSDF2vkn_cxNs/g:nowe:0:379/c:1010:570/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjY5OC5qcGVn.webp)](https://www.retaildive.com/news/distressed-retailers-vulnerable-could-file-bankruptcy-2026/810234/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
-Courtesy of Allbirds
-
-![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [Why Allbirds is eating crow](https://www.retaildive.com/news/allbirds-downfall-sale-newbird-ai-pivot-eating-crow/817828/)
-
-
-
-The DTC footwear brand may have overestimated its customers’ appreciation for sustainability, and underappreciated their desire for fashion.
-
-
-
-
-
-
-
-By Daphne Howland •
-
-
-
-
-
-
-
-April 20, 2026
-
-- [![A Saks store in Chicago.](https://imgproxy.divecdn.com/m_tdbaei6Da6uxMz3hxmC37pqvzCoFPwTyIUHVTzZQ0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TYWtzX3N0b3JlZnJvbnQuanBn.webp)](https://www.retaildive.com/news/saks-global-exits-chapter-11-as-exemplar-luxury-group-here-are-5-other-t/822555/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
-
-Kaarin Moore/Retail Dive
+Daphne Howland/Retail Dive
 
 ![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
 
 
 
-### [Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way](https://www.retaildive.com/news/saks-global-exits-chapter-11-as-exemplar-luxury-group-here-are-5-other-t/822555/)
+### [As 2026 kicks off, these retailers are vulnerable to bankruptcy](https://www.retaildive.com/news/distressed-retailers-vulnerable-could-file-bankruptcy-2026/810234/)
 
 
 
-The luxury retailer is starting over with a new name and fewer burdens, including less debt and a smaller footprint.
-
-
-
-
-
-
-
-By Daphne Howland •
+As the industry enters another year marked by tariffs and falling consumer sentiment, retailers including J. Crew and Guitar Center face risks.
 
 
 
@@ -349,42 +308,61 @@ By Daphne Howland •
 
 
 
+By Cara Salpini •
 
 
 
 
-Updated July 2, 2026
 
+
+
+Feb. 17, 2026
+
+- [![](https://imgproxy.divecdn.com/sR3iLUYR7qWoU2S6xFS10blVO018MCapuHg9lONw81g/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9kZWFscy1oZWFkZXIucG5n.webp)](https://www.retaildive.com/news/running-list-major-retail-deals-acquisitions-ipos-2026/824389/)![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+Adeline Kon/Retail Dive
+
+![Image attribution tooltip](https://www.retaildive.com/static/images/info-icon.png?234917240220)
+
+
+
+Tracker
+
+
+
+### [The running list of retail deals in 2026](https://www.retaildive.com/news/running-list-major-retail-deals-acquisitions-ipos-2026/824389/)
+
+
+
+In the first half of the year, Etsy sold Depop, Reformation filed for an IPO and Bed Bath & Beyond made a slew of acquisitions.
+
+
+
+
+
+
+
+By Retail Dive Staff •
+
+
+
+
+
+
+
+July 8, 2026
 
 
 Latest in Operations
 
 
-- [![Products locked up at a Target in Washington, D.C.](https://imgproxy.divecdn.com/NJYBGB25PXFZ-M4I4b4XDehCMGgSTRihN68gofABK2Q/g:nowe:5:106/c:584:330/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Mb3NzX3ByZXZlbnRpb25fVGFyZ2V0LmpwZw==.webp)](https://www.retaildive.com/news/nrf-shoplifting-stabilizing-online-gift-card-fraud-grows/826710/)
+- [![A rental brand's fulfillment center with a racks of clothes.](https://imgproxy.divecdn.com/nzVjdmWSVAL7Uma8_j7N5ER1mrsG_gKI0VSdq38bqMo/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OLTQ1MTEuanBn.webp)](https://www.retaildive.com/news/nuuly-rental-urban-outfitters-second-quarter-earnings/829128/)
 
 
 
 
 
-[NRF finds shoplifting stabilizing as online fraud grows](https://www.retaildive.com/news/nrf-shoplifting-stabilizing-online-gift-card-fraud-grows/826710/)
-
-
-
-
-
-
-
-By Daphne Howland
-
-
-
-- [![People walking by stores and crossing the street in a city, with a small red car in a wide crosswalk.](https://imgproxy.divecdn.com/8JPzxZgEcYQQFT35FD8PTMc1_STWgroQ1FSoGeuPOYM/g:nowe:0:180/c:1280:723/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjM3My5qcGVn.webp)](https://www.retaildive.com/news/macys-new-york-billboard-reformation-ipo/826618/)
-
-
-
-
-
-[The Weekly Closeout: Macy’s disappearing billboard and Reformation’s IPO](https://www.retaildive.com/news/macys-new-york-billboard-reformation-ipo/826618/)
+[Nuuly drives Urban Outfitters’ record second-quarter revenue](https://www.retaildive.com/news/nuuly-rental-urban-outfitters-second-quarter-earnings/829128/)
 
 
 
@@ -392,35 +370,17 @@ By Daphne Howland
 
 
 
-By Retail Dive Staff
+By Lara Ewen
 
 
 
-- [![a close up of a business person looking at a chart](https://imgproxy.divecdn.com/WnsMlu-07G-IV3XS1GcBIO3Vx0lB0eXUKrl-x_w4WBM/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTkyMzQ1MDgwLmpwZw==.webp)](https://www.retaildive.com/news/control-AI-costs-spending-harness/826526/)
-
-
-
-
-
-[1 in 4 dollars spent on AI goes to waste](https://www.retaildive.com/news/control-AI-costs-spending-harness/826526/)
+- [![A Macy's storefront](https://imgproxy.divecdn.com/2j6iehAT5S_hLqpDskMXO0Rnm2OSoDpshfHG5PZ5_JU/g:nowe:802:191/c:4094:2313/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tYWN5c0RDaGVjaHQtMS5qcGc=.webp)](https://www.retaildive.com/news/macys-senior-vice-president-of-creative-production-maya-dukes/829130/)
 
 
 
 
 
-
-
-By Scarlett Evans
-
-
-
-- [![A close-up of a digital price tag.](https://imgproxy.divecdn.com/vagtaZJ7t8YtwWvd11WybzWNuOs2HQnmEloeiOr0i5Q/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbGVjdHJvbmljX3NoZWxmX2xhYmVsX3dhbG1hcnQuanBn.webp)](https://www.retaildive.com/news/new-jersey-bans-dynamic-pricing/826563/)
-
-
-
-
-
-[New Jersey bans dynamic pricing](https://www.retaildive.com/news/new-jersey-bans-dynamic-pricing/826563/)
+[Macy’s names senior vice president of creative, production](https://www.retaildive.com/news/macys-senior-vice-president-of-creative-production-maya-dukes/829130/)
 
 
 
@@ -428,7 +388,43 @@ By Scarlett Evans
 
 
 
-By Catherine Douglas Moran
+By Tatiana Walk-Morris
+
+
+
+- [![The exterior of Bed Bath & Beyond's co-branded concept with The Container Store](https://imgproxy.divecdn.com/FG3zpc2E4Aw2tUBnNz5JmWjWcZx3cRPVVm50oWd_9Ek/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNV9NQVlfTUIzX1RDU19GVF9XT1JUSDc2MDIuanBn.webp)](https://www.retaildive.com/news/bed-bath-beyond-turnaround-ambitions-transcend-home-retail/828492/)
+
+
+
+
+
+[Inside Bed Bath & Beyond’s ambitions to transcend retail](https://www.retaildive.com/news/bed-bath-beyond-turnaround-ambitions-transcend-home-retail/828492/)
+
+
+
+
+
+
+
+By Caroline Jansen and Julia Himmel
+
+
+
+- [![U.S. Postal Service workers scan parcels at the Los Angeles Processing and Distribution Center on December 11, 2019 in Los Angeles, California.](https://imgproxy.divecdn.com/cXhMFfrmIcXLLgnZTRYV3BUVCA_97Gz8qVCtmUUeKu0/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg3OTgzMzI2LmpwZw==.webp)](https://www.retaildive.com/news/usps-increase-2026-peak-season-holidays/828858/)
+
+
+
+
+
+[USPS announces 6% rate increase for 2026 peak season](https://www.retaildive.com/news/usps-increase-2026-peak-season-holidays/828858/)
+
+
+
+
+
+
+
+By Max Garland
 
 
 

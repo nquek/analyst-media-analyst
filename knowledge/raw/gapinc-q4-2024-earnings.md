@@ -149,42 +149,42 @@ _Don’t miss out on the latest Gap Inc. news! [Sign-up](https://www.gapinc.com/
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Old Navy Surpasses Back-to-School Fundraising Goal for Boys & Girls Clubs, Raising $1.35 Million](https://www.gapinc.com/en-us/articles/2026/07/old-navy-surpasses-back-to-school-fundraising-goal)
-
-[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
-
-### [Old Navy Surpasses Back-to-School Fundraising Goal for Boys & Girls Clubs, Raising $1.35 Million](https://www.gapinc.com/en-us/articles/2026/07/old-navy-surpasses-back-to-school-fundraising-goal)
-
-July 29, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Gap Beauty Launches with a New Perspective on Its Most Iconic Scents](https://www.gapinc.com/en-us/articles/2026/07/gap-beauty-launches-with-a-new-perspective-on-its-)
+[Read more about GapStudio Introduces Fall 2026, A Study in American Utility and Proportion](https://www.gapinc.com/en-us/articles/2026/08/gapstudio-introduces-fall-2026,-a-study-in-america)
 
 [Gap](https://www.gapinc.com/en-us/news/gap)
 
-### [Gap Beauty Launches with a New Perspective on Its Most Iconic Scents](https://www.gapinc.com/en-us/articles/2026/07/gap-beauty-launches-with-a-new-perspective-on-its-)
+### [GapStudio Introduces Fall 2026, A Study in American Utility and Proportion](https://www.gapinc.com/en-us/articles/2026/08/gapstudio-introduces-fall-2026,-a-study-in-america)
 
-July 27, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Gap x Los Tacos No. 1 Drop Collab Through the Lens of NYC Taco Culture](https://www.gapinc.com/en-us/articles/2026/07/gap-x-los-tacos-no-1-drop-collab-through-the-lens-)
-
-[Gap](https://www.gapinc.com/en-us/news/gap)
-
-### [Gap x Los Tacos No. 1 Drop Collab Through the Lens of NYC Taco Culture](https://www.gapinc.com/en-us/articles/2026/07/gap-x-los-tacos-no-1-drop-collab-through-the-lens-)
-
-July 22, 2026
+August 28, 2026
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Gap Inc. Expands Cross-Brand Creator and Social Advocacy Program to Employees](https://www.gapinc.com/en-us/articles/2026/07/gap-inc-expands-cross-brand-creator-and-social-adv)
+[Read more about Gap Inc. Reports Second Quarter Fiscal 2026 Results](https://www.gapinc.com/en-us/articles/2026/08/gap-inc-reports-second-quarter-fiscal-2026-results)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
 
-### [Gap Inc. Expands Cross-Brand Creator and Social Advocacy Program to Employees](https://www.gapinc.com/en-us/articles/2026/07/gap-inc-expands-cross-brand-creator-and-social-adv)
+### [Gap Inc. Reports Second Quarter Fiscal 2026 Results](https://www.gapinc.com/en-us/articles/2026/08/gap-inc-reports-second-quarter-fiscal-2026-results)
 
-July 22, 2026
+August 27, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
+[Read more about Gap Inc. Announces Leadership Transition at Old Navy](https://www.gapinc.com/en-us/articles/2026/08/gap-inc-announces-leadership-transition-at-old-nav)
+
+[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
+
+### [Gap Inc. Announces Leadership Transition at Old Navy](https://www.gapinc.com/en-us/articles/2026/08/gap-inc-announces-leadership-transition-at-old-nav)
+
+August 27, 2026
+
+[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
+
+[Read more about Old Navy Beauty Co. Launches Nationwide and Online, Your New Destination to Complete Your Look](https://www.gapinc.com/en-us/articles/2026/08/old-navy-beauty-co-launches-nationwide-and-online,)
+
+[Old Navy](https://www.gapinc.com/en-us/news/old-navy)
+
+### [Old Navy Beauty Co. Launches Nationwide and Online, Your New Destination to Complete Your Look](https://www.gapinc.com/en-us/articles/2026/08/old-navy-beauty-co-launches-nationwide-and-online,)
+
+August 26, 2026
 
 [Back to top](https://www.gapinc.com/en-us/articles/2025/03/gap-inc-reports-fourth-quarter-and-fiscal-2024-res#page-top)

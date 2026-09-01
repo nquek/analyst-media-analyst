@@ -46,42 +46,42 @@ _Don’t miss out on the latest Gap Inc. news! [Sign-up](https://www.gapinc.com/
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Old Navy Surpasses Back-to-School Fundraising Goal for Boys & Girls Clubs, Raising $1.35 Million](https://www.gapinc.com/en-us/articles/2026/07/old-navy-surpasses-back-to-school-fundraising-goal)
+[Read more about Gap Inc. Reports Second Quarter Fiscal 2026 Results](https://www.gapinc.com/en-us/articles/2026/08/gap-inc-reports-second-quarter-fiscal-2026-results)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
 
-### [Old Navy Surpasses Back-to-School Fundraising Goal for Boys & Girls Clubs, Raising $1.35 Million](https://www.gapinc.com/en-us/articles/2026/07/old-navy-surpasses-back-to-school-fundraising-goal)
+### [Gap Inc. Reports Second Quarter Fiscal 2026 Results](https://www.gapinc.com/en-us/articles/2026/08/gap-inc-reports-second-quarter-fiscal-2026-results)
 
-July 29, 2026
+August 27, 2026
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Gap Inc. Expands Cross-Brand Creator and Social Advocacy Program to Employees](https://www.gapinc.com/en-us/articles/2026/07/gap-inc-expands-cross-brand-creator-and-social-adv)
+[Read more about Gap Inc. Announces Leadership Transition at Old Navy](https://www.gapinc.com/en-us/articles/2026/08/gap-inc-announces-leadership-transition-at-old-nav)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
 
-### [Gap Inc. Expands Cross-Brand Creator and Social Advocacy Program to Employees](https://www.gapinc.com/en-us/articles/2026/07/gap-inc-expands-cross-brand-creator-and-social-adv)
+### [Gap Inc. Announces Leadership Transition at Old Navy](https://www.gapinc.com/en-us/articles/2026/08/gap-inc-announces-leadership-transition-at-old-nav)
 
-July 22, 2026
+August 27, 2026
 
 [Press Release](https://www.gapinc.com/en-us/news/pressrelease)
 
-[Read more about Gap Inc. Releases 2025 Impact Report](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-releases-2025-impact-report)
+[Read more about Gap and Gap Factory Land on DoorDash Just in Time for First-Day Fits](https://www.gapinc.com/en-us/articles/2026/08/gap-and-gap-factory-land-on-doordash-just-in-time-)
+
+[Gap](https://www.gapinc.com/en-us/news/gap)
+
+### [Gap and Gap Factory Land on DoorDash Just in Time for First-Day Fits](https://www.gapinc.com/en-us/articles/2026/08/gap-and-gap-factory-land-on-doordash-just-in-time-)
+
+August 18, 2026
+
+[Company](https://www.gapinc.com/en-us/news/company)
+
+[Read more about Gap Inc. and Iconic Brands Nordic LLC Announce Strategic Partnership to Expand Across the Nordic and Baltic Markets](https://www.gapinc.com/en-us/articles/2026/08/gap-inc-and-iconic-brands-nordic-llc-announce-stra)
 
 [Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
 
-### [Gap Inc. Releases 2025 Impact Report](https://www.gapinc.com/en-us/articles/2026/06/gap-inc-releases-2025-impact-report)
+### [Gap Inc. and Iconic Brands Nordic LLC Announce Strategic Partnership to Expand Across the Nordic and Baltic Markets](https://www.gapinc.com/en-us/articles/2026/08/gap-inc-and-iconic-brands-nordic-llc-announce-stra)
 
-June 4, 2026
-
-[Press Release](https://www.gapinc.com/en-us/news/pressrelease)
-
-[Read more about Gap Inc. Reports First Quarter Fiscal 2026 Results, Raises Full Year Earnings Per Share Outlook](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-reports-first-quarter-fiscal-2026-results,)
-
-[Gap Inc.](https://www.gapinc.com/en-us/news/gap-inc)
-
-### [Gap Inc. Reports First Quarter Fiscal 2026 Results, Raises Full Year Earnings Per Share Outlook](https://www.gapinc.com/en-us/articles/2026/05/gap-inc-reports-first-quarter-fiscal-2026-results,)
-
-May 28, 2026
+August 17, 2026
 
 [Back to top](https://www.gapinc.com/en-us/articles/2024/05/evolving-media-marketing-at-gap-inc#page-top)
